@@ -1,0 +1,42 @@
+# .github/workflows/preprocess_data.yml
+
+name: Pre-process Pokérole Data
+
+on:
+  # Run this workflow every day at 3 AM UTC. This ensures data stays fresh.
+  schedule:
+    - cron: '0 3 * * *'
+  # Allows you to run this workflow manually from the Actions tab in GitHub
+  workflow_dispatch:
+
+jobs:
+  preprocess:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the workflow permission to read repo contents and write new commits
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run pre-processing script
+        run: node ./scripts/preprocess.js
+        env:
+          # This token is automatically created by GitHub and is used by the script
+          # to make authenticated API requests, giving you a higher rate limit.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if data changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: Update pre-processed Pokémon data'
+          # Tell the action to only look for changes in this specific directory
+          file_pattern: 'public/data/*.json'
+          commit_user_name: 'GitHub Actions Bot'
+          commit_user_email: 'actions@github.com'
+          commit_author: 'GitHub Actions Bot <actions@github.com>'
