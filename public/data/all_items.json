@@ -1,0 +1,828 @@
+{
+  "items": {
+    "trainer_gear": [
+      {
+        "name": "Big Camping Tent",
+        "price": 2500.00,
+        "description": "A spacious tent for your group to stay a cozy night. Sprayed with Wild Pokémon repellent substances.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/key-item/camping-gear.png"
+      },
+      {
+        "name": "Small Camping Tent",
+        "price": 800.00,
+        "description": "A comfortable space for 1 person, or 2 if you don't mind squeezing.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/key-item/camping-gear.png"
+      },
+      {
+        "name": "Sleeping Bag",
+        "price": 500.00,
+        "description": "Not too comfortable. You'll be able to sleep warm and dry but after a few nights your back may hurt.",
+        "usable_in_battle": false,
+        "image": null
+      },
+      {
+        "name": "Camping Stove & Cookware",
+        "price": 2000.00,
+        "description": "Forget about hunting and eating roots like a savage. With this luxury set you'll always have a warm meal.",
+        "usable_in_battle": false,
+        "image": null
+      },
+      {
+        "name": "Canned Meal",
+        "price": 15.00,
+        "description": "It's nothing fancy but there's no need to travel on an empty stomach. One can is enough for one day.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/curry-ingredient/bobs-food-tin.png"
+      },
+      {
+        "name": "Regional Map",
+        "price": 50.00,
+        "description": "A map with the marked routes, cities and Pokémon Centers of the region you are in.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/key-item/town-map.png"
+      },
+      {
+        "name": "Compass",
+        "price": 100.00,
+        "description": "A useful compass to point you in the right direction. Warning: Keep away from magnets.",
+        "usable_in_battle": false,
+        "image": null
+      },
+      {
+        "name": "Pokédex",
+        "price": 5000.00,
+        "description": "A digital encyclopedia with basic information about regional Pokémon. You may add your own research.",
+        "usable_in_battle": false,
+        "image": null
+      },
+      {
+        "name": "Pokédex Upgrade",
+        "price": 2500.00,
+        "description": "Upgrade your Pokédex with the information of the Pokémon on a new region.",
+        "usable_in_battle": false,
+        "image": null
+      }
+    ],
+    "traveling_items": [
+      {
+        "name": "Mountain Bike",
+        "price": 1500.00,
+        "description": "You will travel twice as fast with this awesome all-terrain. Now at an insane price!",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/key-item/bicycle.png"
+      },
+      {
+        "name": "Inflatable Boat",
+        "price": 1000.00,
+        "description": "A small boat for a single person. Your Pokémon may pull you through the water or you can use the rows.",
+        "usable_in_battle": false,
+        "image": null
+      },
+      {
+        "name": "Fishing Rod",
+        "price": 300.00,
+        "description": "A fishing rod to catch Pokémon living underwater. Somedays they just won't bite, though.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/key-item/fishing-rod.png"
+      },
+      {
+        "name": "Saddle",
+        "price": 500.00,
+        "description": "Strap this on and you'll never worry about falling from your Pokémon again.",
+        "usable_in_battle": false,
+        "image": null
+      },
+      {
+        "name": "Sled",
+        "price": 400.00,
+        "description": "Your Pokémon can pull you around through snow, sand or any smooth surface. It's super fun!",
+        "usable_in_battle": false,
+        "image": null
+      }
+    ],
+    "protection_items": [
+      {
+        "name": "Pokédolls",
+        "price": 1000.00,
+        "description": "Life-size decoy used to escape wild Pokémon. Some people like to collect them.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/other-item/poke-doll.png"
+      },
+      {
+        "name": "Pokémon Repel",
+        "price": 350.00,
+        "description": "Most Pokémon won't come near to you for a whole day. The smell is now machine-washable.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/other-item/repel.png"
+      },
+      {
+        "name": "Pepper Spray Can",
+        "price": 50.00,
+        "description": "Scares away small Pokémon, but it may enrage the bigger ones. Good for 5 uses.",
+        "usable_in_battle": true,
+        "image": null
+      }
+    ],
+    "healing_items": {
+      "potions": [
+        {
+          "name": "Potion",
+          "price": 400.00,
+          "effect": "Heals 2 units of damage.",
+          "description": "A pocket sized spray potion to relieve the pain and heal bruises.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/potion.png"
+        },
+        {
+          "name": "Super Potion",
+          "price": 700.00,
+          "effect": "Heals 4 units of damage.",
+          "description": "A regular can of concentrated formula spray. This potion can close open wounds and even heal a cracked bone.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/super-potion.png"
+        },
+        {
+          "name": "Hyper Potion",
+          "price": 1200.00,
+          "effect": "Heals 14 units of damage.",
+          "description": "Best value pack. It can be rationed for smaller injuries on the team, or used all at once on a serious wound.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/hyper-potion.png"
+        },
+        {
+          "name": "Max Potion",
+          "price": 1700.00,
+          "effect": "Recovers full HP.",
+          "description": "A single-use capsule of formula. The Pokémon won't be able to restore health further until the next day.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/max-potion.png"
+        },
+        {
+          "name": "Full Restore",
+          "price": 2000.00,
+          "effect": "Recovers full HP and heals all status conditions.",
+          "description": "A single-use capsule of deluxe formula. The Pokémon won't be able to restore health further until the next day.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/full-restore.png"
+        }
+      ],
+      "status_heals": [
+        {
+          "name": "Antidote",
+          "price": 100.00,
+          "effect": "Heals Poison and Poison+.",
+          "description": "A shot that quickly reduces the fever and relieves the pain.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/antidote.png"
+        },
+        {
+          "name": "Awakening",
+          "price": 250.00,
+          "effect": "Heals Sleep.",
+          "description": "Sprays a water-based solution to awake a drowsy Pokémon.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/awakening.png"
+        },
+        {
+          "name": "Burn Heal",
+          "price": 250.00,
+          "effect": "Heals Burn 1, Burn 2, and Burn 3.",
+          "description": "A powder that douses the fire and aids in the healing of the burnt area.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/burn-heal.png"
+        },
+        {
+          "name": "Ice Heal",
+          "price": 250.00,
+          "effect": "Heals Frozen Solid.",
+          "description": "Recovers the normal temperature of the Pokémon and heals frost biting.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/ice-heal.png"
+        },
+        {
+          "name": "Paralyze Heal",
+          "price": 200.00,
+          "effect": "Heals Paralysis.",
+          "description": "This ointment relaxes the muscles and stops the cramping.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/paralyze-heal.png"
+        },
+        {
+          "name": "Full Heal",
+          "price": 600.00,
+          "effect": "Heals all status ailments.",
+          "description": "A superior spray formula that can heal any status problem in a second.",
+          "usable_in_battle": true,
+          "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/full-heal.png"
+        }
+      ]
+    },
+    "berries": [
+      {
+        "name": "Aspear Berry",
+        "rarity": "RARE",
+        "effect": "Heals Frozen Solid.",
+        "description": "This sour berry shakes the body and rises its temperature, thawing any ice surrounding it.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/berry/aspear.png"
+      },
+      {
+        "name": "Cheri Berry",
+        "rarity": "UNCOMMON",
+        "effect": "Heals Paralysis.",
+        "description": "Its spicy flavor reinvigorates the muscles and stops the cramping.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/berry/cheri.png"
+      },
+      {
+        "name": "Chesto Berry",
+        "rarity": "COMMON",
+        "effect": "Heals Sleep.",
+        "description": "It is difficult to eat, so tough and dry that it will heal the drowsiness.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/berry/chesto.png"
+      },
+      {
+        "name": "Oran Berry",
+        "rarity": "UNCOMMON",
+        "effect": "Heals 1 Damage.",
+        "description": "A delicious citric berry that numbs pain away.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/berry/oran.png"
+      },
+      {
+        "name": "Pecha Berry",
+        "rarity": "UNCOMMON",
+        "effect": "Heals Poison.",
+        "description": "This berry's sweet pulp will absorb simple poison out of the bloodstream.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/berry/pecha.png"
+      },
+      {
+        "name": "Persim Berry",
+        "rarity": "COMMON",
+        "effect": "Heals Confusion.",
+        "description": "A strong flavored berry to snap out of confusion.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/berry/persim.png"
+      },
+      {
+        "name": "Rawst berry",
+        "rarity": "UNCOMMON",
+        "effect": "Heals Burn 1 and Burn 2.",
+        "description": "Its liquid pulp is ideal to stop fire from spreading and numbs the pain on the area, it is quite bitter, though.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/berry/rawst.png"
+      },
+      {
+        "name": "Sitrus Berry",
+        "rarity": "RARE",
+        "effect": "Heals 3 Damage or 1 Lethal Damage.",
+        "description": "A bigger and sweeter berry from the Oran family but scarcer in the wild.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/berry/sitrus.png"
+      },
+      {
+        "name": "Lum Berry",
+        "rarity": "RARE",
+        "effect": "Heals all status ailments.",
+        "description": "This berry is said to cure everything, it is however very rare to find.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/berry/lum.png"
+      }
+    ],
+    "herbal_medicine": [
+      {
+        "name": "Energy Root",
+        "price": 800.00,
+        "effect": "Heals equivalent to 14 units of Potion.",
+        "description": "A nasty tasting root with mystical properties that can be eaten whole or turned into up to 4 batches of powder if you know how to do it.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/energy-root.png"
+      },
+      {
+        "name": "Energy Powder",
+        "price": 450.00,
+        "effect": "Heals equivalent to 4 units of Potion.",
+        "description": "This powder leaves a horrid aftertaste, but at least it stops the pain.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/energy-powder.png"
+      },
+      {
+        "name": "Heal Powder",
+        "price": 500.00,
+        "effect": "Heals any status ailment.",
+        "description": "A mix of the most foul looking herbs you can find can make this cure-all powder.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/heal-powder.png"
+      },
+      {
+        "name": "Revival Herb",
+        "price": 2800.00,
+        "effect": "Recovers full HP and restores awareness (revives a fainted Pokémon).",
+        "description": "It may be its magical properties or just its awful flavor, but this herb will get you back into consciousness numbing all the pain away. Extremely rare to find.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/revival-herb.png"
+      }
+    ],
+    "revives": [
+      {
+        "name": "Revive",
+        "price": 1500.00,
+        "effect": "Recovers 1 HP and restores awareness (revives a fainted Pokémon).",
+        "description": "A small energy shard that brings a fainted Human or Pokémon back into conciousness and stabilizes their wounds.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/revive.png"
+      },
+      {
+        "name": "Max Revive",
+        "price": null,
+        "effect": "Recovers full HP and restores awareness (revives a fainted Pokémon).",
+        "description": "A bigger shard that is not available to the public.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/max-revive.png"
+      }
+    ],
+    "energetic_drinks": [
+      {
+        "name": "Berry Juice",
+        "price": 100.00,
+        "effect": "Restores up to 2 HP.",
+        "description": "This mixed drink of various berries is also quite refreshing. Some Pokémon produce it naturally.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/berry-juice.png"
+      },
+      {
+        "name": "Fresh Water",
+        "price": 200.00,
+        "effect": "Restores up to 4 HP.",
+        "description": "Full of electrolytes and just the right amount of sodium, restores the vitality of those who are tired.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/fresh-water.png"
+      },
+      {
+        "name": "Sodapop",
+        "price": 250.00,
+        "effect": "Restores up to 5 HP.",
+        "description": "This Sugary drink gives you a quick shot of energy after being quite tired.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/soda-pop.png"
+      },
+      {
+        "name": "Lemonade",
+        "price": 300.00,
+        "effect": "Restores up to 6 HP.",
+        "description": "The Citric boost and added vitamins make this a favorite after exercise.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/lemonade.png"
+      },
+      {
+        "name": "MooMoo Milk",
+        "price": 350.00,
+        "effect": "Restores up to 7 HP.",
+        "description": "Found in organic farms, this milk is full of calcium and is right out of the Miltank.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/moomoo-milk.png"
+      }
+    ],
+    "pokeballs": [
+      {
+        "name": "Pokéball",
+        "price": 200.00,
+        "effect": "Seal Potency: 4 DICE",
+        "description": "A basic ball for catching Pokémon and carrying heavy items.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png"
+      },
+      {
+        "name": "Greatball",
+        "price": 600.00,
+        "effect": "Seal Potency: 6 DICE",
+        "description": "A sturdier barrier protects the seal allowing an easier catch.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/great.png"
+      },
+      {
+        "name": "Ultraball",
+        "price": 1200.00,
+        "effect": "Seal Potency: 8 DICE",
+        "description": "The best seal in the market to ensure the catch of stronger Pokémon.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/ultra.png"
+      },
+      {
+        "name": "Masterball",
+        "price": null,
+        "effect": "Seal Potency: UNKNOWN",
+        "description": "It is said to be in development by some companies in the world, it is rumored to have a seal so strong it would never break.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/master.png"
+      }
+    ],
+    "pokemon_food": [
+      {
+        "name": "Pokémon Dry Food Pack",
+        "price": 10.00,
+        "description": "A bag with dry kibble.",
+        "usable_in_battle": false,
+        "image": null
+      },
+      {
+        "name": "Gourmet Food Can",
+        "price": 50.00,
+        "description": "Made with Premium ingredients. All Pokémon will love you if you feed them this on a regular basis.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/curry-ingredient/bobs-food-tin.png"
+      },
+      {
+        "name": "High Performance Food Sack",
+        "price": 300.00,
+        "description": "A high-protein kibble made for athletes. Add 1 dice to the next Training Roll of the Pokémon.",
+        "usable_in_battle": false,
+        "image": null
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "Protein",
+        "price": 9800.00,
+        "effect": "Increases Strength attribute by 1 for a month.",
+        "description": "A tasty milkshake that aids in the growth of bigger and stronger muscles.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/protein.png"
+      },
+      {
+        "name": "Iron",
+        "price": 9800.00,
+        "effect": "Increases Vitality attribute by 1 for a month.",
+        "description": "An iron capsule that reduces feebleness and gives you a healthy glow.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/iron.png"
+      },
+      {
+        "name": "Calcium",
+        "price": 9800.00,
+        "effect": "Increases Special attribute by 1 for a month.",
+        "description": "Add this effervescent pills on their drink to help grow stronger bones.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/calcium.png"
+      },
+      {
+        "name": "Zinc",
+        "price": 9800.00,
+        "effect": "Increases Insight attribute by 1 for a month.",
+        "description": "Zinc capsules help with focus and brain development.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/zinc.png"
+      },
+      {
+        "name": "Carbos",
+        "price": 9800.00,
+        "effect": "Increases Dexterity attribute by 1 for a month.",
+        "description": "A healthy syrup that fills you with energy!",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/carbos.png"
+      },
+      {
+        "name": "PP Up",
+        "price": 9800.00,
+        "effect": "Increase Will by 2.",
+        "description": "It is rumored they are just sugar pills. Who really knows?",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/pp-up.png"
+      },
+      {
+        "name": "HP Up",
+        "price": 9800.00,
+        "effect": "Increase Base HP by 2.",
+        "description": "A compendium of vitamins and minerals to help your Pokémon grow as big and healthy as it can be.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/hp-up.png"
+      },
+      {
+        "name": "Rare Candy",
+        "price": null,
+        "effect": "Increases any attribute.",
+        "description": "This strange candy is made of unknown ingredients but its effects do not stack.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/medicine/rare-candy.png"
+      }
+    ],
+    "grooming_items": [
+      {
+        "name": "Grooming Kit",
+        "price": 100.00,
+        "description": "No more matted hair, unruly leaves, dry scales or rough rocks!",
+        "usable_in_battle": false,
+        "image": null
+      },
+      {
+        "name": "Pokémon Costume",
+        "price": 250.00,
+        "description": "Fashionable clothes. Your companions will look amazing in these costumes and they will love it.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/key-item/clothing-trunk.png"
+      },
+      {
+        "name": "Piece of Accessory",
+        "price": 10.00,
+        "description": "Ribbons, hats, collars and everything you need to make them look super special.",
+        "usable_in_battle": false,
+        "image": null
+      }
+    ],
+    "evolutionary_items": [
+      {
+        "name": "Fire Stone",
+        "price": 5000.00,
+        "description": "This Stone has a flame inside, it's hot to the touch.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/fire-stone.png"
+      },
+      {
+        "name": "Thunder Stone",
+        "price": 5000.00,
+        "description": "It glows in the dark and can be used to power small electronics.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/thunder-stone.png"
+      },
+      {
+        "name": "Water Stone",
+        "price": 5000.00,
+        "description": "Looks like blue glass and can be found at the bottom of the sea.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/water-stone.png"
+      },
+      {
+        "name": "Leaf Stone",
+        "price": null,
+        "description": "It is said that the leaf encrusted to it comes from the tree of life itself.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/leaf-stone.png"
+      },
+      {
+        "name": "Moon Stone",
+        "price": null,
+        "description": "It is a black stone that turns white and luminescent when the moon shines over it.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/moon-stone.png"
+      },
+      {
+        "name": "Sun Stone",
+        "price": null,
+        "description": "A red stone that shines brightly when facing the sun at morning.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/sun-stone.png"
+      },
+      {
+        "name": "Shiny Stone",
+        "price": null,
+        "description": "Its crystal-like surface allows you to see a ball of light inside.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/shiny-stone.png"
+      },
+      {
+        "name": "Dusk Stone",
+        "price": null,
+        "description": "This stone seems to suck the light around into a small dark hole.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/dusk-stone.png"
+      },
+      {
+        "name": "Dawn Stone",
+        "price": null,
+        "description": "This cerulean stone shines with blinding light for a minute during sunrise.",
+        "usable_in_battle": false,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/dawn-stone.png"
+      }
+    ],
+    "held_items": [
+      {
+        "name": "Black Belt",
+        "rarity": "UNCOMMON",
+        "effect": "Adds damage to Fight type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/black-belt.png"
+      },
+      {
+        "name": "Black Glasses",
+        "rarity": "COMMON",
+        "effect": "Adds damage to Dark type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/black-glasses.png"
+      },
+      {
+        "name": "Charcoal",
+        "rarity": "UNCOMMON",
+        "effect": "Adds damage to Fire type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/charcoal.png"
+      },
+      {
+        "name": "Dragon Fang",
+        "rarity": "RARE",
+        "effect": "Adds damage to Dragon type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/dragon-fang.png"
+      },
+      {
+        "name": "Hard Stone",
+        "rarity": "COMMON",
+        "effect": "Adds damage to Rock type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/hard-stone.png"
+      },
+      {
+        "name": "Magnet",
+        "rarity": "UNCOMMON",
+        "effect": "Adds damage to Electric type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/magnet.png"
+      },
+      {
+        "name": "Metal Coat",
+        "rarity": "RARE",
+        "effect": "Adds damage to Steel type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/metal-coat.png"
+      },
+      {
+        "name": "Miracle Seed",
+        "rarity": "UNCOMMON",
+        "effect": "Adds damage to Grass type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/miracle-seed.png"
+      },
+      {
+        "name": "Mystic Water",
+        "rarity": "RARE",
+        "effect": "Adds damage to Water type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/mystic-water.png"
+      },
+      {
+        "name": "Never-Melt Ice",
+        "rarity": "RARE",
+        "effect": "Adds damage to Ice type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/never-melt-ice.png"
+      },
+      {
+        "name": "Poison Barb",
+        "rarity": "UNCOMMON",
+        "effect": "Adds damage to Poison type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/poison-barb.png"
+      },
+      {
+        "name": "Sharp Beak",
+        "rarity": "COMMON",
+        "effect": "Adds damage to Flying type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/sharp-beak.png"
+      },
+      {
+        "name": "Silk Scarf",
+        "rarity": "COMMON",
+        "effect": "Adds damage to Normal type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/silk-scarf.png"
+      },
+      {
+        "name": "Silver Powder",
+        "rarity": "COMMON",
+        "effect": "Adds damage to Bug type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/silver-powder.png"
+      },
+      {
+        "name": "Soft Sand",
+        "rarity": "UNCOMMON",
+        "effect": "Adds damage to Ground type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/soft-sand.png"
+      },
+      {
+        "name": "Spell Tag",
+        "rarity": "RARE",
+        "effect": "Adds damage to Ghost type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/spell-tag.png"
+      },
+      {
+        "name": "Twisted Spoon",
+        "rarity": "COMMON",
+        "effect": "Adds damage to Psychic type moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/twisted-spoon.png"
+      },
+      {
+        "name": "Life Orb",
+        "rarity": "RARE",
+        "effect": "Adds damage & recoil to all attacks.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/life-orb.png"
+      },
+      {
+        "name": "Light Ball",
+        "rarity": "UNCOMMON",
+        "effect": "Boosts a Pikachu's Strength and Special.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/light-ball.png"
+      },
+      {
+        "name": "King's Rock",
+        "rarity": "RARE",
+        "effect": "May cause the target to flinch.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/kings-rock.png"
+      },
+      {
+        "name": "Lucky Punch",
+        "rarity": "UNCOMMON",
+        "effect": "Boosts a Chansey or Blissey's Strength.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/lucky-punch.png"
+      },
+      {
+        "name": "Lucky egg",
+        "rarity": "RARE",
+        "effect": "When the Pokémon defeats a foe, it will count as two victories for the purposes of Evolution.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/lucky-egg.png"
+      },
+      {
+        "name": "Stick",
+        "rarity": "COMMON",
+        "effect": "Allows Farfetch'd to fight swiftly (boosts critical hit ratio).",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/stick.png"
+      },
+      {
+        "name": "Quick Claw",
+        "rarity": "UNCOMMON",
+        "effect": "Boosts Initiative, allowing the holder to move faster.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/quick-claw.png"
+      },
+      {
+        "name": "Thick Club",
+        "rarity": "UNCOMMON",
+        "effect": "Boosts a Cubone or Marowak's Strength.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/thick-club.png"
+      },
+      {
+        "name": "Razor Claw",
+        "rarity": "RARE",
+        "effect": "This sharp claw can pierce through tough surfaces with ease (boosts critical hit ratio).",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/razor-claw.png"
+      },
+      {
+        "name": "Amulet Coin",
+        "rarity": "RARE",
+        "effect": "Doubles any prize money received.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/amulet-coin.png"
+      },
+      {
+        "name": "Razor Fang",
+        "rarity": "UNCOMMON",
+        "effect": "May cause the target to flinch.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/evo-item/razor-fang.png"
+      },
+      {
+        "name": "Eviolite",
+        "rarity": "RARE",
+        "effect": "Boosts the defenses of an un-evolved Pokémon.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/eviolite.png"
+      },
+      {
+        "name": "Rocky Helmet",
+        "rarity": "UNCOMMON",
+        "effect": "Deals damage to a foe attacking with a Non-ranged Physical Attack.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/rocky-helmet.png"
+      },
+      {
+        "name": "Expert Belt",
+        "rarity": "RARE",
+        "effect": "Adds damage to Super Effective Moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/expert-belt.png"
+      },
+      {
+        "name": "Wide Lens",
+        "rarity": "COMMON",
+        "effect": "Boosts the accuracy of moves.",
+        "usable_in_battle": true,
+        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/hold-item/wide-lens.png"
+      }
+    ]
+  }
+}
