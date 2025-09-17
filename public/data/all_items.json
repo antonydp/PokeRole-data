@@ -523,7 +523,7 @@
         "price": 250.00,
         "description": "Fashionable clothes. Your companions will look amazing in these costumes and they will love it.",
         "usable_in_battle": false,
-        "image": "https://raw.githubusercontent.com/msikma/pokesprite/master/items/key-item/clothing-trunk.png"
+        "image": null
       },
       {
         "name": "Piece of Accessory",
