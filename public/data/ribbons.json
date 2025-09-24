@@ -401,67 +401,67 @@
     },
     {
         "name": "Kalos Champion Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/kaloschampionribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/kaloschampionribbon.png",
         "description": "Ribbon for beating the Kalos Champion and entering the Kalos Hall of Fame"
     },
     {
         "name": "Training Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/trainingribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/trainingribbon.png",
         "description": "Ribbon that can be given to a Pok\u00e9mon that has overcome rigorous trials and training"
     },
     {
         "name": "Skillful Battler Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/skillfulbattlerribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/skillfulbattlerribbon.png",
         "description": "Ribbon that can be given to a Pok\u00e9mon that has achieved victory in difficult battles."
     },
     {
         "name": "Expert Battler Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/expertbattlerribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/expertbattlerribbon.png",
         "description": "Ribbon that can be given to a Pok\u00e9mon that has achieved victory in difficult battles."
     },
     {
         "name": "Best Friends Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/bestfriendsribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/bestfriendsribbon.png",
         "description": "Ribbon that can be given to a Pok\u00e9mon with which you share a close and meaningful bond."
     },
     {
         "name": "Contest Memory Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/contestmemoryribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/contestmemoryribbon.png",
         "description": "A commemorative Ribbon representing all the Ribbons you collected in far-off lands for contests. Number given varies depending on the ribbons on your Pok\u00e9mon in previous generations"
     },
     {
         "name": "Battle Memory Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/battlememoryribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/battlememoryribbon.png",
         "description": "A commemorative Ribbon representing all the Ribbons you collected in far-off lands for battling. Number given varies depending on the ribbons on your Pok\u00e9mon in previous generations"
     },
     {
         "name": "Contest Memory Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/contestmemoryribbon2.png",
+        "image_url": "https://www.serebii.net/games/ribbons/contestmemoryribbon2.png",
         "description": "A commemorative Ribbon representing all the Ribbons you collected in far-off lands for contests. Number given varies depending on the ribbons on your Pok\u00e9mon in previous generations"
     },
     {
         "name": "Battle Memory Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/battlememoryribbon2.png",
+        "image_url": "https://www.serebii.net/games/ribbons/battlememoryribbon2.png",
         "description": "A commemorative Ribbon representing all the Ribbons you collected in far-off lands for battling. Number given varies depending on the ribbons on your Pok\u00e9mon in previous generations"
     },
     {
         "name": "Alola Champion Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/alolachampionribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/alolachampionribbon.png",
         "description": "A Ribbon awarded for becoming the Alola Champion and entering the Alola Hall of Fame."
     },
     {
         "name": "Battle Royal Master Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/battleroyalmasterribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/battleroyalmasterribbon.png",
         "description": "A Ribbon that can be given to a Pok\u00e9mon that has achieved victory in the Battle Royal. - Defeat Battle Royal Master Rank battle"
     },
     {
         "name": "Battle Tree Great Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/battletreegreatribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/battletreegreatribbon.png",
         "description": "A Ribbon awarded for winning against a Battle Legend in the Battle Tree."
     },
     {
         "name": "Battle Tree Master Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/battletreemasterribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/battletreemasterribbon.png",
         "description": "A Ribbon awarded for winning against a Battle Legend in super battles in the Battle Tree."
     },
     {
@@ -516,37 +516,37 @@
     },
     {
         "name": "Beauty Master Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/beautymasterribbon2.png",
+        "image_url": "https://www.serebii.net/games/ribbons/beautymasterribbon2.png",
         "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied Beauty in Pok\u00e9mon Contests"
     },
     {
         "name": "Cleverness Master Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/clevernessmasterribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/clevernessmasterribbon.png",
         "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied Cleverness in Pok\u00e9mon Contests"
     },
     {
         "name": "Coolness Master Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/coolnessmasterribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/coolnessmasterribbon.png",
         "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied Coolness in Pok\u00e9mon Contests"
     },
     {
         "name": "Cuteness Master Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/cutenessmasterribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/cutenessmasterribbon.png",
         "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied Cuteness in Pok\u00e9mon Contests"
     },
     {
         "name": "Toughness Master Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/toughnessmasterribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/toughnessmasterribbon.png",
         "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied Toughness in Pok\u00e9mon Contests"
     },
     {
         "name": "Contest Star Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/conteststarribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/conteststarribbon.png",
         "description": "A Ribbon awarded to a Pok\u00e9mon that has performed superbly in the Master Rank at a Super Contest Show."
     },
     {
         "name": "Twinkling Star Ribbon",
-        "image_url": "https://www.serebii.net/games//games/ribbons/twinklingstarribbon.png",
+        "image_url": "https://www.serebii.net/games/ribbons/twinklingstarribbon.png",
         "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied shining brilliance in Super Contest Shows."
     },
     {
