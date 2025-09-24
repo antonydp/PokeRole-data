@@ -1,422 +1,422 @@
 [
     {
         "name": "The Boulder Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/dd/Boulder_Badge.png/revision/latest/scale-to-width-down/50?cb=20241015140145",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/dd/Boulder_Badge.png",
         "description": "The Boulder Badge is given out at the Pewter City Gym , held by the Gym Leader , Brock ."
     },
     {
         "name": "The Cascade Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9c/Cascade_Badge.png/revision/latest/scale-to-width-down/33?cb=20241015140805",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9c/Cascade_Badge.png",
         "description": "The Cascade Badge ( ブルーバッジ Blue Badge ) is given out at the Cerulean City Gym , held by the Gym Leader , Misty ."
     },
     {
         "name": "The Thunder Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/a6/Thunder_Badge.png/revision/latest/scale-to-width-down/50?cb=20241015141106",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/a6/Thunder_Badge.png",
         "description": "The Thunder Badge ( オレンジバッジ Orange Badge ) is given out at the Vermilion City Gym , held by the Gym Leader , Lt. Surge ."
     },
     {
         "name": "The Rainbow Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b5/Rainbow_Badge.png/revision/latest/scale-to-width-down/50?cb=20241015141116",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b5/Rainbow_Badge.png",
         "description": "The Rainbow Badge ( レインボーバッジ Rainbow Badge ) is given out at the Celadon City Gym , held by the Gym Leader , Erika ."
     },
     {
         "name": "The Soul Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/7d/Soul_Badge.png/revision/latest/scale-to-width-down/50?cb=20241015141124",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/7d/Soul_Badge.png",
         "description": "The Soul Badge ( ピンクバッジ Pink Badge ) is given out at the Fuchsia City Gym , held by the Gym Leader, Koga . In Pokémon Gold, Silver and Crystal , the Gym Leader and the one who gives out the badge is Koga 's daughter Janine ."
     },
     {
         "name": "The Marsh Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/6b/Marsh_Badge.png/revision/latest/scale-to-width-down/50?cb=20241015141132",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/6b/Marsh_Badge.png",
         "description": "The Marsh Badge ( ゴールドバッジ Gold Badge ) is given out at the Saffron City Gym , held by the Gym Leader , Sabrina ."
     },
     {
         "name": "The Volcano Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/12/Volcano_Badge.png/revision/latest/scale-to-width-down/50?cb=20241015141139",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/12/Volcano_Badge.png",
         "description": "The Volcano Badge ( クリムゾンバッジ Crimson Badge ) is given out at the Cinnabar Island Gym , held by the Gym Leader, Blaine ."
     },
     {
         "name": "The Earth Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/78/Earth_Badge.png/revision/latest/scale-to-width-down/50?cb=20241015141830",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/78/Earth_Badge.png",
         "description": "The Earth Badge ( グリーンバッジ Green Badge ) is given out at the Viridian City Gym , held by the Gym Leader , Giovanni . In Pokémon Gold, Silver and Crystal , the Gym Leader and the one who gives out the badge is Blue ."
     },
     {
         "name": "The Zephyr Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/4a/Zephyr_Badge.png/revision/latest?cb=20081229171509",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/4a/Zephyr_Badge.png",
         "description": "The Zephyr Badge ( ウイングバッジ Wing Badge ) is given out at the Violet City Gym , held by the Gym Leader , Falkner ."
     },
     {
         "name": "The Hive Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/08/Hive_Badge.png/revision/latest?cb=20081229171030",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/08/Hive_Badge.png",
         "description": "The Hive Badge ( インセクトバッジ Insect Badge ) is given out at the Azalea Town Gym , held by the Gym Leader, Bugsy ."
     },
     {
         "name": "The Plain Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/a7/Plain_Badge.png/revision/latest?cb=20081229171221",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/a7/Plain_Badge.png",
         "description": "The Plain Badge ( レギュラーバッジ Regular Badge ) is given out at the Goldenrod City Gym , held by the Gym Leader, Whitney."
     },
     {
         "name": "The Fog Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/48/Fog_Badge.png/revision/latest?cb=20081229170948",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/48/Fog_Badge.png",
         "description": "The Fog Badge ( ファントムバッジ Phantom Badge ) is given out at the Ecruteak City Gym , held by the Gym Leader, Morty."
     },
     {
         "name": "The Storm Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b9/Storm_Badge.png/revision/latest?cb=20081229171417",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b9/Storm_Badge.png",
         "description": "The Storm Badge ( ショックバッジ Shock Badge ) is given out at the Cianwood City Gym , held by the Gym Leader, Chuck."
     },
     {
         "name": "The Mineral Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/7b/Mineral_Badge.png/revision/latest?cb=20081229171159",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/7b/Mineral_Badge.png",
         "description": "The Mineral Badge ( スチールバッジ Steel Badge ) is given out at the Olivine City Gym , held by the Gym Leader, Jasmine."
     },
     {
         "name": "The Glacier Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/e/e6/Glacier_Badge.png/revision/latest?cb=20081229170955",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/e/e6/Glacier_Badge.png",
         "description": "The Glacier Badge ( アイスバッジ Ice Badge ) is given out at the Mahogany Town Gym , held by the Gym Leader, Pryce."
     },
     {
         "name": "The Rising Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/58/Rising_Badge.png/revision/latest?cb=20081229171321",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/58/Rising_Badge.png",
         "description": "The Rising Badge ( Rising Badge ) is given out at the Blackthorn City Gym , held by the Gym Leader, Clair."
     },
     {
         "name": "The Stone Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/63/Stone_Badge.png/revision/latest?cb=20081229171405",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/63/Stone_Badge.png",
         "description": "The Stone Badge ( ストーンバッジ Stone Badge ) is given out at the Rustboro City Gym , held by the Gym Leader, Roxanne."
     },
     {
         "name": "The Knuckle Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/51/Knucklebadge.png/revision/latest?cb=20081229171108",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/51/Knucklebadge.png",
         "description": "The Knuckle Badge ( ナックルバッジ Knuckle Badge ) is given out at the Dewford Town Gym , held by the Gym Leader, Brawly."
     },
     {
         "name": "The Dynamo Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/34/Dynamo_Badge.png/revision/latest?cb=20081229170852",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/34/Dynamo_Badge.png",
         "description": "The Dynamo Badge ( ダイナモバッジ Dynamo Badge ) is given out at the Mauville City Gym , held by the Gym Leader, Wattson."
     },
     {
         "name": "The Heat Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c4/Heat_Badge.png/revision/latest?cb=20081229171021",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c4/Heat_Badge.png",
         "description": "The Heat Badge ( ヒートバッジ Heat Badge ) is given out at the Lavaridge Town Gym , held by the Gym Leader, Flannery."
     },
     {
         "name": "The Balance Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/63/Balance_Badge.png/revision/latest?cb=20081229170701",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/63/Balance_Badge.png",
         "description": "The Balance Badge ( バランスバッジ Balance Badge ) is given out at the Petalburg City Gym , held by the Gym Leader, Norman, the player's father."
     },
     {
         "name": "The Feather Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/62/Feather_Badge.png/revision/latest?cb=20081229170908",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/62/Feather_Badge.png",
         "description": "The Feather Badge ( フェザーバッジ Feather Badge ) is given out at the Fortree City Gym , held by the Gym Leader, Winona."
     },
     {
         "name": "The Mind Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/cc/Mind_Badge.png/revision/latest?cb=20081229171131",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/cc/Mind_Badge.png",
         "description": "The Mind Badge ( マインドバッジ Mind Badge ) is given out at the Mossdeep City Gym , held by the twin Gym Leaders, Tate & Liza."
     },
     {
         "name": "The Rain Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9b/Rain_Badge.png/revision/latest?cb=20081229171231",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9b/Rain_Badge.png",
         "description": "The Rain Badge ( レインバッジ Rain Badge ) is given out at the Sootopolis City Gym , held by the Gym Leader, Wallace. In Pokémon Emerald , the Gym Leader and the one who gives out the badge is Juan."
     },
     {
         "name": "The Coal Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/0b/Coal_Badge.png/revision/latest?cb=20081229170818",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/0b/Coal_Badge.png",
         "description": "The Coal Badge is given out at the Oreburgh City Gym , held by the Gym Leader , Roark ."
     },
     {
         "name": "The Forest Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/8c/Forest_Badge.png/revision/latest?cb=20081229170947",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/8c/Forest_Badge.png",
         "description": "The Forest Badge is given out at the Eterna City Gym , held by the Gym Leader , Gardenia ."
     },
     {
         "name": "The Cobble Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/27/Cobble_Badge.png/revision/latest?cb=20081229170827",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/27/Cobble_Badge.png",
         "description": "The Cobble Badge is given out at the Veilstone City Gym , held by the Gym Leader , Maylene ."
     },
     {
         "name": "The Fen Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/13/Fen_Badge.png/revision/latest?cb=20081229170915",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/13/Fen_Badge.png",
         "description": "The Fen Badge is given out at the Pastoria City Gym , held by the Gym Leader , Crasher Wake ."
     },
     {
         "name": "The Relic Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/28/Relic_Badge.png/revision/latest?cb=20081229171313",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/28/Relic_Badge.png",
         "description": "The Relic Badge is given out at the Hearthome City Gym , held by the Gym Leader , Fantina ."
     },
     {
         "name": "The Mine Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/f/fe/Mine_Badge.png/revision/latest?cb=20081229171149",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/f/fe/Mine_Badge.png",
         "description": "The Mine Badge is given out at the Canalave City Gym , held by the Gym Leader , Byron ."
     },
     {
         "name": "The Icicle Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/09/Icicle_Badge.png/revision/latest?cb=20081229171040",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/09/Icicle_Badge.png",
         "description": "The Icicle Badge is given out at the Snowpoint City Gym , held by the Gym Leader , Candice ."
     },
     {
         "name": "The Beacon Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/0c/Beacon_Badge.png/revision/latest?cb=20081229170708",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/0c/Beacon_Badge.png",
         "description": "The Beacon Badge is given out at the Sunyshore City Gym , held by the Gym Leader , Volkner ."
     },
     {
         "name": "The Trio Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/74/Trio_Badge.png/revision/latest?cb=20101019231550",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/74/Trio_Badge.png",
         "description": "The Trio Badge is given out at the Striaton City Gym , held by the Gym Leaders , Cilan , Chili , & Cress ."
     },
     {
         "name": "The Basic Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/85/Basic_Badge.png/revision/latest?cb=20101019231708",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/85/Basic_Badge.png",
         "description": "The Basic Badge is given out at the Nacrene City Gym , held by the Gym Leader , Lenora ."
     },
     {
         "name": "The Insect Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/8a/Insect_Badge.png/revision/latest?cb=20101019231914",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/8a/Insect_Badge.png",
         "description": "The Insect Badge is given out at the Castelia City Gym , held by the Gym Leader , Burgh ."
     },
     {
         "name": "The Bolt Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/5b/Bolt_Badge.png/revision/latest?cb=20110211044603",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/5b/Bolt_Badge.png",
         "description": "The Bolt Badge is given out at the Nimbasa City Gym , held by the Gym Leader , Elesa ."
     },
     {
         "name": "The Quake Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/29/Quake_Badge.png/revision/latest?cb=20110211044640",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/29/Quake_Badge.png",
         "description": "The Quake Badge is given out at the Driftveil City Gym , held by the Gym Leader , Clay ."
     },
     {
         "name": "The Jet Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9c/Jet_Badge.png/revision/latest?cb=20110211044713",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9c/Jet_Badge.png",
         "description": "The Jet Badge is given out at the Mistralton City Gym , held by the Gym Leader , Skyla ."
     },
     {
         "name": "The Freeze Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/ac/Freeze_Badge.png/revision/latest?cb=20110211044859",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/ac/Freeze_Badge.png",
         "description": "The Freeze Badge is given out at the Icirrus City Gym , held by the Gym Leader , Brycen ."
     },
     {
         "name": "The Legend Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c0/Legend_Badge.png/revision/latest?cb=20110211044929",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c0/Legend_Badge.png",
         "description": "The Legend Badge is given out at the Opelucid City Gym , held by the Gym Leader , Drayden or Iris ."
     },
     {
         "name": "The Basic Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/85/Basic_Badge.png/revision/latest?cb=20101019231708",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/85/Basic_Badge.png",
         "description": "The Basic Badge is given out at the Aspertia City Gym , held by the Gym Leader, Cheren ."
     },
     {
         "name": "The Toxic Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/3e/Toxic_Badge.png/revision/latest/scale-to-width-down/39?cb=20120622180634",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/3e/Toxic_Badge.png",
         "description": "The Toxic Badge is given out at the Virbank City Gym , held by the Gym Leader , Roxie ."
     },
     {
         "name": "The Insect Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/8a/Insect_Badge.png/revision/latest?cb=20101019231914",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/8a/Insect_Badge.png",
         "description": "The Insect Badge is given out at the Castelia City Gym , held by the Gym Leader , Burgh ."
     },
     {
         "name": "The Bolt Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/5b/Bolt_Badge.png/revision/latest?cb=20110211044603",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/5b/Bolt_Badge.png",
         "description": "The Bolt Badge is given out at the Nimbasa City Gym , held by the Gym Leader , Elesa ."
     },
     {
         "name": "The Quake Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/29/Quake_Badge.png/revision/latest?cb=20110211044640",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/29/Quake_Badge.png",
         "description": "The Quake Badge is given out at the Driftveil City Gym , held by the Gym Leader , Clay ."
     },
     {
         "name": "The Jet Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9c/Jet_Badge.png/revision/latest?cb=20110211044713",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9c/Jet_Badge.png",
         "description": "The Jet Badge is given out at the Mistralton City Gym , held by the Gym Leader , Skyla ."
     },
     {
         "name": "The Legend Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c0/Legend_Badge.png/revision/latest?cb=20110211044929",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c0/Legend_Badge.png",
         "description": "The Legend Badge is given out at the Opelucid City Gym , held by the Gym Leader , Drayden ."
     },
     {
         "name": "The Wave Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/00/Wave_Badge.png/revision/latest/scale-to-width-down/43?cb=20120623053139",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/00/Wave_Badge.png",
         "description": "The Wave Badge is given out at the Humilau City Gym , held by the Gym Leader , Marlon ."
     },
     {
         "name": "The Bug Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/3c/Bug_Badge_Viola.png/revision/latest/scale-to-width-down/50?cb=20131020201253",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/3c/Bug_Badge_Viola.png",
         "description": "The Bug Badge ( バグバッジ Bug Badge ) is given out at the Santalune City Gym , held by the Gym Leader, Viola ."
     },
     {
         "name": "The Cliff Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/39/Cliff_Badge.png/revision/latest/scale-to-width-down/50?cb=20131029043723",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/39/Cliff_Badge.png",
         "description": "The Cliff Badge ( ウォールバッジ Wall Badge ) is given out at the Cyllage City Gym , held by the Gym Leader , Grant ."
     },
     {
         "name": "The Rumble Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d4/Rumble_Badge.png/revision/latest?cb=20171006161933",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d4/Rumble_Badge.png",
         "description": "The Rumble Badge ( ファイトバッジ Fight Badge ) is given out at the Shalour City Gym , held by the Gym Leader , Korrina ."
     },
     {
         "name": "The Plant Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/7d/Plant_Badge.png/revision/latest/scale-to-width-down/50?cb=20240323090933",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/7d/Plant_Badge.png",
         "description": "The Plant Badge ( プラントバッジ Plant Badge ) is given out at the Coumarine City Gym , held by the Gym Leader , Ramos ."
     },
     {
         "name": "The Voltage Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/f/fc/Voltage_Badge.png/revision/latest/scale-to-width-down/50?cb=20240323091031",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/f/fc/Voltage_Badge.png",
         "description": "The Voltage Badge ( ボルテージバッジ Voltage Badge ) is given out at the Lumiose City Gym , held by the Gym Leader , Clemont ."
     },
     {
         "name": "The Fairy Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/bb/Fairy_Badge_XY.png/revision/latest/scale-to-width-down/50?cb=20240323091112",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/bb/Fairy_Badge_XY.png",
         "description": "The Fairy Badge ( フェアリーバッジ Fairy Badge ) is given out at the Laverre City Gym , held by the Gym Leader , Valerie ."
     },
     {
         "name": "The Psychic Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/13/Psychic_Badge.png/revision/latest/scale-to-width-down/50?cb=20240323091150",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/13/Psychic_Badge.png",
         "description": "The Psychic Badge ( サイキックバッジ Psychic Badge ) is given out at the Anistar City Gym , held by the Gym Leader , Olympia ."
     },
     {
         "name": "The Iceberg Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/84/Iceberg_Badge.png/revision/latest/scale-to-width-down/50?cb=20131105162357",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/84/Iceberg_Badge.png",
         "description": "The Iceberg Badge ( アイスバーグバッジ Iceberg Badge )is given out at the Snowbelle City Gym , held by the Gym Leader , Wulfric ."
     },
     {
         "name": "The Grass Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/00/Grass_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174202",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/00/Grass_Badge.png",
         "description": "The Grass Badge is given out at the Turffield Stadium , held by the Gym Leader Milo ."
     },
     {
         "name": "The Water Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/7a/Water_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174225",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/7a/Water_Badge.png",
         "description": "The Water Badge is given out at the Hulbury Stadium , held by the Gym Leader Nessa ."
     },
     {
         "name": "The Fire Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/cc/Fire_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174232",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/cc/Fire_Badge.png",
         "description": "The Fire Badge is given out at the Motostoke Stadium , held by the Gym Leader Kabu ."
     },
     {
         "name": "The Fighting Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/20/Fighting_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174241",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/20/Fighting_Badge.png",
         "description": "The Fighting Badge is given out at the Stow-on-Side Stadium , held by the Gym Leader Bea ."
     },
     {
         "name": "The Fairy Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d1/Fairy_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174250",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d1/Fairy_Badge.png",
         "description": "The Fairy Badge is given out at the Ballonlea Stadium , held by the Gym Leader Opal , and later Bede ."
     },
     {
         "name": "The Rock Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/3e/Rock_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174258",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/3e/Rock_Badge.png",
         "description": "The Rock Badge is given out at the Circhester Stadium , held by the Gym Leader Gordie ."
     },
     {
         "name": "The Dark Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/4d/Dark_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174305",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/4d/Dark_Badge.png",
         "description": "The Dark Badge is given out at the Spikemuth Stadium , held by the Gym Leader Piers , and later Marnie ."
     },
     {
         "name": "The Dragon Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/27/Dragon_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174311",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/27/Dragon_Badge.png",
         "description": "The Dragon Badge is given out at the Hammerlocke Stadium , held by the Gym Leader Raihan ."
     },
     {
         "name": "The Grass Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/00/Grass_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174202",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/00/Grass_Badge.png",
         "description": "The Grass Badge is given out at the Turffield Stadium , held by the Gym Leader Milo ."
     },
     {
         "name": "The Water Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/7a/Water_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174225",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/7/7a/Water_Badge.png",
         "description": "The Water Badge is given out at the Hulbury Stadium , held by the Gym Leader Nessa ."
     },
     {
         "name": "The Fire Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/cc/Fire_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174232",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/cc/Fire_Badge.png",
         "description": "The Fire Badge is given out at the Motostoke Stadium , held by the Gym Leader Kabu ."
     },
     {
         "name": "The Ghost Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/30/Ghost_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174335",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/30/Ghost_Badge.png",
         "description": "The Ghost Badge is given out at the Stow-on-Side Stadium , held by the Gym Leader Allister ."
     },
     {
         "name": "The Fairy Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d1/Fairy_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174250",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d1/Fairy_Badge.png",
         "description": "The Fairy Badge is given out at the Ballonlea Stadium , held by the Gym Leader Opal , and later Bede ."
     },
     {
         "name": "The Ice Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/43/Ice_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174342",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/43/Ice_Badge.png",
         "description": "The Ice Badge is given out at the Circhester Stadium , held by the Gym Leader Melony ."
     },
     {
         "name": "The Dark Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/4d/Dark_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174305",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/4d/Dark_Badge.png",
         "description": "The Dark Badge is given out at the Spikemuth Stadium , held by the Gym Leader Piers , and later Marnie ."
     },
     {
         "name": "The Dragon Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/27/Dragon_Badge.png/revision/latest/scale-to-width-down/50?cb=20191124174311",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/27/Dragon_Badge.png",
         "description": "The Dragon Badge is given out at the Hammerlocke Stadium , held by the Gym Leader Raihan ."
     },
     {
         "name": "The Bug Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/01/Bug_Badge_SV.png/revision/latest/scale-to-width-down/50?cb=20240416045857",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/01/Bug_Badge_SV.png",
         "description": "The Bug Badge is given out at the Cortondo Gym, held by the Gym Leader Katy."
     },
     {
         "name": "The Grass Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d3/Grass_Badge_SV.png/revision/latest/scale-to-width-down/50?cb=20240416050002",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/d3/Grass_Badge_SV.png",
         "description": "The Grass Badge is given out at the Artazon Gym, held by the Gym Leader Brassius."
     },
     {
         "name": "The Electric Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/a1/Electric_Badge_SV.png/revision/latest/scale-to-width-down/50?cb=20240416050105",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/a1/Electric_Badge_SV.png",
         "description": "The Electric Badge is given out at the Levincia Gym, held by the Gym Leader Iono."
     },
     {
         "name": "The Water Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/63/Water_Badge_SV.png/revision/latest/scale-to-width-down/50?cb=20240416050309",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/63/Water_Badge_SV.png",
         "description": "The Water Badge is given out at the Cascarrafa Gym, held by the Gym Leader Kofu."
     },
     {
         "name": "The Normal Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/ad/Normal_Badge_SV.png/revision/latest/scale-to-width-down/50?cb=20240416050434",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/ad/Normal_Badge_SV.png",
         "description": "The Normal Badge is given out at the Medali Gym, held by the Gym Leader Larry."
     },
     {
         "name": "The Ghost Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/39/Ghost_Badge_SV.png/revision/latest/scale-to-width-down/50?cb=20240416050531",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/39/Ghost_Badge_SV.png",
         "description": "The Ghost Badge is given out at the Montenevera Gym, held by the Gym Leader Ryme."
     },
     {
         "name": "The Psychic Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/36/Psychic_Badge_SV.png/revision/latest/scale-to-width-down/50?cb=20240416051307",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/3/36/Psychic_Badge_SV.png",
         "description": "The Psychic Badge is given out at the Alfornada Gym, held by the Gym Leader Tulip."
     },
     {
         "name": "The Ice Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/81/Ice_Badge_SV.png/revision/latest/scale-to-width-down/50?cb=20240416051337",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/81/Ice_Badge_SV.png",
         "description": "The Ice Badge is given out at the Glaseado Gym, held by the Gym Leader Grusha."
     },
     {
         "name": "The Coral-Eye Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/82/Coral-Eye_Badge.png/revision/latest/scale-to-width-down/50?cb=20090128204131",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/82/Coral-Eye_Badge.png",
         "description": "The Coral-Eye Badge is given out at the Mikan Island Gym , held by the Gym Leader , Cissy . Info: In order to obtain this badge, Trainers are required to participate in an accuracy test and a race against its holder, Cissy . This badge is the first of four in the Orange League."
     },
     {
         "name": "The Sea Ruby Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c6/SeaRuby_Badge.png/revision/latest/scale-to-width-down/50?cb=20090128204331",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c6/SeaRuby_Badge.png",
         "description": "The Sea Ruby Badge is given out at the Navel Island Gym , held by the Gym Leader , Danny . Info: In order to obtain this badge, Trainers must first climb a nearby mountain without the aid of their Pokémon , in order to qualify for further challenges. Should a Trainer qualify, they must then choose one Pokémon to help them build a bobsled-device in a race against Danny , and then race him down the mountain. This badge is the second of four badges in the Orange Island League."
     },
     {
         "name": "The Spike Shell Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c1/SpikeShell_Badge.png/revision/latest/scale-to-width-down/50?cb=20090128204425",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c1/SpikeShell_Badge.png",
         "description": "The Spike Shell Badge is given out at the Trovita Island Gym , held by the Gym Leader , Rudy . Info: In order to obtain this badge, Trainers must first participate in an accuracy test similar to the other Gym Leader , Cissy . Should the challenger pass this test, they will face Rudy in a three-on-three, same-type Pokémon battle. This badge is the third of four in the Orange Island League."
     },
     {
         "name": "The Jade Star Badge",
-        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/66/JadeStar_Badge.png/revision/latest/scale-to-width-down/50?cb=20090128204216",
+        "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/66/JadeStar_Badge.png",
         "description": "The Jade Star Badge is given out at the Kumquat Island Gym , by the Gym Leader , Luana . Info : In order to obtain this badge, Trainers defeat the Gym Leader , Luana , in a double battle with her Marowak and Alakazam . This is the final badge of four in the Orange League."
     }
 ]
