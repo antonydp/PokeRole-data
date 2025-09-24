@@ -1,0 +1,777 @@
+[
+    {
+        "name": "Champion Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/championribbon.png",
+        "description": "Ribbon for clearing the Pok\u00e9mon League and entering the Hall of Fame in another region"
+    },
+    {
+        "name": "Cool Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/coolnormalribbon.png",
+        "description": "Hoenn Cool Contest - Normal Rank Winner"
+    },
+    {
+        "name": "Cool Ribbon Super",
+        "image_url": "https://www.serebii.net/games/ribbons/coolsuperribbon.png",
+        "description": "Hoenn Cool Contest - Super Rank Winner"
+    },
+    {
+        "name": "Cool Ribbon Hyper",
+        "image_url": "https://www.serebii.net/games/ribbons/coolhyperribbon.png",
+        "description": "Hoenn Cool Contest - Hyper Rank Winner"
+    },
+    {
+        "name": "Cool Ribbon Master",
+        "image_url": "https://www.serebii.net/games/ribbons/coolmasterribbon.png",
+        "description": "Hoenn Cool Contest - Master Rank Winner"
+    },
+    {
+        "name": "Beauty Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/beautynormalribbon.png",
+        "description": "Hoenn Beauty Contest - Normal Rank Winner"
+    },
+    {
+        "name": "Beauty Ribbon Super",
+        "image_url": "https://www.serebii.net/games/ribbons/beautysuperribbon.png",
+        "description": "Hoenn Beauty Contest - Super Rank Winner"
+    },
+    {
+        "name": "Beauty Ribbon Hyper",
+        "image_url": "https://www.serebii.net/games/ribbons/beautyhyperribbon.png",
+        "description": "Hoenn Beauty Contest - Hyper Rank Winner"
+    },
+    {
+        "name": "Beauty Ribbon Master",
+        "image_url": "https://www.serebii.net/games/ribbons/beautymasterribbon.png",
+        "description": "Hoenn Beauty Contest - Master Rank Winner"
+    },
+    {
+        "name": "Cute Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/cutenormalribbon.png",
+        "description": "Hoenn Cute Contest - Normal Rank Winner"
+    },
+    {
+        "name": "Cute Ribbon Super",
+        "image_url": "https://www.serebii.net/games/ribbons/cutesuperribbon.png",
+        "description": "Hoenn Cute Contest - Super Rank Winner"
+    },
+    {
+        "name": "Cute Ribbon Hyper",
+        "image_url": "https://www.serebii.net/games/ribbons/cutehyperribbon.png",
+        "description": "Hoenn Cute Contest - Hyper Rank Winner"
+    },
+    {
+        "name": "Cute Ribbon Master",
+        "image_url": "https://www.serebii.net/games/ribbons/cutemasterribbon.png",
+        "description": "Hoenn Cute Contest - Master Rank Winner"
+    },
+    {
+        "name": "Smart Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/smartnormalribbon.png",
+        "description": "Hoenn Smart Contest - Normal Rank Winner"
+    },
+    {
+        "name": "Smart Ribbon Super",
+        "image_url": "https://www.serebii.net/games/ribbons/smartsuperribbon.png",
+        "description": "Hoenn Smart Contest - Super Rank Winner"
+    },
+    {
+        "name": "Smart Ribbon Hyper",
+        "image_url": "https://www.serebii.net/games/ribbons/smarthyperribbon.png",
+        "description": "Hoenn Smart Contest - Hyper Rank Winner"
+    },
+    {
+        "name": "Smart Ribbon Master",
+        "image_url": "https://www.serebii.net/games/ribbons/smartmasterribbon.png",
+        "description": "Hoenn Smart Contest - Master Rank Winner"
+    },
+    {
+        "name": "Tough Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/toughnormalribbon.png",
+        "description": "Hoenn Tough Contest - Normal Rank Winner"
+    },
+    {
+        "name": "Tough Ribbon Super",
+        "image_url": "https://www.serebii.net/games/ribbons/toughsuperribbon.png",
+        "description": "Hoenn Tough Contest - Super Rank Winner"
+    },
+    {
+        "name": "Tough Ribbon Hyper",
+        "image_url": "https://www.serebii.net/games/ribbons/toughhyperribbon.png",
+        "description": "Hoenn Tough Contest - Hyper Rank Winner"
+    },
+    {
+        "name": "Tough Ribbon Master",
+        "image_url": "https://www.serebii.net/games/ribbons/toughmasterribbon.png",
+        "description": "Hoenn Tough Contest - Master Rank Winner"
+    },
+    {
+        "name": "Winning Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/winningribbon.png",
+        "description": "Ribbon awarded for clearing the Hoenn Battle Tower's Lv. 50 challenge."
+    },
+    {
+        "name": "Victory Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/victoryribbon.png",
+        "description": "Ribbon awarded for clearing the Hoenn Battle Tower's Lv. 100 challenge."
+    },
+    {
+        "name": "Artist Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/artistribbon.png",
+        "description": "Ribbon awarded for being chosen as a super sketch model in Hoenn. - Defeat Master Rank with top score"
+    },
+    {
+        "name": "Effort Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/effortribbon.png",
+        "description": "Ribbon awarded for being an exceptionally hard worker. - Max out Effort Values on the Pok\u00e9mon"
+    },
+    {
+        "name": "Marine Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/marineribbon.png",
+        "description": "2005 National Tournament Runner-up Ribbon"
+    },
+    {
+        "name": "Land Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/landribbon.png",
+        "description": "2003 National Tournament Semifinalist Ribbon"
+    },
+    {
+        "name": "Sky Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/skyribbon.png",
+        "description": "A Commemorative Ribbon obtained in a Mystery Zone"
+    },
+    {
+        "name": "Country Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/countryribbon.png",
+        "description": "Pok\u00e9mon League - Champion Ribbon"
+    },
+    {
+        "name": "National Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/nationalribbon.png",
+        "description": "A Ribbon awarded for overcoming all difficult challenges. - Purify the Pok\u00e9mon"
+    },
+    {
+        "name": "Earth Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/earthribbon.png",
+        "description": "A Ribbon awarded for winning 100 matches in a row."
+    },
+    {
+        "name": "World Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/worldribbon.png",
+        "description": "Pok\u00e9mon League - Champion Ribbon"
+    },
+    {
+        "name": "Sinnoh Champ Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/sinnohchampribbon.png",
+        "description": "Ribbon awarded for beating the Sinnoh Champion and entering the Hall of Fame."
+    },
+    {
+        "name": "Cool Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/coolcontestnormalrankribbon-s.png",
+        "description": "Super Contest Cool Category Normal Rank winner!"
+    },
+    {
+        "name": "Cool Ribbon Super",
+        "image_url": "https://www.serebii.net/games/ribbons/coolcontestsuperrankribbon-s.png",
+        "description": "Super Contest Cool Category Super Rank winner!"
+    },
+    {
+        "name": "Cool Ribbon Ultra",
+        "image_url": "https://www.serebii.net/games/ribbons/coolcontesthyperrankribbon-s.png",
+        "description": "Super Contest Cool Category Ultra Rank winner!"
+    },
+    {
+        "name": "Cool Ribbon Master",
+        "image_url": "https://www.serebii.net/games/ribbons/coolcontestmasterrankribbon-s.png",
+        "description": "Super Contest Cool Category Master Rank winner!"
+    },
+    {
+        "name": "Beauty Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/beautycontestnormalrankribbon-s.png",
+        "description": "Super Contest Beauty Category Normal Rank winner!"
+    },
+    {
+        "name": "Beauty Ribbon Super",
+        "image_url": "https://www.serebii.net/games/ribbons/beautycontestsuperrankribbon-s.png",
+        "description": "Super Contest Beauty Category Super Rank winner!"
+    },
+    {
+        "name": "Beauty Ribbon Ultra",
+        "image_url": "https://www.serebii.net/games/ribbons/beautycontesthyperrankribbon-s.png",
+        "description": "Super Contest Beauty Category Ultra Rank winner!"
+    },
+    {
+        "name": "Beauty Ribbon Master",
+        "image_url": "https://www.serebii.net/games/ribbons/beautycontestmasterrankribbon-s.png",
+        "description": "Super Contest Beauty Category Master Rank winner!"
+    },
+    {
+        "name": "Cute Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/cutecontestnormalrankribbon-s.png",
+        "description": "Super Contest Cute Category Normal Rank winner!"
+    },
+    {
+        "name": "Cute Ribbon Super",
+        "image_url": "https://www.serebii.net/games/ribbons/cutecontestsuperrankribbon-s.png",
+        "description": "Super Contest Cute Category Super Rank winner!"
+    },
+    {
+        "name": "Cute Ribbon Ultra",
+        "image_url": "https://www.serebii.net/games/ribbons/cutecontesthyperrankribbon-s.png",
+        "description": "Super Contest Cute Category Ultra Rank winner!"
+    },
+    {
+        "name": "Cute Ribbon Master",
+        "image_url": "https://www.serebii.net/games/ribbons/cutecontestmasterrankribbon-s.png",
+        "description": "Super Contest Cute Category Master Rank winner!"
+    },
+    {
+        "name": "Smart Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/smartcontestnormalrankribbon-s.png",
+        "description": "Super Contest Smart Category Normal Rank winner!"
+    },
+    {
+        "name": "Smart Ribbon Super",
+        "image_url": "https://www.serebii.net/games/ribbons/smartcontestsuperrankribbon-s.png",
+        "description": "Super Contest Smart Category Super Rank winner!"
+    },
+    {
+        "name": "Smart Ribbon Ultra",
+        "image_url": "https://www.serebii.net/games/ribbons/smartcontesthyperrankribbon-s.png",
+        "description": "Super Contest Smart Category Ultra Rank winner!"
+    },
+    {
+        "name": "Smart Ribbon Master",
+        "image_url": "https://www.serebii.net/games/ribbons/smartcontestmasterrankribbon-s.png",
+        "description": "Super Contest Smart Category Master Rank winner!"
+    },
+    {
+        "name": "Tough Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/toughcontestnormalrankribbon-s.png",
+        "description": "Super Contest Tough Category Normal Rank winner!"
+    },
+    {
+        "name": "Tough Ribbon Super",
+        "image_url": "https://www.serebii.net/games/ribbons/toughcontestsuperrankribbon-s.png",
+        "description": "Super Contest Tough Category Super Rank winner!"
+    },
+    {
+        "name": "Tough Ribbon Ultra",
+        "image_url": "https://www.serebii.net/games/ribbons/toughcontesthyperrankribbon-s.png",
+        "description": "Super Contest Tough Category Ultra Rank winner!"
+    },
+    {
+        "name": "Tough Ribbon Master",
+        "image_url": "https://www.serebii.net/games/ribbons/toughcontestmasterrankribbon-s.png",
+        "description": "Super Contest Tough Category Master Rank winner!"
+    },
+    {
+        "name": "Ability Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/abilityribbon.png",
+        "description": "A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower"
+    },
+    {
+        "name": "Great Ability Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/greatabilityribbon.png",
+        "description": "A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower"
+    },
+    {
+        "name": "Double Ability Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/doubleabilityribbon.png",
+        "description": "A Ribbon awarded for completing the Battle Tower Double challenge."
+    },
+    {
+        "name": "Multi Ability Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/multiabilityribbon.png",
+        "description": "A Ribbon awarded for completing the Battle Tower Multi challenge."
+    },
+    {
+        "name": "Pair Ability Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/pairabilityribbon.png",
+        "description": "A Ribbon awarded for completing the Battle Tower Link Multi challenge."
+    },
+    {
+        "name": "World Ability Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/worldabilityribbon.png",
+        "description": "A Ribbon awarded for completing the Wi-Fi Battle Tower challenge."
+    },
+    {
+        "name": "Alert Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/alertribbon.png",
+        "description": "A Ribbon for recalling an invigorating event that created life energy."
+    },
+    {
+        "name": "Shock Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/shockribbon.png",
+        "description": "A Ribbon for recalling a thrilling event that made life more exciting."
+    },
+    {
+        "name": "Downcast Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/downcastribbon.png",
+        "description": "A Ribbon for recalling feelings of sadness that added spice to life."
+    },
+    {
+        "name": "Careless Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/carelessribbon.png",
+        "description": "A Ribbon for recalling a careless error that helped steer life decisions."
+    },
+    {
+        "name": "Relax Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/relaxribbon.png",
+        "description": "A Ribbon for recalling a refreshing event that added sparkle to life."
+    },
+    {
+        "name": "Snooze Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/snoozeribbon.png",
+        "description": "A Ribbon for recalling a deep slumber that made life soothing."
+    },
+    {
+        "name": "Smile Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/smileribbon.png",
+        "description": "A Ribbon for recalling that smiles enrich the quality of life."
+    },
+    {
+        "name": "Gorgeous Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/gorgeousribbon.png",
+        "description": "An extraordinary gorgeous and extravagant Ribbon"
+    },
+    {
+        "name": "Royal Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/royalribbon.png",
+        "description": "An incredibly regal Ribbon with an air of nobility."
+    },
+    {
+        "name": "Gorgeous Royal Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/gorgeousroyalribbon.png",
+        "description": "A gorgeous and regal Ribbon that is the peak of fabulous."
+    },
+    {
+        "name": "Footprint Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/footprintribbon.png",
+        "description": "A Ribbon awarded to a Pok\u00e9mon deemed to have a top-quality footprint. - Show Mr. Footprint a Pok\u00e9mon that has gained 30 Levels"
+    },
+    {
+        "name": "Legend Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/legendribbon.png",
+        "description": "A Ribbon awarded for setting a legendary record. - Defeat Red"
+    },
+    {
+        "name": "Classic Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/classicribbon.png",
+        "description": "A Ribbon that proclaims love for Pok\u00e9mon. - Prevents trade on Global Trade Station"
+    },
+    {
+        "name": "Premier Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/premierribbon.png",
+        "description": "A Ribbon awarded for a special holiday."
+    },
+    {
+        "name": "Birthday Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/birthdayribbon.png",
+        "description": "A Ribbon that commemorates a birthday."
+    },
+    {
+        "name": "Special Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/specialribbon.png",
+        "description": "A special Ribbon for a special day."
+    },
+    {
+        "name": "Event Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/eventribbon.png",
+        "description": "A Ribbon awarded for participating in a special Pok\u00e9mon event."
+    },
+    {
+        "name": "Souvenir Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/souvenirribbon.png",
+        "description": "A Ribbon for cherishing a special memory."
+    },
+    {
+        "name": "Battle Champion Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/battlechampribbon.png",
+        "description": "A Ribbon awarded to a Battle Competition Champion."
+    },
+    {
+        "name": "Regional Champion Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/regionalchampribbon.png",
+        "description": "A Ribbon awarded to a Regional Champion in the Pok\u00e9mon World Championships."
+    },
+    {
+        "name": "National Champion Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/nationalchampribbon.png",
+        "description": "A Ribbon awarded to a National Champion in the Pok\u00e9mon World Championships."
+    },
+    {
+        "name": "Kalos Champion Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/kaloschampionribbon.png",
+        "description": "Ribbon for beating the Kalos Champion and entering the Kalos Hall of Fame"
+    },
+    {
+        "name": "Training Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/trainingribbon.png",
+        "description": "Ribbon that can be given to a Pok\u00e9mon that has overcome rigorous trials and training"
+    },
+    {
+        "name": "Skillful Battler Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/skillfulbattlerribbon.png",
+        "description": "Ribbon that can be given to a Pok\u00e9mon that has achieved victory in difficult battles."
+    },
+    {
+        "name": "Expert Battler Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/expertbattlerribbon.png",
+        "description": "Ribbon that can be given to a Pok\u00e9mon that has achieved victory in difficult battles."
+    },
+    {
+        "name": "Best Friends Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/bestfriendsribbon.png",
+        "description": "Ribbon that can be given to a Pok\u00e9mon with which you share a close and meaningful bond."
+    },
+    {
+        "name": "Contest Memory Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/contestmemoryribbon.png",
+        "description": "A commemorative Ribbon representing all the Ribbons you collected in far-off lands for contests. Number given varies depending on the ribbons on your Pok\u00e9mon in previous generations"
+    },
+    {
+        "name": "Battle Memory Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/battlememoryribbon.png",
+        "description": "A commemorative Ribbon representing all the Ribbons you collected in far-off lands for battling. Number given varies depending on the ribbons on your Pok\u00e9mon in previous generations"
+    },
+    {
+        "name": "Contest Memory Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/contestmemoryribbon2.png",
+        "description": "A commemorative Ribbon representing all the Ribbons you collected in far-off lands for contests. Number given varies depending on the ribbons on your Pok\u00e9mon in previous generations"
+    },
+    {
+        "name": "Battle Memory Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/battlememoryribbon2.png",
+        "description": "A commemorative Ribbon representing all the Ribbons you collected in far-off lands for battling. Number given varies depending on the ribbons on your Pok\u00e9mon in previous generations"
+    },
+    {
+        "name": "Alola Champion Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/alolachampionribbon.png",
+        "description": "A Ribbon awarded for becoming the Alola Champion and entering the Alola Hall of Fame."
+    },
+    {
+        "name": "Battle Royal Master Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/battleroyalmasterribbon.png",
+        "description": "A Ribbon that can be given to a Pok\u00e9mon that has achieved victory in the Battle Royal. - Defeat Battle Royal Master Rank battle"
+    },
+    {
+        "name": "Battle Tree Great Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/battletreegreatribbon.png",
+        "description": "A Ribbon awarded for winning against a Battle Legend in the Battle Tree."
+    },
+    {
+        "name": "Battle Tree Master Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/battletreemasterribbon.png",
+        "description": "A Ribbon awarded for winning against a Battle Legend in super battles in the Battle Tree."
+    },
+    {
+        "name": "Galar Champion Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/galarchampionribbon.png",
+        "description": "A Ribbon awarded for becoming the Galar Champion and entering the Galar Hall of Fame."
+    },
+    {
+        "name": "Tower Master Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/towermasterribbon.png",
+        "description": "A Ribbon awarded for winning against a champion in the Battle Tower."
+    },
+    {
+        "name": "Master Rank Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/masterrankribbon.png",
+        "description": "A Ribbon awarded for winning against a Trainer in the Master Ball Tier of Ranked Battles."
+    },
+    {
+        "name": "Record Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/recordribbon.png",
+        "description": "A Ribbon awarded for setting an incredible record."
+    },
+    {
+        "name": "History Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/historyribbon.png",
+        "description": "A Ribbon awarded for setting a historical record."
+    },
+    {
+        "name": "Red Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/redribbon.png",
+        "description": "A commemorative Ribbon obtained in a Mystery Zone."
+    },
+    {
+        "name": "Green Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/greenribbon.png",
+        "description": "A commemorative Ribbon obtained in a Mystery Zone."
+    },
+    {
+        "name": "Blue Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/blueribbon.png",
+        "description": "A commemorative Ribbon obtained in a Mystery Zone."
+    },
+    {
+        "name": "Festival Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/festivalribbon.png",
+        "description": "A commemorative Ribbon obtained in a Mystery Zone."
+    },
+    {
+        "name": "Carnival Ribbon",
+        "image_url": "https://www.serebii.net/games/ribbons/carnivalribbon.png",
+        "description": "A commemorative Ribbon obtained in a Mystery Zone."
+    },
+    {
+        "name": "Beauty Master Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/beautymasterribbon2.png",
+        "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied Beauty in Pok\u00e9mon Contests"
+    },
+    {
+        "name": "Cleverness Master Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/clevernessmasterribbon.png",
+        "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied Cleverness in Pok\u00e9mon Contests"
+    },
+    {
+        "name": "Coolness Master Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/coolnessmasterribbon.png",
+        "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied Coolness in Pok\u00e9mon Contests"
+    },
+    {
+        "name": "Cuteness Master Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/cutenessmasterribbon.png",
+        "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied Cuteness in Pok\u00e9mon Contests"
+    },
+    {
+        "name": "Toughness Master Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/toughnessmasterribbon.png",
+        "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied Toughness in Pok\u00e9mon Contests"
+    },
+    {
+        "name": "Contest Star Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/conteststarribbon.png",
+        "description": "A Ribbon awarded to a Pok\u00e9mon that has performed superbly in the Master Rank at a Super Contest Show."
+    },
+    {
+        "name": "Twinkling Star Ribbon",
+        "image_url": "https://www.serebii.net/games//games/ribbons/twinklingstarribbon.png",
+        "description": "A Ribbon awarded to a Pok\u00e9mon that has perfectly embodied shining brilliance in Super Contest Shows."
+    },
+    {
+        "name": "Lunchtime Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/lunchtimemark.png",
+        "description": "A mark for a peckish Pok\u00e9mon."
+    },
+    {
+        "name": "Sleepy-Time Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/sleepy-timemark.png",
+        "description": "A mark for a sleepy Pok\u00e9mon."
+    },
+    {
+        "name": "Dusk Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/duskmark.png",
+        "description": "A mark for a dozy Pok\u00e9mon."
+    },
+    {
+        "name": "Dawn Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/dawnmark.png",
+        "description": "A mark for an early-riser Pok\u00e9mon."
+    },
+    {
+        "name": "Cloudy Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/cloudymark.png",
+        "description": "A mark for a cloud-watching Pok\u00e9mon."
+    },
+    {
+        "name": "Rainy Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/rainymark.png",
+        "description": "A mark for a sodden Pok\u00e9mon."
+    },
+    {
+        "name": "Stormy Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/stormymark.png",
+        "description": "A mark for a thunderstruck Pok\u00e9mon."
+    },
+    {
+        "name": "Snowy Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/snowymark.png",
+        "description": "A mark for a snow-frolicking Pok\u00e9mon."
+    },
+    {
+        "name": "Blizzard Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/blizzardmark.png",
+        "description": "A mark for a shivering Pok\u00e9mon."
+    },
+    {
+        "name": "Dry Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/drymark.png",
+        "description": "A mark for a parched Pok\u00e9mon."
+    },
+    {
+        "name": "Sandstorm Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/sandstormmark.png",
+        "description": "A mark for a sandswept Pok\u00e9mon."
+    },
+    {
+        "name": "Misty Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/mistymark.png",
+        "description": "A mark for a mist-drifter Pok\u00e9mon."
+    },
+    {
+        "name": "Destiny Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/destinymark.png",
+        "description": "A mark of a chosen Pok\u00e9mon."
+    },
+    {
+        "name": "Fishing Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/fishingmark.png",
+        "description": "A mark for a catch-of-the-day Pok\u00e9mon."
+    },
+    {
+        "name": "Curry Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/currymark.png",
+        "description": "A mark for a curry-connoisseur Pok\u00e9mon."
+    },
+    {
+        "name": "Uncommon Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/uncommonmark.png",
+        "description": "A mark for a sociable Pok\u00e9mon."
+    },
+    {
+        "name": "Rare Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/raremark.png",
+        "description": "A mark for a reclusive Pok\u00e9mon."
+    },
+    {
+        "name": "Rowdy Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/rowdymark.png",
+        "description": "A mark for a rowdy Pok\u00e9mon."
+    },
+    {
+        "name": "Absent-Minded Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/absent-mindedmark.png",
+        "description": "A mark for a spacey Pok\u00e9mon."
+    },
+    {
+        "name": "Jittery Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/jitterymark.png",
+        "description": "A mark for an anxious Pok\u00e9mon."
+    },
+    {
+        "name": "Excited Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/excitedmark.png",
+        "description": "A mark for a giddy Pok\u00e9mon."
+    },
+    {
+        "name": "Charismatic Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/charismaticmark.png",
+        "description": "A mark for a radiant Pok\u00e9mon."
+    },
+    {
+        "name": "Calmness Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/calmnessmark.png",
+        "description": "A mark for a serene Pok\u00e9mon."
+    },
+    {
+        "name": "Intense Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/intensemark.png",
+        "description": "A mark for a feisty Pok\u00e9mon."
+    },
+    {
+        "name": "Zoned-Out Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/zoned-outmark.png",
+        "description": "A mark for a daydreaming Pok\u00e9mon."
+    },
+    {
+        "name": "Joyful Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/joyfulmark.png",
+        "description": "A mark for a joyful Pok\u00e9mon."
+    },
+    {
+        "name": "Angry Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/angrymark.png",
+        "description": "A mark for a furious Pok\u00e9mon."
+    },
+    {
+        "name": "Smiley Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/smileymark.png",
+        "description": "A mark for a beaming Pok\u00e9mon."
+    },
+    {
+        "name": "Teary Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/tearymark.png",
+        "description": "A mark for a teary-eyed Pok\u00e9mon."
+    },
+    {
+        "name": "Upbeat Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/upbeatmark.png",
+        "description": "A mark for a chipper Pok\u00e9mon."
+    },
+    {
+        "name": "Peeved Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/peevedmark.png",
+        "description": "A mark for a grumpy Pok\u00e9mon."
+    },
+    {
+        "name": "Intellectual Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/intellectualmark.png",
+        "description": "A mark for a scholarly Pok\u00e9mon."
+    },
+    {
+        "name": "Ferocious Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/ferociousmark.png",
+        "description": "A mark for a rampaging Pok\u00e9mon."
+    },
+    {
+        "name": "Crafty Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/craftymark.png",
+        "description": "A mark for an opportunistic Pok\u00e9mon."
+    },
+    {
+        "name": "Scowling Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/scowlingmark.png",
+        "description": "A mark for a stern Pok\u00e9mon."
+    },
+    {
+        "name": "Kindly Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/kindlymark.png",
+        "description": "A mark for a kindhearted Pok\u00e9mon."
+    },
+    {
+        "name": "Flustered Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/flusteredmark.png",
+        "description": "A mark for an easily flustered Pok\u00e9mon."
+    },
+    {
+        "name": "Pumped-Up Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/pumped-upmark.png",
+        "description": "A mark for a driven Pok\u00e9mon."
+    },
+    {
+        "name": "Zero Energy Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/zeroenergymark.png",
+        "description": "A mark for an apathetic Pok\u00e9mon."
+    },
+    {
+        "name": "Prideful Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/pridefulmark.png",
+        "description": "A mark for an arrogant Pok\u00e9mon."
+    },
+    {
+        "name": "Unsure Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/unsuremark.png",
+        "description": "A mark for an unsure Pok\u00e9mon."
+    },
+    {
+        "name": "Humble Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/humblemark.png",
+        "description": "A mark for a humble Pok\u00e9mon."
+    },
+    {
+        "name": "Thorny Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/thornymark.png",
+        "description": "A mark for a pompous Pok\u00e9mon."
+    },
+    {
+        "name": "Vigor Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/vigormark.png",
+        "description": "A mark for a lively Pok\u00e9mon."
+    },
+    {
+        "name": "Slump Mark",
+        "image_url": "https://www.serebii.net/games/ribbons/slumpmark.png",
+        "description": "A mark for a worn-out Pok\u00e9mon."
+    }
+]
