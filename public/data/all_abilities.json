@@ -1,5 +1,17 @@
 [
   {
+    "Name": "Aerilate",
+    "Effect": "Normal-Type Attacks that the Pokemon uses will deal damage as if they were Flying-Type, affecting STAB, weakness and resistance. Add 1 Dice of damage to Flying moves.",
+    "Description": "The Pokemon never touches the ground, a neverending wind current can be felt swirling around it.",
+    "_id": "aerilate"
+  },
+  {
+    "Name": "Adaptability",
+    "Effect": "Whenever this Pokemon uses a Damaging Move that matches its Type, add 1 Dice to the Damage pool of that attack.",
+    "Description": "The Pokemon will easily adapt to its surroundings, it will travel with ease no matter the terrain.",
+    "_id": "adaptability"
+  },
+  {
     "Name": "Ancient Presence",
     "Effect": "The user's moves becomes typeless and will always hit regardless of abilities.",
     "Description": "",
@@ -12,16 +24,34 @@
     "_id": "anger-point"
   },
   {
+    "Name": "Air Lock",
+    "Effect": "Negate all the effects of a Weather Condition in the field. If there are no weather conditions in the field, they cannot be activated by Moves or Abilities. If one is already active, it does not disappear but provides no effects. ",
+    "Description": "The Pokemon surrounds itself in a vacuum. Every Particle of rain, sand, and hail stands floating still around it, and even heat is filtered out of the place.",
+    "_id": "air-lock"
+  },
+  {
+    "Name": "Aftermath",
+    "Effect": "If this Pokemon faints due to a Non-Ranged Physical Attack , the user of that attack is dealt 2 Damage.",
+    "Description": "When hurt or upset, the Pokemon will prepare to burst. If hit hard enough, it will explode on contact",
+    "_id": "aftermath"
+  },
+  {
     "Name": "Aroma Veil",
     "Effect": "User and Allies in range are immune to the effects of the moves: Taunt, Torment Attract, Disable, Encore, and Heal Block.",
     "Description": "This Pokemon lets off a nice smell that helps you to stay relaxed even under stressful situations",
     "_id": "aroma-veil"
   },
   {
-    "Name": "Aerilate",
-    "Effect": "Normal-Type Attacks that the Pokemon uses will deal damage as if they were Flying-Type, affecting STAB, weakness and resistance. Add 1 Dice of damage to Flying moves.",
-    "Description": "The Pokemon never touches the ground, a neverending wind current can be felt swirling around it.",
-    "_id": "aerilate"
+    "Name": "Battery",
+    "Effect": "Increase 1 point to the Special of all Ally Pokemon in Range. Ally Pokemon get 1 Bonus Dice to all their Special Move's Damage Pool.",
+    "Description": "This Pokemon's presence creates an electric field that charges up electronics and even makes others feel energized.",
+    "_id": "battery"
+  },
+  {
+    "Name": "Analytic",
+    "Effect": "If this Pokemon has a lower initiative than its target, Add 1 Dice to all of its Damage Pools.",
+    "Description": "The Pokemon will never charge recklessly, it will take a moment to think about the best decision to make in any situation.",
+    "_id": "analytic"
   },
   {
     "Name": "Anticipation",
@@ -30,28 +60,34 @@
     "_id": "anticipation"
   },
   {
-    "Name": "Adaptability",
-    "Effect": "Whenever this Pokemon uses a Damaging Move that matches its Type, add 1 Dice to the Damage pool of that attack.",
-    "Description": "The Pokemon will easily adapt to its surroundings, it will travel with ease no matter the terrain.",
-    "_id": "adaptability"
+    "Name": "Arena Trap",
+    "Effect": "Foe Pokemon on the ground become Blocked, they cannot escape or be switched out for as long as this Pokemon is in the field. ",
+    "Description": "The gound around this Pokemon becomes really soft and hard to walk in. When in danger, it will sink the ground around itself creating a shifting sand pit.",
+    "_id": "arena-trap"
   },
   {
-    "Name": "Blaze Boost",
-    "Effect": "Immediately before using a Fire type move. Increase the user's Special, Special Defense and Dexterity by 1. Change Emolga to Blaze Boost form. In this form, whenever this Pokemon is hit with a Non-Ranged Physical Attack, roll 1 Chance Dice to inflict Burn 1 on the foe.",
+    "Name": "Berserk",
+    "Effect": "When this Pokemon's HP is half or less, Increase its Special Attribute by 1.",
+    "Description": "This Pokemon is usually calm in demeanor, but when its life or someone it cares for is in danger, the adrenaline rush will transform it into an enranged beast.",
+    "_id": "berserk"
+  },
+  {
+    "Name": "Battle Bond",
+    "Effect": "AFTER a foe is defeated by this Pokemon, if it has a Loyalty score of 5, change its Form into “Battle-Bond Form” (BBF) until the end of the scene or until it or its Trainer faints. Only one Pokemon per party may have this Ability. Pokemon with this Ability can't hold a Mega-Stone. \n- BBF increases by 2 the Limits of Strength and\n Special of the Pokemon.\n- Redistribute Rank points on BBF as you see fit.\n- Increase by 1 the Power of a Move of your choice.\n- Restore its full HP & Will, and heal any Status\n Ailment upon changing forms.\n- When in BBF, all combat damage inflicted on the Pokemon will also be dealt to its Trainer.",
+    "Description": "The Pokemon forges a strong bond with those who face the fiercest battles. After a victory, a surge of power surfaces thanks to their friendship.",
+    "_id": "battle-bond"
+  },
+  {
+    "Name": "Athenian",
+    "Effect": "This Pokemon has a permanent increase of 1 point to its Special attribute.",
     "Description": "",
-    "_id": "blaze-boost"
+    "_id": "athenian"
   },
   {
-    "Name": "Aura Break",
-    "Effect": "Invert the effects that the Abilities Dark Aura and Fairy Aura have on their users. If said Abilities would increase a Dice Pool for their user, reduce it instead.",
-    "Description": "Anyone emitting a particularly evil aura will be purified, anyone with an aura of purity will be corrupted by evil by coming close to this Pokemon",
-    "_id": "aura-break"
-  },
-  {
-    "Name": "Aftermath",
-    "Effect": "If this Pokemon faints due to a Non-Ranged Physical Attack , the user of that attack is dealt 2 Damage.",
-    "Description": "When hurt or upset, the Pokemon will prepare to burst. If hit hard enough, it will explode on contact",
-    "_id": "aftermath"
+    "Name": "Battle Armor",
+    "Effect": "If a Foe lands a Critical Hit on this Pokemon, it will not get any Bonus Dice for it.",
+    "Description": "The skin of the Pokemon is covered by plates of a very resistant material, like rock, steel, or an exoskeleton.",
+    "_id": "battle-armor"
   },
   {
     "Name": "Bad Dreams",
@@ -66,52 +102,28 @@
     "_id": "beast-boost"
   },
   {
+    "Name": "Ball Fetch",
+    "Effect": "Whenever you throw a pokeball to a wild Pokemon, if the roll for catching it is unsuccessful, the pokeball will not break, this Pokemon will bring it back to you at the end of the scene instead. ",
+    "Description": "The Pokemon is a bit obsessed with playing \"Fetch the Ball\". It can play for hours and hours and never get bored of it.",
+    "_id": "ball-fetch"
+  },
+  {
     "Name": "Bulletproof",
     "Effect": "Reduce by 1 all damage from Special and Ranged Physical Attacks done to this Pokemon.",
     "Description": "The armor on this Pokemon's body protects it from projectiles and small explosions.",
     "_id": "bulletproof"
   },
   {
-    "Name": "Battle Bond",
-    "Effect": "AFTER a foe is defeated by this Pokemon, if it has a Loyalty score of 5, change its Form into “Battle-Bond Form” (BBF) until the end of the scene or until it or its Trainer faints. Only one Pokemon per party may have this Ability. Pokemon with this Ability can't hold a Mega-Stone. \n- BBF increases by 2 the Limits of Strength and\n Special of the Pokemon.\n- Redistribute Rank points on BBF as you see fit.\n- Increase by 1 the Power of a Move of your choice.\n- Restore its full HP & Will, and heal any Status\n Ailment upon changing forms.\n- When in BBF, all combat damage inflicted on the Pokemon will also be dealt to its Trainer.",
-    "Description": "The Pokemon forges a strong bond with those who face the fiercest battles. After a victory, a surge of power surfaces thanks to their friendship.",
-    "_id": "battle-bond"
-  },
-  {
-    "Name": "Battery",
-    "Effect": "Increase 1 point to the Special of all Ally Pokemon in Range. Ally Pokemon get 1 Bonus Dice to all their Special Move's Damage Pool.",
-    "Description": "This Pokemon's presence creates an electric field that charges up electronics and even makes others feel energized.",
-    "_id": "battery"
-  },
-  {
-    "Name": "Battle Armor",
-    "Effect": "If a Foe lands a Critical Hit on this Pokemon, it will not get any Bonus Dice for it.",
-    "Description": "The skin of the Pokemon is covered by plates of a very resistant material, like rock, steel, or an exoskeleton.",
-    "_id": "battle-armor"
-  },
-  {
-    "Name": "Big Pecks",
-    "Effect": "This Pokemon cannot have its Defense reduced.",
-    "Description": "This tenacious Pokemon uses its beak to cover its weak spots.",
-    "_id": "big-pecks"
-  },
-  {
-    "Name": "Athenian",
-    "Effect": "This Pokemon has a permanent increase of 1 point to its Special attribute.",
+    "Name": "Blaze Boost",
+    "Effect": "Immediately before using a Fire type move. Increase the user's Special, Special Defense and Dexterity by 1. Change Emolga to Blaze Boost form. In this form, whenever this Pokemon is hit with a Non-Ranged Physical Attack, roll 1 Chance Dice to inflict Burn 1 on the foe.",
     "Description": "",
-    "_id": "athenian"
+    "_id": "blaze-boost"
   },
   {
-    "Name": "Berserk",
-    "Effect": "When this Pokemon's HP is half or less, Increase its Special Attribute by 1.",
-    "Description": "This Pokemon is usually calm in demeanor, but when its life or someone it cares for is in danger, the adrenaline rush will transform it into an enranged beast.",
-    "_id": "berserk"
-  },
-  {
-    "Name": "Ball Fetch",
-    "Effect": "Whenever you throw a pokeball to a wild Pokemon, if the roll for catching it is unsuccessful, the pokeball will not break, this Pokemon will bring it back to you at the end of the scene instead. ",
-    "Description": "The Pokemon is a bit obsessed with playing \"Fetch the Ball\". It can play for hours and hours and never get bored of it.",
-    "_id": "ball-fetch"
+    "Name": "Aura Break",
+    "Effect": "Invert the effects that the Abilities Dark Aura and Fairy Aura have on their users. If said Abilities would increase a Dice Pool for their user, reduce it instead.",
+    "Description": "Anyone emitting a particularly evil aura will be purified, anyone with an aura of purity will be corrupted by evil by coming close to this Pokemon",
+    "_id": "aura-break"
   },
   {
     "Name": "Cheek Pouch",
@@ -120,22 +132,16 @@
     "_id": "cheek-pouch"
   },
   {
+    "Name": "Big Pecks",
+    "Effect": "This Pokemon cannot have its Defense reduced.",
+    "Description": "This tenacious Pokemon uses its beak to cover its weak spots.",
+    "_id": "big-pecks"
+  },
+  {
     "Name": "Chlorofury",
     "Effect": "When Mega evolving or on switch in. Increase the user's Dexterity by 1 and its Special by X for 2 turns. X is the number of fainted teammates on this Pokemon's team.",
     "Description": "",
     "_id": "chlorofury"
-  },
-  {
-    "Name": "Arena Trap",
-    "Effect": "Foe Pokemon on the ground become Blocked, they cannot escape or be switched out for as long as this Pokemon is in the field. ",
-    "Description": "The gound around this Pokemon becomes really soft and hard to walk in. When in danger, it will sink the ground around itself creating a shifting sand pit.",
-    "_id": "arena-trap"
-  },
-  {
-    "Name": "Air Lock",
-    "Effect": "Negate all the effects of a Weather Condition in the field. If there are no weather conditions in the field, they cannot be activated by Moves or Abilities. If one is already active, it does not disappear but provides no effects. ",
-    "Description": "The Pokemon surrounds itself in a vacuum. Every Particle of rain, sand, and hail stands floating still around it, and even heat is filtered out of the place.",
-    "_id": "air-lock"
   },
   {
     "Name": "Blaze",
@@ -144,64 +150,10 @@
     "_id": "blaze"
   },
   {
-    "Name": "Analytic",
-    "Effect": "If this Pokemon has a lower initiative than its target, Add 1 Dice to all of its Damage Pools.",
-    "Description": "The Pokemon will never charge recklessly, it will take a moment to think about the best decision to make in any situation.",
-    "_id": "analytic"
-  },
-  {
     "Name": "Chlorophyll",
     "Effect": "If Sunny Weather is in effect, Increase 2 Points to this Pokemon's Dexterity Attribute.",
     "Description": "The Pokemon synthesizes sunlight to get energy, if it's kept in a sunny environment it will rarely need to eat.",
     "_id": "chlorophyll"
-  },
-  {
-    "Name": "Clear Body",
-    "Effect": "Other Pokemon cannot Increase or Decrease the Attributes of this Pokemon. This Pokemon can still Increase or Decrease its own Attributes.",
-    "Description": "The Pokemon is completely aware of all its body surroundings, trying to sneak on it will be incredibly difficult.",
-    "_id": "clear-body"
-  },
-  {
-    "Name": "Cotton Down",
-    "Effect": "Is Pokemon is hit with a Non-Ranged Physical Attack, reduce the speed of all Pokemon close to it. (Allies and foes alike at storyteller's discretion)",
-    "Description": "The cotton fluff on this Pokemon's body is constantly being shed, it can be used to make beautiful clothes but it's also bothersome to walk on.",
-    "_id": "cotton-down"
-  },
-  {
-    "Name": "Color Change",
-    "Effect": "When this Pokemon is dealt damage it will temporarily change its type to match the type of the move that just hit it. The effect ends if the Pokemon is removed from battle.",
-    "Description": "This Pokemon can change its color and energy to camouflage and merge with the surroundings.",
-    "_id": "color-change"
-  },
-  {
-    "Name": "Comatose",
-    "Effect": "The Pokemon permanently has the “Sleep” Status Condition but it is immune to its effects. This Pokemon can't be inflicted other Status Condition. Moves and Abilities affecting Asleep Pokemon still have an effect on it.",
-    "Description": "For some reason this Pokemon is always asleep and can't wake up. Still, it is able to understand commands and move just as if it were sleepwalking",
-    "_id": "comatose"
-  },
-  {
-    "Name": "Cloud Nine",
-    "Effect": "Negate the effects of Weather Conditions on this Pokemon. This does not include: Harsh Sunlight, Typhoon and Strong Winds",
-    "Description": "This Pokemon will easily feel pleased, and it's prone to be heappier than others. No matter if it's sunny or rainy it will never feel gloomy",
-    "_id": "cloud-nine"
-  },
-  {
-    "Name": "Competitive",
-    "Effect": "The first time this Pokemon gets an Attribute reduced by a foe during a battle, increase 2 Points to its Special. ",
-    "Description": "This Pokemon's determination grows in the face of adversity. It is always trying to compete with those around it.",
-    "_id": "competitive"
-  },
-  {
-    "Name": "Cursed Body",
-    "Effect": "Whenever this Pokemon is dealt damage with a Move, Roll 3 Chance Dice to disable that move. More than one Move may be disabled this way.",
-    "Description": "This Pokemon carries a curse within itself. Crossing this Pokemon is nota good idea.",
-    "_id": "cursed-body"
-  },
-  {
-    "Name": "Curious Medicine",
-    "Effect": "(provisional) When the Pokemon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies. ",
-    "Description": "",
-    "_id": "curious-medicine"
   },
   {
     "Name": "Compound Eyes",
@@ -210,16 +162,40 @@
     "_id": "compound-eyes"
   },
   {
+    "Name": "Cloud Nine",
+    "Effect": "Negate the effects of Weather Conditions on this Pokemon. This does not include: Harsh Sunlight, Typhoon and Strong Winds",
+    "Description": "This Pokemon will easily feel pleased, and it's prone to be heappier than others. No matter if it's sunny or rainy it will never feel gloomy",
+    "_id": "cloud-nine"
+  },
+  {
+    "Name": "Color Change",
+    "Effect": "When this Pokemon is dealt damage it will temporarily change its type to match the type of the move that just hit it. The effect ends if the Pokemon is removed from battle.",
+    "Description": "This Pokemon can change its color and energy to camouflage and merge with the surroundings.",
+    "_id": "color-change"
+  },
+  {
+    "Name": "Competitive",
+    "Effect": "The first time this Pokemon gets an Attribute reduced by a foe during a battle, increase 2 Points to its Special. ",
+    "Description": "This Pokemon's determination grows in the face of adversity. It is always trying to compete with those around it.",
+    "_id": "competitive"
+  },
+  {
+    "Name": "Contrary",
+    "Effect": "If anything would Decrease an Attribute of this Pokemon, Increase it instead. If anything would Increase an Attribute of this Pokemon, Decrease it instead.",
+    "Description": "Most of the time this pokemon will want to do the opposite of what you want. Sometimes it even contradicts itself.",
+    "_id": "contrary"
+  },
+  {
+    "Name": "Comatose",
+    "Effect": "The Pokemon permanently has the “Sleep” Status Condition but it is immune to its effects. This Pokemon can't be inflicted other Status Condition. Moves and Abilities affecting Asleep Pokemon still have an effect on it.",
+    "Description": "For some reason this Pokemon is always asleep and can't wake up. Still, it is able to understand commands and move just as if it were sleepwalking",
+    "_id": "comatose"
+  },
+  {
     "Name": "Damp",
     "Effect": "No ally or foe will be able to use the moves Explosion or Self-Destruct in an area around this Pokemon. ",
     "Description": "The Pokemon gathers the humidity in the air around itself. Lighting a spark or keeping a fire on, will be almost impossible close to it.",
     "_id": "damp"
-  },
-  {
-    "Name": "Disguise",
-    "Effect": "The first time this Pokemon would receive damage during a battle, reduce that damage to zero. Entry Hazards, Weather Conditions and Status Ailments do not trigger this Ability",
-    "Description": "This Pokemon wears a convincing disguise of another Pokemon. If it receives damage, the disguise will break, making it appear as if it received a fatal injury.",
-    "_id": "disguise"
   },
   {
     "Name": "Defeatist",
@@ -234,34 +210,40 @@
     "_id": "dazzling"
   },
   {
-    "Name": "Cute Charm",
-    "Effect": "If a foe hits this Pokemon with a Non-Ranged Physical Attack, roll 3 Chance Dice to make the foe fall in Love",
-    "Description": "It may be its twinkly eyes or its rosy cheeks, but other people and Pokemon will try to win this Pokemon's heart.",
-    "_id": "cute-charm"
+    "Name": "Delta Stream",
+    "Effect": "When this Pokemon comes out, it automatically starts the effects of Strong Wind Weather. The effects end when the Pokemon leaves the battle. (In case of stalemate, The Pokemon with highest Will might keep the dominant weather)",
+    "Description": "The wind currents blow through the entire battlefield, Pokemon might be blown away if they don't know how to fly.",
+    "_id": "delta-stream"
   },
   {
-    "Name": "Corrosion",
-    "Effect": "Ignore any immunity the foe has to Poison-Type Damage and/or to be inflicted Poison and Badly Poisoned Status Ailments.",
-    "Description": "This Pokemon's venom can eat through metal, wood, and most inorganic and organic materials. Be careful not to touch it.",
-    "_id": "corrosion"
+    "Name": "Cursed Body",
+    "Effect": "Whenever this Pokemon is dealt damage with a Move, Roll 3 Chance Dice to disable that move. More than one Move may be disabled this way.",
+    "Description": "This Pokemon carries a curse within itself. Crossing this Pokemon is nota good idea.",
+    "_id": "cursed-body"
   },
   {
-    "Name": "Contrary",
-    "Effect": "If anything would Decrease an Attribute of this Pokemon, Increase it instead. If anything would Increase an Attribute of this Pokemon, Decrease it instead.",
-    "Description": "Most of the time this pokemon will want to do the opposite of what you want. Sometimes it even contradicts itself.",
-    "_id": "contrary"
+    "Name": "Clear Body",
+    "Effect": "Other Pokemon cannot Increase or Decrease the Attributes of this Pokemon. This Pokemon can still Increase or Decrease its own Attributes.",
+    "Description": "The Pokemon is completely aware of all its body surroundings, trying to sneak on it will be incredibly difficult.",
+    "_id": "clear-body"
   },
   {
-    "Name": "Dark Aura",
-    "Effect": "Increase 2 dice to all Damage Pools of Dark-Type Moves of all Pokemon in the field. This effect does not stack. Pokemon and Trainers on the field will not cooperate with each other.",
-    "Description": "A powerful black aura comes out of this Pokemon, Shrouding the field in darkness and filling everyone's hearts with evil, selfishness and corruption.",
-    "_id": "dark-aura"
+    "Name": "Cotton Down",
+    "Effect": "Is Pokemon is hit with a Non-Ranged Physical Attack, reduce the speed of all Pokemon close to it. (Allies and foes alike at storyteller's discretion)",
+    "Description": "The cotton fluff on this Pokemon's body is constantly being shed, it can be used to make beautiful clothes but it's also bothersome to walk on.",
+    "_id": "cotton-down"
   },
   {
-    "Name": "Download",
-    "Effect": "When this Pokemon comes out it will scan its foes and provide information about them. It will then Increase 1 Point to either Strength or Special Attribute at Storyteller's discretion",
+    "Name": "Disguise",
+    "Effect": "The first time this Pokemon would receive damage during a battle, reduce that damage to zero. Entry Hazards, Weather Conditions and Status Ailments do not trigger this Ability",
+    "Description": "This Pokemon wears a convincing disguise of another Pokemon. If it receives damage, the disguise will break, making it appear as if it received a fatal injury.",
+    "_id": "disguise"
+  },
+  {
+    "Name": "Curious Medicine",
+    "Effect": "(provisional) When the Pokemon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies. ",
     "Description": "",
-    "_id": "download"
+    "_id": "curious-medicine"
   },
   {
     "Name": "Dancer",
@@ -276,10 +258,16 @@
     "_id": "dauntless-shield"
   },
   {
-    "Name": "Defiant",
-    "Effect": "The first time this Pokemon has an Attribute reduced during a battle, Increase 2 Points to its Strength.",
-    "Description": "This Pokemon will not yield, the harder the situation gets, the higher its fighting spirit will grow. It may, however, be a bit of a rebel.",
-    "_id": "defiant"
+    "Name": "Drizzle",
+    "Effect": "When this Pokemon comes out, it automatically starts the effects of Rain Weather. The effects end when the Pokemon leaves the battle. (In case of stalemate the Pokemon with higher Will might keep the dominant weather)",
+    "Description": "",
+    "_id": "drizzle"
+  },
+  {
+    "Name": "Dark Aura",
+    "Effect": "Increase 2 dice to all Damage Pools of Dark-Type Moves of all Pokemon in the field. This effect does not stack. Pokemon and Trainers on the field will not cooperate with each other.",
+    "Description": "A powerful black aura comes out of this Pokemon, Shrouding the field in darkness and filling everyone's hearts with evil, selfishness and corruption.",
+    "_id": "dark-aura"
   },
   {
     "Name": "Desolate Land",
@@ -288,22 +276,34 @@
     "_id": "desolate-land"
   },
   {
-    "Name": "Drizzle",
-    "Effect": "When this Pokemon comes out, it automatically starts the effects of Rain Weather. The effects end when the Pokemon leaves the battle. (In case of stalemate the Pokemon with higher Will might keep the dominant weather)",
+    "Name": "Defiant",
+    "Effect": "The first time this Pokemon has an Attribute reduced during a battle, Increase 2 Points to its Strength.",
+    "Description": "This Pokemon will not yield, the harder the situation gets, the higher its fighting spirit will grow. It may, however, be a bit of a rebel.",
+    "_id": "defiant"
+  },
+  {
+    "Name": "Cute Charm",
+    "Effect": "If a foe hits this Pokemon with a Non-Ranged Physical Attack, roll 3 Chance Dice to make the foe fall in Love",
+    "Description": "It may be its twinkly eyes or its rosy cheeks, but other people and Pokemon will try to win this Pokemon's heart.",
+    "_id": "cute-charm"
+  },
+  {
+    "Name": "Download",
+    "Effect": "When this Pokemon comes out it will scan its foes and provide information about them. It will then Increase 1 Point to either Strength or Special Attribute at Storyteller's discretion",
     "Description": "",
-    "_id": "drizzle"
+    "_id": "download"
   },
   {
-    "Name": "Delta Stream",
-    "Effect": "When this Pokemon comes out, it automatically starts the effects of Strong Wind Weather. The effects end when the Pokemon leaves the battle. (In case of stalemate, The Pokemon with highest Will might keep the dominant weather)",
-    "Description": "The wind currents blow through the entire battlefield, Pokemon might be blown away if they don't know how to fly.",
-    "_id": "delta-stream"
+    "Name": "Corrosion",
+    "Effect": "Ignore any immunity the foe has to Poison-Type Damage and/or to be inflicted Poison and Badly Poisoned Status Ailments.",
+    "Description": "This Pokemon's venom can eat through metal, wood, and most inorganic and organic materials. Be careful not to touch it.",
+    "_id": "corrosion"
   },
   {
-    "Name": "Drought",
-    "Effect": "When this Pokemon comes out, it automatically starts the effects of Sunny Weather. The effects end when the Pokemon leaves the battle. (In case of stalemate the Pokemon with higher Will might keep the dominant weather)",
-    "Description": "The Sunlight will be harsly bright, and the heat will increase in the field for as long as this Pokemon wants to.",
-    "_id": "drought"
+    "Name": "Ethereal Shroud",
+    "Effect": "The user gains Ghost type associated immunities and resistances.",
+    "Description": "",
+    "_id": "ethereal-shroud"
   },
   {
     "Name": "Emergency Exit",
@@ -312,16 +312,16 @@
     "_id": "emergency-exit"
   },
   {
+    "Name": "Drought",
+    "Effect": "When this Pokemon comes out, it automatically starts the effects of Sunny Weather. The effects end when the Pokemon leaves the battle. (In case of stalemate the Pokemon with higher Will might keep the dominant weather)",
+    "Description": "The Sunlight will be harsly bright, and the heat will increase in the field for as long as this Pokemon wants to.",
+    "_id": "drought"
+  },
+  {
     "Name": "Effect Spore",
     "Effect": "If hit by a Non-Ranged Physical Attack, the Pokemon rolls 3 Chance Dice to Poison, Paralize or Sleep the foe at random.",
     "Description": "When stressed, this Pokemon will leak spores through its body that scatter in the air causing severe allergies.",
     "_id": "effect-spore"
-  },
-  {
-    "Name": "Dry Skin",
-    "Effect": "If Sunny Weather is in effect, this Pokemon will receive 1 damage at the end of each round. Fire attacks will deal 1 additional Damage to this Pokemon. Water attacks may heal 1 HP to this Pokemon instead of dealing damage.",
-    "Description": "The skin of this Pokemon will need special care, constant hydration and protection against heat.",
-    "_id": "dry-skin"
   },
   {
     "Name": "Flash Fire",
@@ -330,10 +330,10 @@
     "_id": "flash-fire"
   },
   {
-    "Name": "Electric Surge",
-    "Effect": "When this Pokemon comes out, it automatically starts the effects of the Move Electric Terrain. (In case of stalemate the Pokemon with higher Will might keep the dominant Terrain)",
-    "Description": "The Pokemon can surround itself with an electric field that fills the air with tension and keeps everyone on edge.",
-    "_id": "electric-surge"
+    "Name": "Flare Boost",
+    "Effect": "If this Pokemon gets any Burn condition, Increase 2 points to its Special attribute.",
+    "Description": "Pokemon with this ability benefit from the extreme heat produced by fire. It might be somewhat of a pyromaniac.",
+    "_id": "flare-boost"
   },
   {
     "Name": "Flower Gift",
@@ -348,52 +348,16 @@
     "_id": "fluffy"
   },
   {
+    "Name": "Fairy Aura",
+    "Effect": "Increase 2 dice to all Damage Pools of Fairy-Type Moves of all Pokemon in the field. This effect does not stack. Pokemon and Trainers on the field will not attack the user of this Ability.",
+    "Description": "A powerful pink glowing aura comes out of this Pokemon, covering the field in a glimmering light, filling everyone's hearts with peace, hope, and love.",
+    "_id": "fairy-aura"
+  },
+  {
     "Name": "Filter",
     "Effect": "If a foe uses a move that would deal Super Effective Damage to this Pokemon, reduce by 1 the total Damage from that attack.",
     "Description": "This Pokemon uses an invisible energy field to filter away harmful energies and substances.",
     "_id": "filter"
-  },
-  {
-    "Name": "Early Bird",
-    "Effect": "The time this Pokemon would be asleep is reduced by half, it will only need to score 2 successes on its Insight roll to wake up in battle. This effect does not apply for the move “Rest”",
-    "Description": "Pokemon with this ability are light sleepers that will easily rise from slumber. They wake up full of energy with just a couple hours of sleep.",
-    "_id": "early-bird"
-  },
-  {
-    "Name": "Foundry",
-    "Effect": "Rock-Type Attacks that the Pokemon uses will deal damage as if they were Fire-Type, affecting STAB, weakness and resistance. Add 1 Dice of damage to Fire moves.",
-    "Description": "",
-    "_id": "foundry"
-  },
-  {
-    "Name": "Flare Boost",
-    "Effect": "If this Pokemon gets any Burn condition, Increase 2 points to its Special attribute.",
-    "Description": "Pokemon with this ability benefit from the extreme heat produced by fire. It might be somewhat of a pyromaniac.",
-    "_id": "flare-boost"
-  },
-  {
-    "Name": "Forecast",
-    "Effect": "The Type of this Pokemon will change depending on the active weather. Fire under Sun, Water under Rain, Ice under Hail and Rock under Sand.",
-    "Description": "This Pokemon can absorb the elements around to adapt and survive even under extreme conditions.",
-    "_id": "forecast"
-  },
-  {
-    "Name": "Fur Coat",
-    "Effect": "Reduce by 2 the Damage dealt to this Pokemon by All Physical Attacks.",
-    "Description": "This Pokemon's fluffy exterior is cuddly, soft, hypoallergenic, and also serves as a cushin against powerful blows.",
-    "_id": "fur-coat"
-  },
-  {
-    "Name": "Flame Body",
-    "Effect": "When hit by a Non-Ranged Physical Attack, this Pokemon rolls 3 Chance Dice to burn the foe.",
-    "Description": "This Pokemon can willingly ignite its body on fire, receiving no harm from it. Objects that come into contact with this Pokemon may catch fire.",
-    "_id": "flame-body"
-  },
-  {
-    "Name": "Forewarn",
-    "Effect": "In battle, this Pokemon will warn about the strongest move one of its foes has. Storyteller has to reveal it to the trainer of this Pokemon in secret.",
-    "Description": "When this Pokemon feels bad intentions or disaster approaching, it will mentally warn its trainer. The trainer must make a roll of Insight to get the message.",
-    "_id": "forewarn"
   },
   {
     "Name": "Flower Veil",
@@ -402,16 +366,16 @@
     "_id": "flower-veil"
   },
   {
-    "Name": "Frisk",
-    "Effect": "When this Pokemon enters the battlefield, Storyteller must reveal its trainer the held item of one foe.",
-    "Description": "This Pokemon can see the items others may be carrying, even if they are hidden.",
-    "_id": "frisk"
+    "Name": "Flame Body",
+    "Effect": "When hit by a Non-Ranged Physical Attack, this Pokemon rolls 3 Chance Dice to burn the foe.",
+    "Description": "This Pokemon can willingly ignite its body on fire, receiving no harm from it. Objects that come into contact with this Pokemon may catch fire.",
+    "_id": "flame-body"
   },
   {
-    "Name": "Gale Wings",
-    "Effect": "Add +1 Priority to all Flying-Type Moves of this Pokemon.",
-    "Description": "This pokemon's wings are perfectly designed to ride the roughest winds effortlessly.",
-    "_id": "gale-wings"
+    "Name": "Foundry",
+    "Effect": "Rock-Type Attacks that the Pokemon uses will deal damage as if they were Fire-Type, affecting STAB, weakness and resistance. Add 1 Dice of damage to Fire moves.",
+    "Description": "",
+    "_id": "foundry"
   },
   {
     "Name": "Full Metal Body",
@@ -420,10 +384,16 @@
     "_id": "full-metal-body"
   },
   {
-    "Name": "Ethereal Shroud",
-    "Effect": "The user gains Ghost type associated immunities and resistances.",
-    "Description": "",
-    "_id": "ethereal-shroud"
+    "Name": "Gale Wings",
+    "Effect": "Add +1 Priority to all Flying-Type Moves of this Pokemon.",
+    "Description": "This pokemon's wings are perfectly designed to ride the roughest winds effortlessly.",
+    "_id": "gale-wings"
+  },
+  {
+    "Name": "Forewarn",
+    "Effect": "In battle, this Pokemon will warn about the strongest move one of its foes has. Storyteller has to reveal it to the trainer of this Pokemon in secret.",
+    "Description": "When this Pokemon feels bad intentions or disaster approaching, it will mentally warn its trainer. The trainer must make a roll of Insight to get the message.",
+    "_id": "forewarn"
   },
   {
     "Name": "Galvanize",
@@ -432,16 +402,46 @@
     "_id": "galvanize"
   },
   {
+    "Name": "Fur Coat",
+    "Effect": "Reduce by 2 the Damage dealt to this Pokemon by All Physical Attacks.",
+    "Description": "This Pokemon's fluffy exterior is cuddly, soft, hypoallergenic, and also serves as a cushin against powerful blows.",
+    "_id": "fur-coat"
+  },
+  {
+    "Name": "Electric Surge",
+    "Effect": "When this Pokemon comes out, it automatically starts the effects of the Move Electric Terrain. (In case of stalemate the Pokemon with higher Will might keep the dominant Terrain)",
+    "Description": "The Pokemon can surround itself with an electric field that fills the air with tension and keeps everyone on edge.",
+    "_id": "electric-surge"
+  },
+  {
+    "Name": "Forecast",
+    "Effect": "The Type of this Pokemon will change depending on the active weather. Fire under Sun, Water under Rain, Ice under Hail and Rock under Sand.",
+    "Description": "This Pokemon can absorb the elements around to adapt and survive even under extreme conditions.",
+    "_id": "forecast"
+  },
+  {
+    "Name": "Frisk",
+    "Effect": "When this Pokemon enters the battlefield, Storyteller must reveal its trainer the held item of one foe.",
+    "Description": "This Pokemon can see the items others may be carrying, even if they are hidden.",
+    "_id": "frisk"
+  },
+  {
     "Name": "Friend Guard",
     "Effect": "If this Pokemon is hit by a move performed by an ally, Reduce by 2 the damage dealt to it.",
     "Description": "The Pokemon is adorable and wakes the parental instincts in others. All of its allies will seek to potect it all the time.",
     "_id": "friend-guard"
   },
   {
-    "Name": "Fairy Aura",
-    "Effect": "Increase 2 dice to all Damage Pools of Fairy-Type Moves of all Pokemon in the field. This effect does not stack. Pokemon and Trainers on the field will not attack the user of this Ability.",
-    "Description": "A powerful pink glowing aura comes out of this Pokemon, covering the field in a glimmering light, filling everyone's hearts with peace, hope, and love.",
-    "_id": "fairy-aura"
+    "Name": "Dry Skin",
+    "Effect": "If Sunny Weather is in effect, this Pokemon will receive 1 damage at the end of each round. Fire attacks will deal 1 additional Damage to this Pokemon. Water attacks may heal 1 HP to this Pokemon instead of dealing damage.",
+    "Description": "The skin of this Pokemon will need special care, constant hydration and protection against heat.",
+    "_id": "dry-skin"
+  },
+  {
+    "Name": "Early Bird",
+    "Effect": "The time this Pokemon would be asleep is reduced by half, it will only need to score 2 successes on its Insight roll to wake up in battle. This effect does not apply for the move “Rest”",
+    "Description": "Pokemon with this ability are light sleepers that will easily rise from slumber. They wake up full of energy with just a couple hours of sleep.",
+    "_id": "early-bird"
   },
   {
     "Name": "Gluttony",
@@ -456,22 +456,10 @@
     "_id": "grassy-surge"
   },
   {
-    "Name": "Grass Pelt",
-    "Effect": "If the effects of the move Grassy Terrain are active, Increase 2 Points to this Pokemon's Defense Attribute.",
-    "Description": "This Pokemon has a lush coat of grass to protect its body, even if you cut it, it will regrow in a few days.",
-    "_id": "grass-pelt"
-  },
-  {
-    "Name": "Healer",
-    "Effect": "If an Ally on the battlefield has a Status Ailment, at the End of the Round this Pokemon rolls 3 Chance Dice to heal it.",
-    "Description": "The pokemon has healing powers, and will use them without hesitation to aid others.",
-    "_id": "healer"
-  },
-  {
-    "Name": "Gorilla Tactics",
-    "Effect": "At the start of the fight, choose a Move. Increase 1 point to this Pokemon's Strength Attribute, it can only perform the chosen Move but it may Evade every Round. This effect resets if the Pokemon is recalled from battle. ",
-    "Description": "The Pokemon's manners leave a lot to be desired, it is brutish and uncivilized, its only approach to facing problems",
-    "_id": "gorilla-tactics"
+    "Name": "Gulp Missile",
+    "Effect": "If this Pokemon uses the Moves Surf or Dive, it will change forms after dealing damage. “Gulping Form” if it has more than half HP remaining, “Gorging Form” if it has half or less HP remaining. If the Pokemon is dealt damage by a foe when it is in any of this Forms, deal 2 Dice of Damage and an effect to it. Return this Pokemon to its regular form afterwards.",
+    "Description": "This Pokemon is an excellent hunter, when diving into a pool of water it will always come out with prey. And it will sometimes use the prey as a weapon.",
+    "_id": "gulp-missile"
   },
   {
     "Name": "Harvest",
@@ -480,28 +468,10 @@
     "_id": "harvest"
   },
   {
-    "Name": "Gulp Missile",
-    "Effect": "If this Pokemon uses the Moves Surf or Dive, it will change forms after dealing damage. “Gulping Form” if it has more than half HP remaining, “Gorging Form” if it has half or less HP remaining. If the Pokemon is dealt damage by a foe when it is in any of this Forms, deal 2 Dice of Damage and an effect to it. Return this Pokemon to its regular form afterwards.",
-    "Description": "This Pokemon is an excellent hunter, when diving into a pool of water it will always come out with prey. And it will sometimes use the prey as a weapon.",
-    "_id": "gulp-missile"
-  },
-  {
-    "Name": "Hubris",
-    "Effect": "If a foe faints because of an attack dealt by this Pokemon, Increase 1 Point to its Special Attribute. Up to 3 points can be increased this way.",
-    "Description": "",
-    "_id": "hubris"
-  },
-  {
-    "Name": "Gooey",
-    "Effect": "The first time an opponent hits this Pokemon with a Non-Ranged Physical Attack, reduce 1 Point to its Dexterity Attribute.",
-    "Description": "This Pokemon's sticky ooze will rub into anyone that touches it. This may become quite a burden. On the bright side, it is a natural and organic glue.",
-    "_id": "gooey"
-  },
-  {
-    "Name": "Honey Gather",
-    "Effect": "The Pokemon produces its own honey, you can get a small barrel of high quality honey every day. A small barrel of honey can be sold for up to $100. Honey attracts wild Pokemon and feeding a Pokemon with it will make it happy.",
-    "Description": "The Pokemon produces its own honey, you can get a small barrel of high quality honey every day.",
-    "_id": "honey-gather"
+    "Name": "Gorilla Tactics",
+    "Effect": "At the start of the fight, choose a Move. Increase 1 point to this Pokemon's Strength Attribute, it can only perform the chosen Move but it may Evade every Round. This effect resets if the Pokemon is recalled from battle. ",
+    "Description": "The Pokemon's manners leave a lot to be desired, it is brutish and uncivilized, its only approach to facing problems",
+    "_id": "gorilla-tactics"
   },
   {
     "Name": "Heatproof",
@@ -510,10 +480,40 @@
     "_id": "heatproof"
   },
   {
+    "Name": "Guts",
+    "Effect": "While affected by a Status Condition, Increase 2 Points to this Pokemon's Strength Attribute.",
+    "Description": "This Pokemon dares to do everything no one else dares to, and won't lose its determination easily. It may be a little reckless, though.",
+    "_id": "guts"
+  },
+  {
+    "Name": "Grass Pelt",
+    "Effect": "If the effects of the move Grassy Terrain are active, Increase 2 Points to this Pokemon's Defense Attribute.",
+    "Description": "This Pokemon has a lush coat of grass to protect its body, even if you cut it, it will regrow in a few days.",
+    "_id": "grass-pelt"
+  },
+  {
     "Name": "Heliophobia",
     "Effect": "If Sunny Weather is in effect, this Pokemon will receive 1 damage at the end of each round. If New Moon is in effect, you may restore 1 HP to this Pokemon at the end of each Round.",
     "Description": "",
     "_id": "heliophobia"
+  },
+  {
+    "Name": "Honey Gather",
+    "Effect": "The Pokemon produces its own honey, you can get a small barrel of high quality honey every day. A small barrel of honey can be sold for up to $100. Honey attracts wild Pokemon and feeding a Pokemon with it will make it happy.",
+    "Description": "The Pokemon produces its own honey, you can get a small barrel of high quality honey every day.",
+    "_id": "honey-gather"
+  },
+  {
+    "Name": "Healer",
+    "Effect": "If an Ally on the battlefield has a Status Ailment, at the End of the Round this Pokemon rolls 3 Chance Dice to heal it.",
+    "Description": "The pokemon has healing powers, and will use them without hesitation to aid others.",
+    "_id": "healer"
+  },
+  {
+    "Name": "Huge Power",
+    "Effect": "This Pokemon has a permanent increase of 1 point to its Strength attribute.",
+    "Description": "The pokemon has an unnatural source of strength beyond its physical appearance.",
+    "_id": "huge-power"
   },
   {
     "Name": "Hustle",
@@ -528,46 +528,10 @@
     "_id": "heavy-metal"
   },
   {
-    "Name": "Hunger Switch",
-    "Effect": "At the End of the Round, switch this Pokemon's form. Only Morpeko may have this ability. This ability cannot be copied or switched.",
-    "Description": "This Pokemon becomes really upset if it gets hungry, it will bite and act out unless you constantly give it snacks.",
-    "_id": "hunger-switch"
-  },
-  {
-    "Name": "Ice Scales",
-    "Effect": "Reduce by 2 the Damage dealt to this Pokemon by All Special Attacks.",
-    "Description": "This Pokemon's body is covered by crystal scales made of ice. Always cold to the touch, it easily deflects most projectiles, energy and light on its surface.",
-    "_id": "ice-scales"
-  },
-  {
-    "Name": "Hyper Cutter",
-    "Effect": "This Pokemon cannot have its Strength Attribute reduced by any means.",
-    "Description": "The claws of this Pokemon are very sharp and can't be dulled.",
-    "_id": "hyper-cutter"
-  },
-  {
     "Name": "Ice Cleats",
     "Effect": "If Hail Weather is in effect, increase 1 Point to the Dexterity Attibute of this Pokemon.",
     "Description": "",
     "_id": "ice-cleats"
-  },
-  {
-    "Name": "Hydration",
-    "Effect": "When Rain weather is in effect, this Pokemon will cure any status ailment it has at the end of the round.",
-    "Description": "The body of the Pokemon absorbs water and uses its moisture to maintain a healthy state.",
-    "_id": "hydration"
-  },
-  {
-    "Name": "Huge Power",
-    "Effect": "This Pokemon has a permanent increase of 1 point to its Strength attribute.",
-    "Description": "The pokemon has an unnatural source of strength beyond its physical appearance.",
-    "_id": "huge-power"
-  },
-  {
-    "Name": "Ice Face",
-    "Effect": "The Pokemon has 2 extra HP when it is on “Ice Face form”. If the Ice receives 2 damage, change the Pokemon's form to “No-Ice Form”. To restore “Ice Face Form” the Pokemon must be out one whole Round while Hail weather is active. ",
-    "Description": "This Pokemon's face is covered by a thick block of ice that serves as a cover of its body. If it breaks it will need a very cold temperature to form it again.",
-    "_id": "ice-face"
   },
   {
     "Name": "Ice Body",
@@ -576,16 +540,10 @@
     "_id": "ice-body"
   },
   {
-    "Name": "Immunity",
-    "Effect": "Poison and Badly Poisoned Status deal no damage to this Pokemon.",
-    "Description": "The Pokemon has a very strong immune system and will rarely get sick. It could even eat rotten food without getting sick.",
-    "_id": "immunity"
-  },
-  {
-    "Name": "Illusion",
-    "Effect": "When this Pokemon comes out, it will have the form of another Pokemon in the party, it will regain its original form if it receives damage. When taking a human form it cannot speak and its tail may remain visible.",
-    "Description": "The Pokemon casts an illusion on itself to look like another creature it has seen. The illusion is indistinguishable from the real one.",
-    "_id": "illusion"
+    "Name": "Gooey",
+    "Effect": "The first time an opponent hits this Pokemon with a Non-Ranged Physical Attack, reduce 1 Point to its Dexterity Attribute.",
+    "Description": "This Pokemon's sticky ooze will rub into anyone that touches it. This may become quite a burden. On the bright side, it is a natural and organic glue.",
+    "_id": "gooey"
   },
   {
     "Name": "Illuminate",
@@ -594,28 +552,52 @@
     "_id": "illuminate"
   },
   {
-    "Name": "Guts",
-    "Effect": "While affected by a Status Condition, Increase 2 Points to this Pokemon's Strength Attribute.",
-    "Description": "This Pokemon dares to do everything no one else dares to, and won't lose its determination easily. It may be a little reckless, though.",
-    "_id": "guts"
+    "Name": "Hyper Cutter",
+    "Effect": "This Pokemon cannot have its Strength Attribute reduced by any means.",
+    "Description": "The claws of this Pokemon are very sharp and can't be dulled.",
+    "_id": "hyper-cutter"
   },
   {
-    "Name": "Insomnia",
-    "Effect": "This Pokemon is not affected by the Sleep Status.",
-    "Description": "The Pokemon does not need to sleep, it will be awake no matter the hour.",
-    "_id": "insomnia"
+    "Name": "Hunger Switch",
+    "Effect": "At the End of the Round, switch this Pokemon's form. Only Morpeko may have this ability. This ability cannot be copied or switched.",
+    "Description": "This Pokemon becomes really upset if it gets hungry, it will bite and act out unless you constantly give it snacks.",
+    "_id": "hunger-switch"
   },
   {
-    "Name": "Inner Focus",
-    "Effect": "This Pokemon does not Flinch and cannot be Intimidated. (Intimidate Ability does not have any effect against this Pokemon.)",
-    "Description": "The Pokemon is extrmely serious and focused on everything it does. It remains calm and never backs down, even if it's getting severly injured.",
-    "_id": "inner-focus"
+    "Name": "Immunity",
+    "Effect": "Poison and Badly Poisoned Status deal no damage to this Pokemon.",
+    "Description": "The Pokemon has a very strong immune system and will rarely get sick. It could even eat rotten food without getting sick.",
+    "_id": "immunity"
   },
   {
-    "Name": "Infiltrator",
-    "Effect": "Shield Moves, Safeguard, Substitute, Light Screen, and Reflect are ignored by this Pokemon.",
-    "Description": "The Pokemonis very stealthy with it's movements, it is naturally harder to detect than others.",
-    "_id": "infiltrator"
+    "Name": "Hubris",
+    "Effect": "If a foe faints because of an attack dealt by this Pokemon, Increase 1 Point to its Special Attribute. Up to 3 points can be increased this way.",
+    "Description": "",
+    "_id": "hubris"
+  },
+  {
+    "Name": "Hydration",
+    "Effect": "When Rain weather is in effect, this Pokemon will cure any status ailment it has at the end of the round.",
+    "Description": "The body of the Pokemon absorbs water and uses its moisture to maintain a healthy state.",
+    "_id": "hydration"
+  },
+  {
+    "Name": "Ice Face",
+    "Effect": "The Pokemon has 2 extra HP when it is on “Ice Face form”. If the Ice receives 2 damage, change the Pokemon's form to “No-Ice Form”. To restore “Ice Face Form” the Pokemon must be out one whole Round while Hail weather is active. ",
+    "Description": "This Pokemon's face is covered by a thick block of ice that serves as a cover of its body. If it breaks it will need a very cold temperature to form it again.",
+    "_id": "ice-face"
+  },
+  {
+    "Name": "Ice Scales",
+    "Effect": "Reduce by 2 the Damage dealt to this Pokemon by All Special Attacks.",
+    "Description": "This Pokemon's body is covered by crystal scales made of ice. Always cold to the touch, it easily deflects most projectiles, energy and light on its surface.",
+    "_id": "ice-scales"
+  },
+  {
+    "Name": "Illusion",
+    "Effect": "When this Pokemon comes out, it will have the form of another Pokemon in the party, it will regain its original form if it receives damage. When taking a human form it cannot speak and its tail may remain visible.",
+    "Description": "The Pokemon casts an illusion on itself to look like another creature it has seen. The illusion is indistinguishable from the real one.",
+    "_id": "illusion"
   },
   {
     "Name": "Imposter",
@@ -630,22 +612,52 @@
     "_id": "intimidate"
   },
   {
+    "Name": "Inner Focus",
+    "Effect": "This Pokemon does not Flinch and cannot be Intimidated. (Intimidate Ability does not have any effect against this Pokemon.)",
+    "Description": "The Pokemon is extrmely serious and focused on everything it does. It remains calm and never backs down, even if it's getting severly injured.",
+    "_id": "inner-focus"
+  },
+  {
+    "Name": "Insomnia",
+    "Effect": "This Pokemon is not affected by the Sleep Status.",
+    "Description": "The Pokemon does not need to sleep, it will be awake no matter the hour.",
+    "_id": "insomnia"
+  },
+  {
     "Name": "Innards Out",
     "Effect": "If an attack would faint this Pokemon, it inflicts damage on the foe equal to whatever remaining HP it had.",
     "Description": "",
     "_id": "innards-out"
   },
   {
-    "Name": "Iron Barbs",
-    "Effect": "Whenever this Pokemon is hit with a Non- Ranged Physical Attack, Roll 1 Die of Damage against the attacker.",
-    "Description": "This Pokemon is covered with sharp steel quils that hurt anyone who may touch them carelessly",
-    "_id": "iron-barbs"
-  },
-  {
     "Name": "Intrepid Sword",
     "Effect": "Whenever this Pokemon enters battle, Increase 2 Points to its Strength. Outside of battle, this Pokemon can cut through any surface.",
     "Description": "This audacious Pokemon is fearless to any challenge, its strength increases through sheer will. Its presence can be very menacing.",
     "_id": "intrepid-sword"
+  },
+  {
+    "Name": "Iron Fist",
+    "Effect": "Add 1 Dice to the Damage Pool of Fist Based moves.",
+    "Description": "The hands of this pokemon are very strong and heavy, when curled into fists they can go through anything.",
+    "_id": "iron-fist"
+  },
+  {
+    "Name": "Justified",
+    "Effect": "The first time this Pokemon is hit by a Dark-Type Attack or if it has witnessed something it considers unjust, Increase 1 Point to its Strength Attribute.",
+    "Description": "This Pokemon has an innate sense of justice, wrongdoings will make them really angry.",
+    "_id": "justified"
+  },
+  {
+    "Name": "Irrelephant",
+    "Effect": "Moves performed by this Pokemon ignores type based immunity.",
+    "Description": "",
+    "_id": "irrelephant"
+  },
+  {
+    "Name": "Klutz",
+    "Effect": "Held items won't have any effect on this Pokemon.",
+    "Description": "This Pokemon does not understand how to use tools correctly, usually using them in unexpected ways.",
+    "_id": "klutz"
   },
   {
     "Name": "Intoxicate",
@@ -660,10 +672,10 @@
     "_id": "keen-eye"
   },
   {
-    "Name": "Iron Fist",
-    "Effect": "Add 1 Dice to the Damage Pool of Fist Based moves.",
-    "Description": "The hands of this pokemon are very strong and heavy, when curled into fists they can go through anything.",
-    "_id": "iron-fist"
+    "Name": "Infiltrator",
+    "Effect": "Shield Moves, Safeguard, Substitute, Light Screen, and Reflect are ignored by this Pokemon.",
+    "Description": "The Pokemonis very stealthy with it's movements, it is naturally harder to detect than others.",
+    "_id": "infiltrator"
   },
   {
     "Name": "Leaf Guard",
@@ -672,16 +684,10 @@
     "_id": "leaf-guard"
   },
   {
-    "Name": "Irrelephant",
-    "Effect": "Moves performed by this Pokemon ignores type based immunity.",
-    "Description": "",
-    "_id": "irrelephant"
-  },
-  {
-    "Name": "Justified",
-    "Effect": "The first time this Pokemon is hit by a Dark-Type Attack or if it has witnessed something it considers unjust, Increase 1 Point to its Strength Attribute.",
-    "Description": "This Pokemon has an innate sense of justice, wrongdoings will make them really angry.",
-    "_id": "justified"
+    "Name": "Iron Barbs",
+    "Effect": "Whenever this Pokemon is hit with a Non- Ranged Physical Attack, Roll 1 Die of Damage against the attacker.",
+    "Description": "This Pokemon is covered with sharp steel quils that hurt anyone who may touch them carelessly",
+    "_id": "iron-barbs"
   },
   {
     "Name": "Lernean",
@@ -690,46 +696,16 @@
     "_id": "lernean"
   },
   {
-    "Name": "Limber",
-    "Effect": "This Pokemon is not affected by the Paralysis Status.",
-    "Description": "The muscles of this Pokemon are incredibly flexible and elastic. Easing their movement, agility, and grace.",
-    "_id": "limber"
-  },
-  {
-    "Name": "Libero",
-    "Effect": "Whenever this Pokemon uses a move, first change its type to that of the move. If the move is an attack and deals damage, use the appropriate STAB.",
-    "Description": "This Pokemon always has its mind in the game. It will favor a defensive position and make the best special passes when it finally attacks.",
-    "_id": "libero"
-  },
-  {
-    "Name": "Liquid Ooze",
-    "Effect": "If hit by a move that would asborb this Pokemon's vital energy (Leech seed, Dream Eater, Drain Punch, etc.) it will instead deal that amount as damage.",
-    "Description": "The Pokemon produces a pestilent and toxic ooze within its body. Do not attempt to eat it.",
-    "_id": "liquid-ooze"
+    "Name": "Liquid Voice",
+    "Effect": "All Sound-Based Moves this Pokemon uses are considered Water-Type.",
+    "Description": "Sound waves from its voice turn the moisture in the air into water, seemingly conjuring dew, rain, and even cascades out of nothing.",
+    "_id": "liquid-voice"
   },
   {
     "Name": "Lightning Rod",
     "Effect": "If anyone uses an Electric-Type move with a Single target, it will be redirected to this Pokemon; it is immune to damage from them. The first time this Pokemon is hit by an Electric-Type move, Increase 1 Point to this Pokemon's Special.",
     "Description": "This Pokemon will attract lightning and electricity to itself to charge its power.",
     "_id": "lightning-rod"
-  },
-  {
-    "Name": "Light Metal",
-    "Effect": "This Pokemon weighs 50% less than it's supposed to. Moves with damage based on weight get their damage pool modified accordingly.",
-    "Description": "The material covering its body will be light as a feather, causing this Pokemon to weigh from 50% to 75% less than it is supposed to.",
-    "_id": "light-metal"
-  },
-  {
-    "Name": "Levitate",
-    "Effect": "Ground-Type moves and effects on the ground won't affect this Pokemon. If a Pokemon uses a move that binds it to the ground the effects are lost until it is free again.",
-    "Description": "The Pokemon floats to move around without touching the ground.",
-    "_id": "levitate"
-  },
-  {
-    "Name": "Liquid Voice",
-    "Effect": "All Sound-Based Moves this Pokemon uses are considered Water-Type.",
-    "Description": "Sound waves from its voice turn the moisture in the air into water, seemingly conjuring dew, rain, and even cascades out of nothing.",
-    "_id": "liquid-voice"
   },
   {
     "Name": "Long Reach",
@@ -744,34 +720,28 @@
     "_id": "magic-bounce"
   },
   {
-    "Name": "Klutz",
-    "Effect": "Held items won't have any effect on this Pokemon.",
-    "Description": "This Pokemon does not understand how to use tools correctly, usually using them in unexpected ways.",
-    "_id": "klutz"
+    "Name": "Liquid Ooze",
+    "Effect": "If hit by a move that would asborb this Pokemon's vital energy (Leech seed, Dream Eater, Drain Punch, etc.) it will instead deal that amount as damage.",
+    "Description": "The Pokemon produces a pestilent and toxic ooze within its body. Do not attempt to eat it.",
+    "_id": "liquid-ooze"
   },
   {
-    "Name": "Magician",
-    "Effect": "This Pokemon will steal the Held Item of a foe it just hit.",
-    "Description": "This Pokemon excells at performing simple magic tricks that amaze others, such as conjuring and vanishing objects nearby in the blink of an eye.",
-    "_id": "magician"
+    "Name": "Libero",
+    "Effect": "Whenever this Pokemon uses a move, first change its type to that of the move. If the move is an attack and deals damage, use the appropriate STAB.",
+    "Description": "This Pokemon always has its mind in the game. It will favor a defensive position and make the best special passes when it finally attacks.",
+    "_id": "libero"
   },
   {
-    "Name": "Magnet Pull",
-    "Effect": "All Steel-Type Pokemon on the field are Blocked.",
-    "Description": "This Pokemon can activate a magnetic field around itself to attract all kinds of metals.",
-    "_id": "magnet-pull"
+    "Name": "Light Metal",
+    "Effect": "This Pokemon weighs 50% less than it's supposed to. Moves with damage based on weight get their damage pool modified accordingly.",
+    "Description": "The material covering its body will be light as a feather, causing this Pokemon to weigh from 50% to 75% less than it is supposed to.",
+    "_id": "light-metal"
   },
   {
-    "Name": "Magma Armor",
-    "Effect": "This Pokemon is not affected by the Frozen Status. ",
-    "Description": "The body of the Pokemon is always hot to the touch, it can heat a large room just by standing inside and can also endure high temperatures.",
-    "_id": "magma-armor"
-  },
-  {
-    "Name": "Marvel Scale",
-    "Effect": "If this Pokemon has a Status Ailment, Increase 2 points to its Defense Attribute.",
-    "Description": "The beautiful scales of this Pokemon will harden when its body is under stress.",
-    "_id": "marvel-scale"
+    "Name": "Limber",
+    "Effect": "This Pokemon is not affected by the Paralysis Status.",
+    "Description": "The muscles of this Pokemon are incredibly flexible and elastic. Easing their movement, agility, and grace.",
+    "_id": "limber"
   },
   {
     "Name": "Magic Guard",
@@ -780,16 +750,10 @@
     "_id": "magic-guard"
   },
   {
-    "Name": "Merciless",
-    "Effect": "If the Foe is inflicted with Poison or Badly Poison, all of this Pokemon Moves are considered to be Critical Hits. This Pokemon will not hold back when using Lethal Damage Moves at Storyteller's discretion.",
-    "Description": "Once this Pokemon senses weakness, it begins acting according to their brutal nature. They can be cruel if not put in their place.",
-    "_id": "merciless"
-  },
-  {
-    "Name": "Mega Launcher",
-    "Effect": "Add 2 Extra Dice to the Damage pool/Healing Pool of moves with the keyword “Pulse” and “Aura” on their name.",
-    "Description": "The cannons on this Pokemon's body allow it to fire extremely powerful attacks.",
-    "_id": "mega-launcher"
+    "Name": "Magician",
+    "Effect": "This Pokemon will steal the Held Item of a foe it just hit.",
+    "Description": "This Pokemon excells at performing simple magic tricks that amaze others, such as conjuring and vanishing objects nearby in the blink of an eye.",
+    "_id": "magician"
   },
   {
     "Name": "Mirror Armor",
@@ -798,10 +762,10 @@
     "_id": "mirror-armor"
   },
   {
-    "Name": "Mimicry",
-    "Effect": "If there is a Terrain Move active (i.e. Electric Terrain, Psyichic Terrain etc.) Change this Pokemon's main type to match the active Terrain. Restore its original main type if the terrain effects end.",
-    "Description": "This Pokemon's body is perfect for camouflaging in the ground. It can sometimes get lost but you will find it if some unfortunate victim steps on it.",
-    "_id": "mimicry"
+    "Name": "Magnet Pull",
+    "Effect": "All Steel-Type Pokemon on the field are Blocked.",
+    "Description": "This Pokemon can activate a magnetic field around itself to attract all kinds of metals.",
+    "_id": "magnet-pull"
   },
   {
     "Name": "Minus",
@@ -810,10 +774,16 @@
     "_id": "minus"
   },
   {
-    "Name": "Moody",
-    "Effect": "At the end of each round, reset Attributes modified by Moody, then Reduce 1 Point to a random Attribute and Increase 1 Point to another random Attribute. ",
-    "Description": "The Pokemon will have some severe mood swings, and be temperamental most of the time. Hopefully it's just a phase.",
-    "_id": "moody"
+    "Name": "Mimicry",
+    "Effect": "If there is a Terrain Move active (i.e. Electric Terrain, Psyichic Terrain etc.) Change this Pokemon's main type to match the active Terrain. Restore its original main type if the terrain effects end.",
+    "Description": "This Pokemon's body is perfect for camouflaging in the ground. It can sometimes get lost but you will find it if some unfortunate victim steps on it.",
+    "_id": "mimicry"
+  },
+  {
+    "Name": "Merciless",
+    "Effect": "If the Foe is inflicted with Poison or Badly Poison, all of this Pokemon Moves are considered to be Critical Hits. This Pokemon will not hold back when using Lethal Damage Moves at Storyteller's discretion.",
+    "Description": "Once this Pokemon senses weakness, it begins acting according to their brutal nature. They can be cruel if not put in their place.",
+    "_id": "merciless"
   },
   {
     "Name": "Motor Drive",
@@ -822,22 +792,16 @@
     "_id": "motor-drive"
   },
   {
-    "Name": "Mold Breaker",
-    "Effect": "If a foe Pokemon has a type, an immunity, or an Ability that would prevent this Pokemon from attacking with a certain Move, ignore it.",
-    "Description": "This Pokemon will find unusual ways to achieve its goals. They are inventive and go around problems.",
-    "_id": "mold-breaker"
-  },
-  {
-    "Name": "Multiscale",
-    "Effect": "If this Pokemon was at full health, Reduce by 1 the damage dealt by an attack.",
-    "Description": "This Pokemon is covered by two layers of hard scales, if one layer is damaged it will be shed and regrown later.",
-    "_id": "multiscale"
-  },
-  {
     "Name": "Misty Surge",
     "Effect": "When this Pokemon comes out, it automatically starts the effects of the Move Misty Terrain. (In case of stalemate the Pokemon with higher Will might keep the dominant Terrain)",
     "Description": "The Pokemon can surround itself with a misty field that is eerily quiet, it feels peaceful and soothing but also lonesome and isolated.",
     "_id": "misty-surge"
+  },
+  {
+    "Name": "Magma Armor",
+    "Effect": "This Pokemon is not affected by the Frozen Status. ",
+    "Description": "The body of the Pokemon is always hot to the touch, it can heat a large room just by standing inside and can also endure high temperatures.",
+    "_id": "magma-armor"
   },
   {
     "Name": "Moxie",
@@ -846,10 +810,28 @@
     "_id": "moxie"
   },
   {
+    "Name": "Marvel Scale",
+    "Effect": "If this Pokemon has a Status Ailment, Increase 2 points to its Defense Attribute.",
+    "Description": "The beautiful scales of this Pokemon will harden when its body is under stress.",
+    "_id": "marvel-scale"
+  },
+  {
+    "Name": "Moody",
+    "Effect": "At the end of each round, reset Attributes modified by Moody, then Reduce 1 Point to a random Attribute and Increase 1 Point to another random Attribute. ",
+    "Description": "The Pokemon will have some severe mood swings, and be temperamental most of the time. Hopefully it's just a phase.",
+    "_id": "moody"
+  },
+  {
     "Name": "Mummy",
     "Effect": "When this Pokemon hits or gets hit with a Non-Ranged Physical Attack, the foe's ability is changed to Mummy. ",
     "Description": "This Pokemon will curse whoever dares to inflict harm upon them, the curse may even last for generations and will need the aid of a medium to lift it.",
     "_id": "mummy"
+  },
+  {
+    "Name": "Multiscale",
+    "Effect": "If this Pokemon was at full health, Reduce by 1 the damage dealt by an attack.",
+    "Description": "This Pokemon is covered by two layers of hard scales, if one layer is damaged it will be shed and regrown later.",
+    "_id": "multiscale"
   },
   {
     "Name": "Natural Cure",
@@ -858,16 +840,22 @@
     "_id": "natural-cure"
   },
   {
+    "Name": "Neutralizing Gas",
+    "Effect": "Foe Pokemon in range will have their Abilities effects negated as long as this Pokemon is out.",
+    "Description": "The Pokemon is surrounded by a sweet-smelling but noxious gas. Most poeple and Pokemon can't help but to stop and smell it, though.",
+    "_id": "neutralizing-gas"
+  },
+  {
     "Name": "Multitype",
     "Effect": "This Pokemon can freely change its Type at any moment. This Ability can't be copied, switched, changed, ignored, or negated in any way.",
     "Description": "All the energies that created the universe flow raw through this Pokemon's body and it harnesses whichever is more convenient at the moment.",
     "_id": "multitype"
   },
   {
-    "Name": "No Guard",
-    "Effect": "You can declare you won't make any Evasion Action at the start of the Round. If you do, roll all moves of this Pokemon as if they had no reduced accuracy.",
-    "Description": "This Pokemon can focus on attacking perfectly but will be open to the attacks of its foes as it won't focus on anything but its precision.",
-    "_id": "no-guard"
+    "Name": "Mold Breaker",
+    "Effect": "If a foe Pokemon has a type, an immunity, or an Ability that would prevent this Pokemon from attacking with a certain Move, ignore it.",
+    "Description": "This Pokemon will find unusual ways to achieve its goals. They are inventive and go around problems.",
+    "_id": "mold-breaker"
   },
   {
     "Name": "Neuroforce",
@@ -876,40 +864,22 @@
     "_id": "neuroforce"
   },
   {
-    "Name": "Oblivious",
-    "Effect": "This Pokemon is not affected by the Love Status. It is immune to the effects of moves that affect its feelings such as Taunt, Charm, Captivate etc.",
-    "Description": "This Pokemon will rarely have a satisfactory social interaction. It'll be too self-absorbed to take the hints of what is expected from it.",
-    "_id": "oblivious"
+    "Name": "Mega Launcher",
+    "Effect": "Add 2 Extra Dice to the Damage pool/Healing Pool of moves with the keyword “Pulse” and “Aura” on their name.",
+    "Description": "The cannons on this Pokemon's body allow it to fire extremely powerful attacks.",
+    "_id": "mega-launcher"
   },
   {
-    "Name": "Neutralizing Gas",
-    "Effect": "Foe Pokemon in range will have their Abilities effects negated as long as this Pokemon is out.",
-    "Description": "The Pokemon is surrounded by a sweet-smelling but noxious gas. Most poeple and Pokemon can't help but to stop and smell it, though.",
-    "_id": "neutralizing-gas"
+    "Name": "Normalize",
+    "Effect": "All the moves known by this Pokemon are considered Normal Type. Affecting STAB, weaknesses, immunities, and resistances. Add 1 Dice of Damage to all Normal Moves.",
+    "Description": "The Pokemon's actions are never impressive, always dull and never seem to accomplish anything exceptional.",
+    "_id": "normalize"
   },
   {
-    "Name": "Overgrow",
-    "Effect": "When this Pokemon's HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Grass-Type Moves, and they will get 1 extra die to their Damage Pool. ",
-    "Description": "When this Pokemon is hurt, it will grow huge plants in its body to defend itself, these plants are very strong but wither quickly.",
-    "_id": "overgrow"
-  },
-  {
-    "Name": "Own Tempo",
-    "Effect": "This Pokemon is not affected by the Confused Status.",
-    "Description": "This Pokemon will do everything at its own pace, peer pressure will be ignored. Its behavior reflexive and calm... maybe too calm.",
-    "_id": "own-tempo"
-  },
-  {
-    "Name": "Parental Bond",
-    "Effect": "All of the Damage Pools of this Pokemon get rolled twice. Choose the highest roll to deal damage to the foe.",
-    "Description": "The Pokemon and its youngling are really close to each other, they do everything together. The parent is very protective.",
-    "_id": "parental-bond"
-  },
-  {
-    "Name": "Pastel Veil",
-    "Effect": "User and Allies in range are immune to Poison and Badly Poison. If the condition was inflicted before this Pokemon came out, it will remain.",
-    "Description": "The Pokemon is surrounded by a soft-colored glimmer this energy feels pure and full of innocence. Unattainable and otherworldly.",
-    "_id": "pastel-veil"
+    "Name": "No Guard",
+    "Effect": "You can declare you won't make any Evasion Action at the start of the Round. If you do, roll all moves of this Pokemon as if they had no reduced accuracy.",
+    "Description": "This Pokemon can focus on attacking perfectly but will be open to the attacks of its foes as it won't focus on anything but its precision.",
+    "_id": "no-guard"
   },
   {
     "Name": "Omnitype",
@@ -918,10 +888,52 @@
     "_id": "omnitype"
   },
   {
+    "Name": "Oblivious",
+    "Effect": "This Pokemon is not affected by the Love Status. It is immune to the effects of moves that affect its feelings such as Taunt, Charm, Captivate etc.",
+    "Description": "This Pokemon will rarely have a satisfactory social interaction. It'll be too self-absorbed to take the hints of what is expected from it.",
+    "_id": "oblivious"
+  },
+  {
+    "Name": "Parental Bond",
+    "Effect": "All of the Damage Pools of this Pokemon get rolled twice. Choose the highest roll to deal damage to the foe.",
+    "Description": "The Pokemon and its youngling are really close to each other, they do everything together. The parent is very protective.",
+    "_id": "parental-bond"
+  },
+  {
     "Name": "Overcoat",
     "Effect": "This Pokemon won't be damaged by weather conditions.",
     "Description": "The Pokemon will have a protective coat surrounding its body that allows it to live under extreme weather conditions.",
     "_id": "overcoat"
+  },
+  {
+    "Name": "Pastel Veil",
+    "Effect": "User and Allies in range are immune to Poison and Badly Poison. If the condition was inflicted before this Pokemon came out, it will remain.",
+    "Description": "The Pokemon is surrounded by a soft-colored glimmer this energy feels pure and full of innocence. Unattainable and otherworldly.",
+    "_id": "pastel-veil"
+  },
+  {
+    "Name": "Levitate",
+    "Effect": "Ground-Type moves and effects on the ground won't affect this Pokemon. If a Pokemon uses a move that binds it to the ground the effects are lost until it is free again.",
+    "Description": "The Pokemon floats to move around without touching the ground.",
+    "_id": "levitate"
+  },
+  {
+    "Name": "Overgrow",
+    "Effect": "When this Pokemon's HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Grass-Type Moves, and they will get 1 extra die to their Damage Pool. ",
+    "Description": "When this Pokemon is hurt, it will grow huge plants in its body to defend itself, these plants are very strong but wither quickly.",
+    "_id": "overgrow"
+  },
+  {
+    "Name": "Pickup",
+    "Effect": "If this Pokemon was out of its Pokeball, at the end of the scene see what it found for you at Storyteller's discretion.",
+    "Description": "This Pokemon will often gather objects and keep a small hoard of treasure it may share with you.",
+    "_id": "pickup"
+  },
+  {
+    "Name": "Own Tempo",
+    "Effect": "This Pokemon is not affected by the Confused Status.",
+    "Description": "This Pokemon will do everything at its own pace, peer pressure will be ignored. Its behavior reflexive and calm... maybe too calm.",
+    "_id": "own-tempo"
   },
   {
     "Name": "Periodic Orbit",
@@ -936,58 +948,10 @@
     "_id": "pendulum"
   },
   {
-    "Name": "Perish Body",
-    "Effect": "If this Pokemon is hit with Non-Ranged Physical Attack, the Foe will receive its remaining HP as damage and faint after three Rounds, unless it is removed from battle.",
-    "Description": "This Pokemon slently curses those who cross it. Condemning their souls to suffer as it has suffered. Avoid this Pokemon, lest you suffer its grudge.",
-    "_id": "perish-body"
-  },
-  {
-    "Name": "Normalize",
-    "Effect": "All the moves known by this Pokemon are considered Normal Type. Affecting STAB, weaknesses, immunities, and resistances. Add 1 Dice of Damage to all Normal Moves.",
-    "Description": "The Pokemon's actions are never impressive, always dull and never seem to accomplish anything exceptional.",
-    "_id": "normalize"
-  },
-  {
-    "Name": "Phototroph",
-    "Effect": "If Sunny weather is in effect, you may restore 1 HP to this Pokemon at the end of each Round. You can still restore 1 HP at the end of each round without Sunny weather but only 5 per day. This ability is disabled during New Moon and Rainy weather.",
-    "Description": "",
-    "_id": "phototroph"
-  },
-  {
     "Name": "Pickpocket",
     "Effect": "If this Pokemon is not holding an Item it will steal the held Item of the foe it just hit with a Non-Ranged Physical Attack. ",
     "Description": "The Pokemon will instinctively steal from others. It takes whatever it can when people are not looking.",
     "_id": "pickpocket"
-  },
-  {
-    "Name": "Poison Touch",
-    "Effect": "If this Pokemon hits its foe with a Non-Ranged Physical Attack, Roll 2 Chance Dice to Poison the foe.",
-    "Description": "Venomous substances will ooze through the body of this Pokemon, you'll become very sick if it touches you.",
-    "_id": "poison-touch"
-  },
-  {
-    "Name": "Pixilate",
-    "Effect": "Normal-Type Attacks that the Pokemon uses will deal damage as if they were Fairy-Type. Affecting STAB, weakness and resistance. Add 1 extra Die of Damage to Fairy Moves.",
-    "Description": "This Pokemon scatters fairy dust that brings happy thoughts to the mind. Everything it does is incredibly adorable.",
-    "_id": "pixilate"
-  },
-  {
-    "Name": "Pickup",
-    "Effect": "If this Pokemon was out of its Pokeball, at the end of the scene see what it found for you at Storyteller's discretion.",
-    "Description": "This Pokemon will often gather objects and keep a small hoard of treasure it may share with you.",
-    "_id": "pickup"
-  },
-  {
-    "Name": "Poison Heal",
-    "Effect": "If this Pokemon becomes poisoned or badly poisoned. It will Heal 1 HP at the end of each round instead of receiving damage. The Poison will be completely absorbed after 3 Rounds.",
-    "Description": "The Pokemon has an immunity to any poison and also assimilates that venom as an energy source.",
-    "_id": "poison-heal"
-  },
-  {
-    "Name": "Power Spot",
-    "Effect": "Increase 1 Extra Die to the Damage Pools from Moves of One Ally. This Effect does not stack on the same Ally if multiple Pokemon use this Ability.",
-    "Description": "The Pokemon releases mysterious energy that messes up with electronics and compasses but can somehow make you feel very energized.",
-    "_id": "power-spot"
   },
   {
     "Name": "Plus",
@@ -996,10 +960,34 @@
     "_id": "plus"
   },
   {
-    "Name": "Poison Point",
-    "Effect": "If this Pokemon is hit by a Non-Ranged Physical Attack, Roll 3 Chance Dice to Poison the foe.",
-    "Description": "The point thorns and scales on this Pokemon releases poison that will infect anyone who touches them roughly. Wear gloves when handling them.",
-    "_id": "poison-point"
+    "Name": "Pixilate",
+    "Effect": "Normal-Type Attacks that the Pokemon uses will deal damage as if they were Fairy-Type. Affecting STAB, weakness and resistance. Add 1 extra Die of Damage to Fairy Moves.",
+    "Description": "This Pokemon scatters fairy dust that brings happy thoughts to the mind. Everything it does is incredibly adorable.",
+    "_id": "pixilate"
+  },
+  {
+    "Name": "Perish Body",
+    "Effect": "If this Pokemon is hit with Non-Ranged Physical Attack, the Foe will receive its remaining HP as damage and faint after three Rounds, unless it is removed from battle.",
+    "Description": "This Pokemon slently curses those who cross it. Condemning their souls to suffer as it has suffered. Avoid this Pokemon, lest you suffer its grudge.",
+    "_id": "perish-body"
+  },
+  {
+    "Name": "Phototroph",
+    "Effect": "If Sunny weather is in effect, you may restore 1 HP to this Pokemon at the end of each Round. You can still restore 1 HP at the end of each round without Sunny weather but only 5 per day. This ability is disabled during New Moon and Rainy weather.",
+    "Description": "",
+    "_id": "phototroph"
+  },
+  {
+    "Name": "Poison Heal",
+    "Effect": "If this Pokemon becomes poisoned or badly poisoned. It will Heal 1 HP at the end of each round instead of receiving damage. The Poison will be completely absorbed after 3 Rounds.",
+    "Description": "The Pokemon has an immunity to any poison and also assimilates that venom as an energy source.",
+    "_id": "poison-heal"
+  },
+  {
+    "Name": "Poison Touch",
+    "Effect": "If this Pokemon hits its foe with a Non-Ranged Physical Attack, Roll 2 Chance Dice to Poison the foe.",
+    "Description": "Venomous substances will ooze through the body of this Pokemon, you'll become very sick if it touches you.",
+    "_id": "poison-touch"
   },
   {
     "Name": "Power Construct",
@@ -1008,16 +996,22 @@
     "_id": "power-construct"
   },
   {
+    "Name": "Poison Point",
+    "Effect": "If this Pokemon is hit by a Non-Ranged Physical Attack, Roll 3 Chance Dice to Poison the foe.",
+    "Description": "The point thorns and scales on this Pokemon releases poison that will infect anyone who touches them roughly. Wear gloves when handling them.",
+    "_id": "poison-point"
+  },
+  {
     "Name": "Power of Alchemy",
     "Effect": "For the next 24 Hours the Pokemon copies the ability of a fainted foe. Multiple Abilities may be copied this way, but only one may be active during combat. (Certain Abilities cannot be copied at Storyteller's Discretion)",
     "Description": "This Pokemon can absorb the essence of everything it touches, fusing with the chemical composition and even the genes of discarded trash.",
     "_id": "power-of-alchemy"
   },
   {
-    "Name": "Pressure",
-    "Effect": "While this Pokemon is out, reduce the total Will Points of all foes by half, rounded down.",
-    "Description": "Being around this Pokemon will be very stressing and demanding, even the bravest will feel themselves faltering.",
-    "_id": "pressure"
+    "Name": "Power Spot",
+    "Effect": "Increase 1 Extra Die to the Damage Pools from Moves of One Ally. This Effect does not stack on the same Ally if multiple Pokemon use this Ability.",
+    "Description": "The Pokemon releases mysterious energy that messes up with electronics and compasses but can somehow make you feel very energized.",
+    "_id": "power-spot"
   },
   {
     "Name": "Prankster",
@@ -1026,22 +1020,10 @@
     "_id": "prankster"
   },
   {
-    "Name": "Prism Armor",
-    "Effect": "Negate all automatic Damage from any Super Effective Move dealt to this Pokemon. ",
-    "Description": "This Pokemon's body is an incredibly resilient armor. It manages to withstand even hits that should shatter it to pieces.",
-    "_id": "prism-armor"
-  },
-  {
     "Name": "Primordial Sea",
     "Effect": "When this Pokemon comes out, it automatically starts the effects of Typhoon Weather. The effects end when the Pokemon leaves the battle. (In case of stalemate, The Pokemon with highest Will might keep the dominant weather)",
     "Description": "The torrential rain barely lets you breathe, the field quickly becomes flooded and you must swim to stay afloat. No fire can be ignited at a time like this.",
     "_id": "primordial-sea"
-  },
-  {
-    "Name": "Protean Maxima",
-    "Effect": "Whenever Eevee uses a move that corresponds with its evolution. Switch its form to said Eeveelution. Eevee gains the type, stats as well as the abilities of said Eeveelution in addition to Protean Maxima.",
-    "Description": "",
-    "_id": "protean-maxima"
   },
   {
     "Name": "Prism Guard",
@@ -1050,22 +1032,40 @@
     "_id": "prism-guard"
   },
   {
+    "Name": "Prism Armor",
+    "Effect": "Negate all automatic Damage from any Super Effective Move dealt to this Pokemon. ",
+    "Description": "This Pokemon's body is an incredibly resilient armor. It manages to withstand even hits that should shatter it to pieces.",
+    "_id": "prism-armor"
+  },
+  {
+    "Name": "Pressure",
+    "Effect": "While this Pokemon is out, reduce the total Will Points of all foes by half, rounded down.",
+    "Description": "Being around this Pokemon will be very stressing and demanding, even the bravest will feel themselves faltering.",
+    "_id": "pressure"
+  },
+  {
     "Name": "Propeller Tail",
     "Effect": "Ignore any Moves or Abilities that would redirect this Pokemon's Moves into another target. (i.e. The Move “Follow Me”, the Ability “Lightining Rod” etc.)",
     "Description": "The Pokemon's tail allows it to maneuver very easily while in the water. It has no problem making sudden sharp turns to persue and catch its prey.",
     "_id": "propeller-tail"
   },
   {
-    "Name": "Psycho Call",
-    "Effect": "When this Pokemon's HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Psychic-Type Moves, and they will get 1 extra die to their Damage Pool. ",
+    "Name": "Protean Maxima",
+    "Effect": "Whenever Eevee uses a move that corresponds with its evolution. Switch its form to said Eeveelution. Eevee gains the type, stats as well as the abilities of said Eeveelution in addition to Protean Maxima.",
     "Description": "",
-    "_id": "psycho-call"
+    "_id": "protean-maxima"
   },
   {
     "Name": "Protean",
     "Effect": "Whenever this Pokemon uses a move, first change its type to that of the move. If the move is an attack and deals damage, use the appropriate STAB.",
     "Description": "This Pokemon's versitile body gives it profeciency on practically everything it sets out to do.",
     "_id": "protean"
+  },
+  {
+    "Name": "Punk Rock",
+    "Effect": "Sound-Based Moves this Pokemon uses have 1 Extra Die to their Damage Pool. Sound-Based Moves deal 2 less Damage to this Pokemon.",
+    "Description": "The Pokemon loves music and loud noises. It is constantly jamming with its air guitar and can easily improvise a music number out of nothing.",
+    "_id": "punk-rock"
   },
   {
     "Name": "Psychic Surge",
@@ -1080,34 +1080,10 @@
     "_id": "queenly-majesty"
   },
   {
-    "Name": "Punk Rock",
-    "Effect": "Sound-Based Moves this Pokemon uses have 1 Extra Die to their Damage Pool. Sound-Based Moves deal 2 less Damage to this Pokemon.",
-    "Description": "The Pokemon loves music and loud noises. It is constantly jamming with its air guitar and can easily improvise a music number out of nothing.",
-    "_id": "punk-rock"
-  },
-  {
-    "Name": "Rattled",
-    "Effect": "The first time this Pokemon is hit by a Bug, Dark, or Ghost-Type Attack, increase 1 Point to its Dexterity Attribute.",
-    "Description": "When this scaredy Pokemon becomes startled or scared it will make haste to get away from danger.",
-    "_id": "rattled"
-  },
-  {
-    "Name": "Reckless",
-    "Effect": "When this Pokemon performs a move with Recoil, Add 2 Extra Dice to the Damage Pool of that move.",
-    "Description": "The Pokemon will often get into risky situations in order to get what it wants. They are prone to risk their lives without thinking of the consequences.",
-    "_id": "reckless"
-  },
-  {
-    "Name": "Quick Feet",
-    "Effect": "While affected by any Status Condition, Increase 2 Points to this Pokemon's Dexterity Attribute. The Pokemon may be inflicted with Paralysis condition but this Ability prevents its effects.",
-    "Description": "Most of the time this Pokemon will seem to be in a hurry. When Pressured it will move faster than normal.",
-    "_id": "quick-feet"
-  },
-  {
-    "Name": "Receiver",
-    "Effect": "If an Ally is fainted in battle, this Pokemon may copy their ability for the next 24 hours. Only one Ability may be copied this way. (Certain Abilities cannot be copied at Storyteller's Discretion)",
-    "Description": "This Pokemon is used to learning the tactic behavior of other Pokemon with which they have a bond.",
-    "_id": "receiver"
+    "Name": "Psycho Call",
+    "Effect": "When this Pokemon's HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Psychic-Type Moves, and they will get 1 extra die to their Damage Pool. ",
+    "Description": "",
+    "_id": "psycho-call"
   },
   {
     "Name": "Pure Power",
@@ -1116,10 +1092,16 @@
     "_id": "pure-power"
   },
   {
-    "Name": "Rain Dish",
-    "Effect": "If Rain weather is in effect, you may restore 1 HP to this Pokemon at the end of each Round.",
-    "Description": "The Pokemon will store rain water for drink and nourishment.",
-    "_id": "rain-dish"
+    "Name": "Quick Draw",
+    "Effect": "(provisional) Enables the Pokemon to move first occasionally. (1 Chance Die)",
+    "Description": "",
+    "_id": "quick-draw"
+  },
+  {
+    "Name": "Quick Feet",
+    "Effect": "While affected by any Status Condition, Increase 2 Points to this Pokemon's Dexterity Attribute. The Pokemon may be inflicted with Paralysis condition but this Ability prevents its effects.",
+    "Description": "Most of the time this Pokemon will seem to be in a hurry. When Pressured it will move faster than normal.",
+    "_id": "quick-feet"
   },
   {
     "Name": "Refrigerate",
@@ -1128,16 +1110,10 @@
     "_id": "refrigerate"
   },
   {
-    "Name": "Quick Draw",
-    "Effect": "(provisional) Enables the Pokemon to move first occasionally. (1 Chance Die)",
-    "Description": "",
-    "_id": "quick-draw"
-  },
-  {
-    "Name": "RKS System",
-    "Effect": "Change the Pokemon's Type to match the Disc on its Held Item slot. (i.e. Electric Disc makes this Pokemon become an Electric Type)",
-    "Description": "The Pokemon's physiology morphs according to the data disc inserted in its RKS-drive. There are 17 discs, one for each Type. (No disc is Normal Type).",
-    "_id": "rks-system"
+    "Name": "Ripen",
+    "Effect": "Moves that use berries for added effects will have 2 Extra Dice on their Damage Pool (i.e. “Natural Gift” etc.) Increase the Healing properties of Berries at Storyteller's discretion.",
+    "Description": "The Pokemon can Riped fruits and berries in no time to make them extra sweet and delicious, healing berries will have their effects boosted.",
+    "_id": "ripen"
   },
   {
     "Name": "Regenerator",
@@ -1146,46 +1122,40 @@
     "_id": "regenerator"
   },
   {
+    "Name": "Rain Dish",
+    "Effect": "If Rain weather is in effect, you may restore 1 HP to this Pokemon at the end of each Round.",
+    "Description": "The Pokemon will store rain water for drink and nourishment.",
+    "_id": "rain-dish"
+  },
+  {
+    "Name": "Reckless",
+    "Effect": "When this Pokemon performs a move with Recoil, Add 2 Extra Dice to the Damage Pool of that move.",
+    "Description": "The Pokemon will often get into risky situations in order to get what it wants. They are prone to risk their lives without thinking of the consequences.",
+    "_id": "reckless"
+  },
+  {
+    "Name": "Rattled",
+    "Effect": "The first time this Pokemon is hit by a Bug, Dark, or Ghost-Type Attack, increase 1 Point to its Dexterity Attribute.",
+    "Description": "When this scaredy Pokemon becomes startled or scared it will make haste to get away from danger.",
+    "_id": "rattled"
+  },
+  {
+    "Name": "Receiver",
+    "Effect": "If an Ally is fainted in battle, this Pokemon may copy their ability for the next 24 hours. Only one Ability may be copied this way. (Certain Abilities cannot be copied at Storyteller's Discretion)",
+    "Description": "This Pokemon is used to learning the tactic behavior of other Pokemon with which they have a bond.",
+    "_id": "receiver"
+  },
+  {
+    "Name": "RKS System",
+    "Effect": "Change the Pokemon's Type to match the Disc on its Held Item slot. (i.e. Electric Disc makes this Pokemon become an Electric Type)",
+    "Description": "The Pokemon's physiology morphs according to the data disc inserted in its RKS-drive. There are 17 discs, one for each Type. (No disc is Normal Type).",
+    "_id": "rks-system"
+  },
+  {
     "Name": "Regurgitation",
     "Effect": "When Sand Tomb is active, everytime Delta Muk attacks, it will perform a second attack that has 2 damage rolls.. The typing is based on the primary type of the Pokemon caught in the Sand Tomb ",
     "Description": "",
     "_id": "regurgitation"
-  },
-  {
-    "Name": "Rock Head",
-    "Effect": "This Pokemon will not receive damage from Recoil.",
-    "Description": "The head and body of the Pokemon are so resistant that they barely feel anything. Careful as they bump into things without even noticing.",
-    "_id": "rock-head"
-  },
-  {
-    "Name": "Ripen",
-    "Effect": "Moves that use berries for added effects will have 2 Extra Dice on their Damage Pool (i.e. “Natural Gift” etc.) Increase the Healing properties of Berries at Storyteller's discretion.",
-    "Description": "The Pokemon can Riped fruits and berries in no time to make them extra sweet and delicious, healing berries will have their effects boosted.",
-    "_id": "ripen"
-  },
-  {
-    "Name": "Rivalry",
-    "Effect": "If this Pokemon has a foe of the same gender, Increase 1 Point to its Strength Attribute. If the foe is the opposite gender, Reduce 1 Point to its Strength Attribute.",
-    "Description": "The Pokemon will be very competitive with others to prove its position as the alpha of the group, however, it will try to gain the favor of possible mates.",
-    "_id": "rivalry"
-  },
-  {
-    "Name": "Rough Skin",
-    "Effect": "Whenever this Pokemon is hit with a Non-Ranged Physical Attack, Roll 1 Die of damage against the attacker. ",
-    "Description": "Use Protection on your hands when touching this Pokemon. Its body is covered by sharp scales or barbs that get hooked into the skin.",
-    "_id": "rough-skin"
-  },
-  {
-    "Name": "Sand Force",
-    "Effect": "If Sandstorm Weather is in effect when this Pokemon deals damage using Ground, Steel or Rock-Type attacks, add 1 Extra Die to the damage pool of that attack. The Pokemon is immune to damage from Sandstorm Weather.",
-    "Description": "The Pokemon controls the particles of sand around the battlefield to give boosts to its attacks.",
-    "_id": "sand-force"
-  },
-  {
-    "Name": "Sand Rush",
-    "Effect": "If Sandstorm Weather is in effect, increase 1 Point to the Dexterity Attibute of this Pokemon. The Pokemon is immune to damage from Sandstorm Weather.",
-    "Description": "While sand whips across the battlefield, the Pokemon can paddle through it as if it was water.",
-    "_id": "sand-rush"
   },
   {
     "Name": "Run Away",
@@ -1194,40 +1164,34 @@
     "_id": "run-away"
   },
   {
-    "Name": "Sand Veil",
-    "Effect": "If Sandstorm Weather is in effect, increase 1 Point to the Evasion of this Pokemon. The Pokemon is immune to damage from Sandstorm weather.",
-    "Description": "The Pokemon's body is easily concealed by sand particles in the air.",
-    "_id": "sand-veil"
+    "Name": "Sand Force",
+    "Effect": "If Sandstorm Weather is in effect when this Pokemon deals damage using Ground, Steel or Rock-Type attacks, add 1 Extra Die to the damage pool of that attack. The Pokemon is immune to damage from Sandstorm Weather.",
+    "Description": "The Pokemon controls the particles of sand around the battlefield to give boosts to its attacks.",
+    "_id": "sand-force"
   },
   {
-    "Name": "Sap Sipper",
-    "Effect": "The first time this Pokemon is hit by a Grass-type attack, Increase 1 Point to its Strength Attribute instead of dealing damage. Grass-type moves do not deal damage to this Pokemon.",
-    "Description": "This Pokemon's diet consists strickly of plants, it is particularly fond of sweet sap for nourishment.",
-    "_id": "sap-sipper"
+    "Name": "Rock Head",
+    "Effect": "This Pokemon will not receive damage from Recoil.",
+    "Description": "The head and body of the Pokemon are so resistant that they barely feel anything. Careful as they bump into things without even noticing.",
+    "_id": "rock-head"
   },
   {
-    "Name": "Sand Stream",
-    "Effect": "When this Pokemon comes out, it automatically starts the effects of Sandstorm Weather. The effects end when the Pokemon leaves the battle. (In case of stalemate the Pokemon with higher Will, might keep the dominant weather)",
-    "Description": "The Pokemon can activate a raging sandstorm around itself that will last for as long as it wants.",
-    "_id": "sand-stream"
+    "Name": "Rough Skin",
+    "Effect": "Whenever this Pokemon is hit with a Non-Ranged Physical Attack, Roll 1 Die of damage against the attacker. ",
+    "Description": "Use Protection on your hands when touching this Pokemon. Its body is covered by sharp scales or barbs that get hooked into the skin.",
+    "_id": "rough-skin"
   },
   {
-    "Name": "Scrappy",
-    "Effect": "This Pokemon has the ability to hit Ghost-type Pokemon with Normal-type and Fighting-type moves, dealing Regular Damage. Apply the right resistances or weaknesses to the foe if it has a secondary type.",
-    "Description": "This Pokemon does not believe in ghosts.",
-    "_id": "scrappy"
+    "Name": "Rivalry",
+    "Effect": "If this Pokemon has a foe of the same gender, Increase 1 Point to its Strength Attribute. If the foe is the opposite gender, Reduce 1 Point to its Strength Attribute.",
+    "Description": "The Pokemon will be very competitive with others to prove its position as the alpha of the group, however, it will try to gain the favor of possible mates.",
+    "_id": "rivalry"
   },
   {
-    "Name": "Schooling",
-    "Effect": "Only Wishiwashi can use this Ability. When this Pokemon reaches half or less of its HP its allies will arrive, when they do, replace your Pokemon for Wishiwashi School-Form at full HP. Increase its Rank to Pro. At the end of the battle restore Wishiwashi to its base form. (Healing/Fainting/Recalling prevents allies from arriving)",
-    "Description": "When this Pokemon is threatened, it calls thousands of allies to create an uncontrollable monster. The closer to the sea, the faster they arrive.",
-    "_id": "schooling"
-  },
-  {
-    "Name": "Serene Grace",
-    "Effect": "Add 2 Extra Chance Dice to all effects done by this Pokemon. (e.g. A move has 3 Chance Dice to Flinch the foe, will roll 5 Dice with this Pokemon)",
-    "Description": "This Pokemon will bring good luck as if it was blessed by the heavens. Its presence is soothing, it makes you feel calm and full of joy.",
-    "_id": "serene-grace"
+    "Name": "Sand Rush",
+    "Effect": "If Sandstorm Weather is in effect, increase 1 Point to the Dexterity Attibute of this Pokemon. The Pokemon is immune to damage from Sandstorm Weather.",
+    "Description": "While sand whips across the battlefield, the Pokemon can paddle through it as if it was water.",
+    "_id": "sand-rush"
   },
   {
     "Name": "Sand Spit",
@@ -1236,16 +1200,76 @@
     "_id": "sand-spit"
   },
   {
+    "Name": "Sap Sipper",
+    "Effect": "The first time this Pokemon is hit by a Grass-type attack, Increase 1 Point to its Strength Attribute instead of dealing damage. Grass-type moves do not deal damage to this Pokemon.",
+    "Description": "This Pokemon's diet consists strickly of plants, it is particularly fond of sweet sap for nourishment.",
+    "_id": "sap-sipper"
+  },
+  {
+    "Name": "Scrappy",
+    "Effect": "This Pokemon has the ability to hit Ghost-type Pokemon with Normal-type and Fighting-type moves, dealing Regular Damage. Apply the right resistances or weaknesses to the foe if it has a secondary type.",
+    "Description": "This Pokemon does not believe in ghosts.",
+    "_id": "scrappy"
+  },
+  {
+    "Name": "Sand Veil",
+    "Effect": "If Sandstorm Weather is in effect, increase 1 Point to the Evasion of this Pokemon. The Pokemon is immune to damage from Sandstorm weather.",
+    "Description": "The Pokemon's body is easily concealed by sand particles in the air.",
+    "_id": "sand-veil"
+  },
+  {
+    "Name": "Sand Stream",
+    "Effect": "When this Pokemon comes out, it automatically starts the effects of Sandstorm Weather. The effects end when the Pokemon leaves the battle. (In case of stalemate the Pokemon with higher Will, might keep the dominant weather)",
+    "Description": "The Pokemon can activate a raging sandstorm around itself that will last for as long as it wants.",
+    "_id": "sand-stream"
+  },
+  {
+    "Name": "Schooling",
+    "Effect": "Only Wishiwashi can use this Ability. When this Pokemon reaches half or less of its HP its allies will arrive, when they do, replace your Pokemon for Wishiwashi School-Form at full HP. Increase its Rank to Pro. At the end of the battle restore Wishiwashi to its base form. (Healing/Fainting/Recalling prevents allies from arriving)",
+    "Description": "When this Pokemon is threatened, it calls thousands of allies to create an uncontrollable monster. The closer to the sea, the faster they arrive.",
+    "_id": "schooling"
+  },
+  {
     "Name": "Screen Cleaner",
     "Effect": "When this Pokemon enters the field, remove any barries (i.e.Light Screen, Reflect etc.) on both the user and the foe's side of the field.",
     "Description": "This Pokemon is constantly cleaning an invisible screen, it cleans them so well that even real glass screens can disappear after it is done with them.",
     "_id": "screen-cleaner"
   },
   {
+    "Name": "Shadow Dance",
+    "Effect": "If New Moon is in effect, increase 1 Point to the Dexterity Attibute of this Pokemon.",
+    "Description": "",
+    "_id": "shadow-dance"
+  },
+  {
     "Name": "Shed Skin",
     "Effect": "At the end of the round. If this Pokemon has a Status Condition, it rolls 3 Chance Dice to heal itself.",
     "Description": "This Pokemon is constantly growing skin anew and molting the old one when it becomes too damaged.",
     "_id": "shed-skin"
+  },
+  {
+    "Name": "Shadow Tag",
+    "Effect": "All foes become Blocked. Ghost-type Pokemon are immune to this effect. Pokemon with the same ability are immune to this effect.",
+    "Description": "The Pokemon steps on the opponent's shadow, preventing them from moving too far.",
+    "_id": "shadow-tag"
+  },
+  {
+    "Name": "Serene Grace",
+    "Effect": "Add 2 Extra Chance Dice to all effects done by this Pokemon. (e.g. A move has 3 Chance Dice to Flinch the foe, will roll 5 Dice with this Pokemon)",
+    "Description": "This Pokemon will bring good luck as if it was blessed by the heavens. Its presence is soothing, it makes you feel calm and full of joy.",
+    "_id": "serene-grace"
+  },
+  {
+    "Name": "Sheer Force",
+    "Effect": "Whenever this Pokemon uses an attack with chance dice for an additional effect, you may ignore those chance dice and add 2 Dice to its damage pool.",
+    "Description": "This Pokemon is only interested in showing off its incredible battle prowess.",
+    "_id": "sheer-force"
+  },
+  {
+    "Name": "Shield Dust",
+    "Effect": "If this Pokemon is hit by an attack with chance dice for an additional effect, it won't be affected by said effects.",
+    "Description": "This Pokemon constantly generates specs of dust to shield and protect itself.",
+    "_id": "shield-dust"
   },
   {
     "Name": "Shadow Call",
@@ -1260,10 +1284,10 @@
     "_id": "shadow-shield"
   },
   {
-    "Name": "Sheer Force",
-    "Effect": "Whenever this Pokemon uses an attack with chance dice for an additional effect, you may ignore those chance dice and add 2 Dice to its damage pool.",
-    "Description": "This Pokemon is only interested in showing off its incredible battle prowess.",
-    "_id": "sheer-force"
+    "Name": "Simple",
+    "Effect": "If this Pokemon gets an Attribute reduced, reduce 1 more Point. If this Pokemon gets an Attribute increased, increase 1 more Point.",
+    "Description": "This Pokemon's ingenious mind is easily swayed by not only its own, but also outside influences. It often finds ways to simplify things.",
+    "_id": "simple"
   },
   {
     "Name": "Shields Down",
@@ -1278,28 +1302,10 @@
     "_id": "shell-armor"
   },
   {
-    "Name": "Shadow Dance",
-    "Effect": "If New Moon is in effect, increase 1 Point to the Dexterity Attibute of this Pokemon.",
+    "Name": "Sleet",
+    "Effect": "If this Pokemon is in the field during Hail weather. All Pokemon that are not immune to Hail receive 2 damage rather than 1.",
     "Description": "",
-    "_id": "shadow-dance"
-  },
-  {
-    "Name": "Shield Dust",
-    "Effect": "If this Pokemon is hit by an attack with chance dice for an additional effect, it won't be affected by said effects.",
-    "Description": "This Pokemon constantly generates specs of dust to shield and protect itself.",
-    "_id": "shield-dust"
-  },
-  {
-    "Name": "Simple",
-    "Effect": "If this Pokemon gets an Attribute reduced, reduce 1 more Point. If this Pokemon gets an Attribute increased, increase 1 more Point.",
-    "Description": "This Pokemon's ingenious mind is easily swayed by not only its own, but also outside influences. It often finds ways to simplify things.",
-    "_id": "simple"
-  },
-  {
-    "Name": "Slush Rush",
-    "Effect": "If Hail Weather is in effect, increase 1 Point to the Dexterity Attribute of this Pokemon. The Pokemon is immune to damage from Hail Weather.",
-    "Description": "The Pokemon is used to run and hunt on icy terrain, moving swiftly through the snow during blizzards and ice storms.",
-    "_id": "slush-rush"
+    "_id": "sleet"
   },
   {
     "Name": "Snow Cloak",
@@ -1308,40 +1314,16 @@
     "_id": "snow-cloak"
   },
   {
-    "Name": "Shadow Tag",
-    "Effect": "All foes become Blocked. Ghost-type Pokemon are immune to this effect. Pokemon with the same ability are immune to this effect.",
-    "Description": "The Pokemon steps on the opponent's shadow, preventing them from moving too far.",
-    "_id": "shadow-tag"
-  },
-  {
-    "Name": "Sleet",
-    "Effect": "If this Pokemon is in the field during Hail weather. All Pokemon that are not immune to Hail receive 2 damage rather than 1.",
-    "Description": "",
-    "_id": "sleet"
-  },
-  {
-    "Name": "Slow Start",
-    "Effect": "During the first 5 Rounds of a battle, this Pokemon will always go last in the initiative order. After those 5 Rounds are over, Increase 2 points to its Strength and Dexterity Attributes, and it will always go first in the initiative order. This effect resets if the Pokemon is called out of combat.",
-    "Description": "The Pokemon has remained dormant for thousand of years, its movements are heavy and slow, run away before it unleashes its full power.",
-    "_id": "slow-start"
-  },
-  {
-    "Name": "Sniper",
-    "Effect": "If this Pokemon lands a Critical Hit, it will get 3 Bonus Dice to the Damage Pool of its attack instead of the regular 2.",
-    "Description": "This Pokemon will stealthily locate itself in an advantageous position to strike its foe's weak spots.",
-    "_id": "sniper"
-  },
-  {
     "Name": "Snow Warning",
     "Effect": "When this Pokemon comes out, it automatically starts the effects of Hail Weather. The effects end when the Pokemon leaves the battle. (In case of stalemate the Pokemon with higher Will might keep the dominant weather)",
     "Description": "The Pokemon is able to call a terrible hailstorm at will. Snow will cover the battlefield and sharp ice shards will come plummeting from the sky.",
     "_id": "snow-warning"
   },
   {
-    "Name": "Solar Power",
-    "Effect": "While Sunny Weather is in effect, Increase 2 Points to this Pokemon's Special Attribute. If Sunny weather is in effect, this Pokemon will receive 1 damage at the end of the round.",
-    "Description": "The Pokemon is capable of overcharging itself with energy from the sun, making it more powerful but also taking a toll on its body.",
-    "_id": "solar-power"
+    "Name": "Slow Start",
+    "Effect": "During the first 5 Rounds of a battle, this Pokemon will always go last in the initiative order. After those 5 Rounds are over, Increase 2 points to its Strength and Dexterity Attributes, and it will always go first in the initiative order. This effect resets if the Pokemon is called out of combat.",
+    "Description": "The Pokemon has remained dormant for thousand of years, its movements are heavy and slow, run away before it unleashes its full power.",
+    "_id": "slow-start"
   },
   {
     "Name": "Skill Link",
@@ -1356,6 +1338,36 @@
     "_id": "solid-rock"
   },
   {
+    "Name": "Sniper",
+    "Effect": "If this Pokemon lands a Critical Hit, it will get 3 Bonus Dice to the Damage Pool of its attack instead of the regular 2.",
+    "Description": "This Pokemon will stealthily locate itself in an advantageous position to strike its foe's weak spots.",
+    "_id": "sniper"
+  },
+  {
+    "Name": "Solar Power",
+    "Effect": "While Sunny Weather is in effect, Increase 2 Points to this Pokemon's Special Attribute. If Sunny weather is in effect, this Pokemon will receive 1 damage at the end of the round.",
+    "Description": "The Pokemon is capable of overcharging itself with energy from the sun, making it more powerful but also taking a toll on its body.",
+    "_id": "solar-power"
+  },
+  {
+    "Name": "Soundproof",
+    "Effect": "This Pokemon is immune to the damage and effects of all Sound-based moves.",
+    "Description": "This Pokemon's body is structured to protect it from noises that might disturb its peace and focus. So it's not ignoring you, it just can't hear you.",
+    "_id": "soundproof"
+  },
+  {
+    "Name": "Speed Swap",
+    "Effect": "When this Pokemon comes out, it automatically starts the effects of Trick Room. The effects end when the Pokemon leaves the battle.",
+    "Description": "",
+    "_id": "speed-swap"
+  },
+  {
+    "Name": "Slush Rush",
+    "Effect": "If Hail Weather is in effect, increase 1 Point to the Dexterity Attribute of this Pokemon. The Pokemon is immune to damage from Hail Weather.",
+    "Description": "The Pokemon is used to run and hunt on icy terrain, moving swiftly through the snow during blizzards and ice storms.",
+    "_id": "slush-rush"
+  },
+  {
     "Name": "Spectral Jaws",
     "Effect": "If this Pokemon uses a move with the Keywords: Fang, Bite or Crunch, add 1 Extra Dice to the Damage Pool of that Move. These moves are all converted to Special.",
     "Description": "",
@@ -1368,28 +1380,10 @@
     "_id": "stall"
   },
   {
-    "Name": "Soul Heart",
-    "Effect": "If a foe faints because of an attack dealt by this Pokemon, Increase 1 Point to its Special Attribute. Up to 3 points can be increased this way.",
-    "Description": "This Pokemon is naturally caring and nurturing and if there's a threat to its loved ones, its soul will be made stronger out of love.",
-    "_id": "soul-heart"
-  },
-  {
-    "Name": "Soundproof",
-    "Effect": "This Pokemon is immune to the damage and effects of all Sound-based moves.",
-    "Description": "This Pokemon's body is structured to protect it from noises that might disturb its peace and focus. So it's not ignoring you, it just can't hear you.",
-    "_id": "soundproof"
-  },
-  {
-    "Name": "Stakeout",
-    "Effect": "Whenever a Foe Pokemon switches out, this Pokemon will inflict 1 additional Damage with its first successful attack to its replacement.",
-    "Description": "The Pokemon is constantly surveilling its environment, looking out for possible prey, attacking them when they are most vulnerable.",
-    "_id": "stakeout"
-  },
-  {
-    "Name": "Speed Swap",
-    "Effect": "When this Pokemon comes out, it automatically starts the effects of Trick Room. The effects end when the Pokemon leaves the battle.",
-    "Description": "",
-    "_id": "speed-swap"
+    "Name": "Speed Boost",
+    "Effect": "At the end of the Round, Increase 1 Point to this Pokemon's Dexterity Attribute. Up to 3 Points might be added this way.",
+    "Description": "This Pokemon will start maneuvering at an accelerated rate, it will move as if it blinked from place to place.",
+    "_id": "speed-boost"
   },
   {
     "Name": "Spirit Call",
@@ -1398,16 +1392,16 @@
     "_id": "spirit-call"
   },
   {
+    "Name": "Soul Heart",
+    "Effect": "If a foe faints because of an attack dealt by this Pokemon, Increase 1 Point to its Special Attribute. Up to 3 points can be increased this way.",
+    "Description": "This Pokemon is naturally caring and nurturing and if there's a threat to its loved ones, its soul will be made stronger out of love.",
+    "_id": "soul-heart"
+  },
+  {
     "Name": "Stance Change",
     "Effect": "Only Aegislash may use this Ability. At the beginning of the round, choose a Form. While in Sword Stance it can only use Attack moves. While in Shield Stance, it can only use Support Moves. Adjust its Attributes according to the Rank and Limits it has for each Form.",
     "Description": "This Pokemon can change forms and become a mighty shield or a powerful blade. It's attributes switch upon a change of stance.",
     "_id": "stance-change"
-  },
-  {
-    "Name": "Stalwart",
-    "Effect": "Ignore any Moves or Abilities that would redirect this Pokemon's Moves into another target. (i.e. The Move “Follow Me”, the Ability “Lightining Rod” etc.)",
-    "Description": "The Pokemon naturally has a high sense of duty and loyalty, once you give it a task it will not stay until its quest is complete.",
-    "_id": "stalwart"
   },
   {
     "Name": "Stamina",
@@ -1416,34 +1410,22 @@
     "_id": "stamina"
   },
   {
+    "Name": "Stalwart",
+    "Effect": "Ignore any Moves or Abilities that would redirect this Pokemon's Moves into another target. (i.e. The Move “Follow Me”, the Ability “Lightining Rod” etc.)",
+    "Description": "The Pokemon naturally has a high sense of duty and loyalty, once you give it a task it will not stay until its quest is complete.",
+    "_id": "stalwart"
+  },
+  {
     "Name": "Steadfast",
     "Effect": "The first time this Pokemon is affected by Flinch, Increase 1 Point to its Dexterity Attribute.",
     "Description": "This Pokemon becomes even more dependable when adversity strikes.",
     "_id": "steadfast"
   },
   {
-    "Name": "Speed Boost",
-    "Effect": "At the end of the Round, Increase 1 Point to this Pokemon's Dexterity Attribute. Up to 3 Points might be added this way.",
-    "Description": "This Pokemon will start maneuvering at an accelerated rate, it will move as if it blinked from place to place.",
-    "_id": "speed-boost"
-  },
-  {
-    "Name": "Steam Engine",
-    "Effect": "The first time this Pokemon is hit with a Fire or Water-Type Move. Increase 3 Points to its Dexterity Atribute.",
-    "Description": "The Pokemon works as a steam furnace, with a bit of fire and water it can move anything at great speeds. It also loves to eat coal.",
-    "_id": "steam-engine"
-  },
-  {
-    "Name": "Steelworker",
-    "Effect": "Steel-Type Attacks used by this Pokemon get 1 Extra Die to their Damage Pool.",
-    "Description": "The Pokemon is capable of molding and eating steel, giving shape and a sharper edge to whatever metal it touches.",
-    "_id": "steelworker"
-  },
-  {
-    "Name": "Steely Spirit",
-    "Effect": "Steel-Type Attacks used by this Pokemon and Allies get 1 Extra Die to their Damage Pool.",
-    "Description": "The Pokemon has a balky behaviour most of the time. if it sets its mind to something it will see it done. Infuriating and inspiring at the same time.",
-    "_id": "steely-spirit"
+    "Name": "Stakeout",
+    "Effect": "Whenever a Foe Pokemon switches out, this Pokemon will inflict 1 additional Damage with its first successful attack to its replacement.",
+    "Description": "The Pokemon is constantly surveilling its environment, looking out for possible prey, attacking them when they are most vulnerable.",
+    "_id": "stakeout"
   },
   {
     "Name": "Static",
@@ -1452,10 +1434,10 @@
     "_id": "static"
   },
   {
-    "Name": "Sticky Hold",
-    "Effect": "This Pokemon's Held Item cannot be removed, stolen or swapped by Moves or Abilities.",
-    "Description": "This Pokemon's body is always oozing adhesive substances, if something gets glued, it will be very difficult to remove.",
-    "_id": "sticky-hold"
+    "Name": "Steam Engine",
+    "Effect": "The first time this Pokemon is hit with a Fire or Water-Type Move. Increase 3 Points to its Dexterity Atribute.",
+    "Description": "The Pokemon works as a steam furnace, with a bit of fire and water it can move anything at great speeds. It also loves to eat coal.",
+    "_id": "steam-engine"
   },
   {
     "Name": "Stench",
@@ -1464,10 +1446,16 @@
     "_id": "stench"
   },
   {
-    "Name": "Strong Jaw",
-    "Effect": "If this Pokemon uses a move with the Keywords: Fang, Bite or Crunch, add 1 Extra Dice to the Damage Pool of that Move.",
-    "Description": "The Pokemon's strong jaw gives it tremendous biting power. Its teeth can tear through almost anything.",
-    "_id": "strong-jaw"
+    "Name": "Sturdy",
+    "Effect": "The first time this Pokemon would faint due to a Damaging move, it will remain at 1 HP instead. Status Conditions and Self inflicted damage will still cause it to faint. The Pokemon must rest for an hour before benefiting from Sturdy again.",
+    "Description": "This Pokemon's body is extremely resistant to damage, it can withstand almost anything.",
+    "_id": "sturdy"
+  },
+  {
+    "Name": "Steely Spirit",
+    "Effect": "Steel-Type Attacks used by this Pokemon and Allies get 1 Extra Die to their Damage Pool.",
+    "Description": "The Pokemon has a balky behaviour most of the time. if it sets its mind to something it will see it done. Infuriating and inspiring at the same time.",
+    "_id": "steely-spirit"
   },
   {
     "Name": "Storm Drain",
@@ -1476,16 +1464,16 @@
     "_id": "storm-drain"
   },
   {
-    "Name": "Sturdy",
-    "Effect": "The first time this Pokemon would faint due to a Damaging move, it will remain at 1 HP instead. Status Conditions and Self inflicted damage will still cause it to faint. The Pokemon must rest for an hour before benefiting from Sturdy again.",
-    "Description": "This Pokemon's body is extremely resistant to damage, it can withstand almost anything.",
-    "_id": "sturdy"
+    "Name": "Steelworker",
+    "Effect": "Steel-Type Attacks used by this Pokemon get 1 Extra Die to their Damage Pool.",
+    "Description": "The Pokemon is capable of molding and eating steel, giving shape and a sharper edge to whatever metal it touches.",
+    "_id": "steelworker"
   },
   {
-    "Name": "Suction Cups",
-    "Effect": "The Pokemon is immune to effects that force switches.",
-    "Description": "This Pokemon's limbs contain suckers that allow it to stay rooted in place. It can stick to any kind of surface, even upside down.",
-    "_id": "suction-cups"
+    "Name": "Strong Jaw",
+    "Effect": "If this Pokemon uses a move with the Keywords: Fang, Bite or Crunch, add 1 Extra Dice to the Damage Pool of that Move.",
+    "Description": "The Pokemon's strong jaw gives it tremendous biting power. Its teeth can tear through almost anything.",
+    "_id": "strong-jaw"
   },
   {
     "Name": "Super Luck",
@@ -1494,28 +1482,16 @@
     "_id": "super-luck"
   },
   {
-    "Name": "Surge Surfer",
-    "Effect": "If Electric Terrain is in effect, Increase 2 Points to this Pokemon's Dexterity Attribute.",
-    "Description": "This Pokemon's magnetic field allows it to stand and surf on top of electric currents as if it were floating.",
-    "_id": "surge-surfer"
+    "Name": "Suction Cups",
+    "Effect": "The Pokemon is immune to effects that force switches.",
+    "Description": "This Pokemon's limbs contain suckers that allow it to stay rooted in place. It can stick to any kind of surface, even upside down.",
+    "_id": "suction-cups"
   },
   {
-    "Name": "Tangled Feet",
-    "Effect": "While this Pokemon is Confused, Add an extra -2 “Reduced Accuracy” to all the foe's Moves which target this Pokemon.",
-    "Description": "The Pokemon moves in a very strange and particular way when dizzy or confused, this usually works to its advantage.",
-    "_id": "tangled-feet"
-  },
-  {
-    "Name": "Sweet Veil",
-    "Effect": "The Pokemon and its allies are immune to the Sleep status. Increase random encounters with Wild Pokemon.",
-    "Description": "This Pokemon's delicious aroma will wake the appetite of all Pokemon nearby.",
-    "_id": "sweet-veil"
-  },
-  {
-    "Name": "Symbiosis",
-    "Effect": "If an ally loses or spends its Held Item, this Pokemon will immediately give the one it's holding to the ally as a free action. ",
-    "Description": "This Pokemon enjoys forming a beneficial reletionship with any ally it teams up with.",
-    "_id": "symbiosis"
+    "Name": "Sticky Hold",
+    "Effect": "This Pokemon's Held Item cannot be removed, stolen or swapped by Moves or Abilities.",
+    "Description": "This Pokemon's body is always oozing adhesive substances, if something gets glued, it will be very difficult to remove.",
+    "_id": "sticky-hold"
   },
   {
     "Name": "Supercell",
@@ -1524,10 +1500,16 @@
     "_id": "supercell"
   },
   {
-    "Name": "Teravolt",
-    "Effect": "If a Move, Item or Ability would prevent this Pokemon from targeting a foe or inflicting an effect, ignore it. (e.g. A Pokemon with Immunity can be Poisoned, A Pokemon with Levitate can be hit by Ground moves).",
-    "Description": "There's a ball of blue lightning coming out of this Pokemon that prevents its foes from being out of reach, no matter what you do, it will zap you.",
-    "_id": "teravolt"
+    "Name": "Swarm",
+    "Effect": "When this Pokemon's HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Bug-Type Moves, and they will get 1 extra die to their Damage Pool. ",
+    "Description": "The Pokemon enters a hive mind state when its life is on the line, becoming more feral and aggressive.",
+    "_id": "swarm"
+  },
+  {
+    "Name": "Sweet Veil",
+    "Effect": "The Pokemon and its allies are immune to the Sleep status. Increase random encounters with Wild Pokemon.",
+    "Description": "This Pokemon's delicious aroma will wake the appetite of all Pokemon nearby.",
+    "_id": "sweet-veil"
   },
   {
     "Name": "Tangling Hair",
@@ -1542,10 +1524,10 @@
     "_id": "swift-swim"
   },
   {
-    "Name": "Thick Fat",
-    "Effect": "Reduce by 1 the damage taken from Fire and Ice-Type moves.",
-    "Description": "This Pokemon's body has a thick layer of blubber that protects it against against harsh temperatures.",
-    "_id": "thick-fat"
+    "Name": "Surge Surfer",
+    "Effect": "If Electric Terrain is in effect, Increase 2 Points to this Pokemon's Dexterity Attribute.",
+    "Description": "This Pokemon's magnetic field allows it to stand and surf on top of electric currents as if it were floating.",
+    "_id": "surge-surfer"
   },
   {
     "Name": "Synchronize",
@@ -1560,28 +1542,16 @@
     "_id": "technician"
   },
   {
-    "Name": "Swarm",
-    "Effect": "When this Pokemon's HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Bug-Type Moves, and they will get 1 extra die to their Damage Pool. ",
-    "Description": "The Pokemon enters a hive mind state when its life is on the line, becoming more feral and aggressive.",
-    "_id": "swarm"
+    "Name": "Symbiosis",
+    "Effect": "If an ally loses or spends its Held Item, this Pokemon will immediately give the one it's holding to the ally as a free action. ",
+    "Description": "This Pokemon enjoys forming a beneficial reletionship with any ally it teams up with.",
+    "_id": "symbiosis"
   },
   {
-    "Name": "Torrent",
-    "Effect": "When this Pokemon's HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Water-Type Moves, and they will get 1 Extra Die to their Damage Pool.",
-    "Description": "This Pokemon builds up pressure to shoot water streams. When that pressure cannot be held in, it is released through uncontrollable torrents.",
-    "_id": "torrent"
-  },
-  {
-    "Name": "Telepathy",
-    "Effect": "This Pokemon won't receive damage from moves performed by its allies.",
-    "Description": "This Pokemon can communicate using telepathy. It can send messages to other minds but it cannot receive messages back.",
-    "_id": "telepathy"
-  },
-  {
-    "Name": "Tinted Lens",
-    "Effect": "If a foe has a resistance against an attack performed by this Pokemon, make that attack deal Regular Damage instead. If the foe has a double resistance, make the attack as if the foe had only one.",
-    "Description": "This Pokemon's goggle-like eyes can find the good side in every bad situation, even when there is none.",
-    "_id": "tinted-lens"
+    "Name": "Tangled Feet",
+    "Effect": "While this Pokemon is Confused, Add an extra -2 “Reduced Accuracy” to all the foe's Moves which target this Pokemon.",
+    "Description": "The Pokemon moves in a very strange and particular way when dizzy or confused, this usually works to its advantage.",
+    "_id": "tangled-feet"
   },
   {
     "Name": "Tough Claws",
@@ -1590,58 +1560,34 @@
     "_id": "tough-claws"
   },
   {
-    "Name": "Triage",
-    "Effect": "Add Pritority +1 to all Support moves of this Pokemon that Heal HP or cure Status Ailments.",
-    "Description": "The Pokemon feels the urgency to treat the injured; it is also very quick to stitch and make knots. A skill often used to instantly mend wounds.",
-    "_id": "triage"
+    "Name": "Torrent",
+    "Effect": "When this Pokemon's HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Water-Type Moves, and they will get 1 Extra Die to their Damage Pool.",
+    "Description": "This Pokemon builds up pressure to shoot water streams. When that pressure cannot be held in, it is released through uncontrollable torrents.",
+    "_id": "torrent"
   },
   {
-    "Name": "Unaware",
-    "Effect": "This Pokemon ignores any of the opponent's Attribute increases or decreases. Both when attacking and taking damage.",
-    "Description": "The Pokemon is oblivious to many details in its surroundings, it will rarely take notice of things going on.",
-    "_id": "unaware"
+    "Name": "Thick Fat",
+    "Effect": "Reduce by 1 the damage taken from Fire and Ice-Type moves.",
+    "Description": "This Pokemon's body has a thick layer of blubber that protects it against against harsh temperatures.",
+    "_id": "thick-fat"
   },
   {
-    "Name": "Toxic Boost",
-    "Effect": "If this Pokemon gets the Poison or Badly Poison Status, Increase 2 Point to its Strength Attribute.",
-    "Description": "The blood of this Pokemon boils and goes into a powerful rampage whenever it is afflicted by poison.",
-    "_id": "toxic-boost"
+    "Name": "Telepathy",
+    "Effect": "This Pokemon won't receive damage from moves performed by its allies.",
+    "Description": "This Pokemon can communicate using telepathy. It can send messages to other minds but it cannot receive messages back.",
+    "_id": "telepathy"
   },
   {
-    "Name": "Turboblaze",
+    "Name": "Teravolt",
     "Effect": "If a Move, Item or Ability would prevent this Pokemon from targeting a foe or inflicting an effect, ignore it. (e.g. A Pokemon with Immunity can be Poisoned, A Pokemon with Levitate can be hit by Ground moves).",
-    "Description": "The Pokemon surrounds everything with a giant ball of swirling flames that prevents its foes from being out of reach, there is no escaping the heat.",
-    "_id": "turboblaze"
+    "Description": "There's a ball of blue lightning coming out of this Pokemon that prevents its foes from being out of reach, no matter what you do, it will zap you.",
+    "_id": "teravolt"
   },
   {
-    "Name": "Truant",
-    "Effect": "Roll this Pokemon's Loyalty every other turn, and score at least 2 successes. If the roll fails this Pokemon refuses to act. If it is successful it may act normally.",
-    "Description": "This Pokemon is extremely lazy, it won't make even the tiniest effort and often loafs off even in the heat of battle.",
-    "_id": "truant"
-  },
-  {
-    "Name": "Unburden",
-    "Effect": "The first time this Pokemon loses or spends its held item and is no longer holding any, Increase 2 Points to its Dexterity Attribute.",
-    "Description": "This Pokemon is most comfortable when it is freed from having to carry stuff around. It loves to be able to move without restrictions.",
-    "_id": "unburden"
-  },
-  {
-    "Name": "Unnerve",
-    "Effect": "Opponents may not consume their held berry while this Pokemon is in the field.",
-    "Description": "It may be its powerful gaze or its menacing presence, but others near this Pokemon become really nervous to the point where they lose their appetite.",
-    "_id": "unnerve"
-  },
-  {
-    "Name": "Unleafed",
-    "Effect": "When Mega evolving or on switch in. Increase the user's Strength, Defense, Special, Special Defense and Dexterity by 1. These boosts lasts for X + 1 turns where X is the number of fainted Pokemon in this Pokemon's team.",
-    "Description": "",
-    "_id": "unleafed"
-  },
-  {
-    "Name": "Vaporization",
-    "Effect": "All Water Type moves including Support moves will fail. Water Type Pokemon take 1 damage per round.",
-    "Description": "",
-    "_id": "vaporization"
+    "Name": "Tinted Lens",
+    "Effect": "If a foe has a resistance against an attack performed by this Pokemon, make that attack deal Regular Damage instead. If the foe has a double resistance, make the attack as if the foe had only one.",
+    "Description": "This Pokemon's goggle-like eyes can find the good side in every bad situation, even when there is none.",
+    "_id": "tinted-lens"
   },
   {
     "Name": "Trace",
@@ -1650,34 +1596,64 @@
     "_id": "trace"
   },
   {
-    "Name": "Vital Spirit",
-    "Effect": "The Pokemon is immune to the Sleep status.",
-    "Description": "The Pokemon is incredibly active and energetic. It needs constant activity and exercise or else it will act destructive. It never sleeps.",
-    "_id": "vital-spirit"
+    "Name": "Toxic Boost",
+    "Effect": "If this Pokemon gets the Poison or Badly Poison Status, Increase 2 Point to its Strength Attribute.",
+    "Description": "The blood of this Pokemon boils and goes into a powerful rampage whenever it is afflicted by poison.",
+    "_id": "toxic-boost"
+  },
+  {
+    "Name": "Truant",
+    "Effect": "Roll this Pokemon's Loyalty every other turn, and score at least 2 successes. If the roll fails this Pokemon refuses to act. If it is successful it may act normally.",
+    "Description": "This Pokemon is extremely lazy, it won't make even the tiniest effort and often loafs off even in the heat of battle.",
+    "_id": "truant"
+  },
+  {
+    "Name": "Unaware",
+    "Effect": "This Pokemon ignores any of the opponent's Attribute increases or decreases. Both when attacking and taking damage.",
+    "Description": "The Pokemon is oblivious to many details in its surroundings, it will rarely take notice of things going on.",
+    "_id": "unaware"
+  },
+  {
+    "Name": "Unburden",
+    "Effect": "The first time this Pokemon loses or spends its held item and is no longer holding any, Increase 2 Points to its Dexterity Attribute.",
+    "Description": "This Pokemon is most comfortable when it is freed from having to carry stuff around. It loves to be able to move without restrictions.",
+    "_id": "unburden"
+  },
+  {
+    "Name": "Unleafed",
+    "Effect": "When Mega evolving or on switch in. Increase the user's Strength, Defense, Special, Special Defense and Dexterity by 1. These boosts lasts for X + 1 turns where X is the number of fainted Pokemon in this Pokemon's team.",
+    "Description": "",
+    "_id": "unleafed"
+  },
+  {
+    "Name": "Unnerve",
+    "Effect": "Opponents may not consume their held berry while this Pokemon is in the field.",
+    "Description": "It may be its powerful gaze or its menacing presence, but others near this Pokemon become really nervous to the point where they lose their appetite.",
+    "_id": "unnerve"
+  },
+  {
+    "Name": "Vaporization",
+    "Effect": "All Water Type moves including Support moves will fail. Water Type Pokemon take 1 damage per round.",
+    "Description": "",
+    "_id": "vaporization"
+  },
+  {
+    "Name": "Triage",
+    "Effect": "Add Pritority +1 to all Support moves of this Pokemon that Heal HP or cure Status Ailments.",
+    "Description": "The Pokemon feels the urgency to treat the injured; it is also very quick to stitch and make knots. A skill often used to instantly mend wounds.",
+    "_id": "triage"
+  },
+  {
+    "Name": "Turboblaze",
+    "Effect": "If a Move, Item or Ability would prevent this Pokemon from targeting a foe or inflicting an effect, ignore it. (e.g. A Pokemon with Immunity can be Poisoned, A Pokemon with Levitate can be hit by Ground moves).",
+    "Description": "The Pokemon surrounds everything with a giant ball of swirling flames that prevents its foes from being out of reach, there is no escaping the heat.",
+    "_id": "turboblaze"
   },
   {
     "Name": "Vampiric",
     "Effect": "When using a contact move, the user restores hp equal to a quarter of the damage dealt, rounded down.",
     "Description": "",
     "_id": "vampiric"
-  },
-  {
-    "Name": "Wandering Spirit",
-    "Effect": "If this Pokemon hits a Foe with a Non-Ranged Physical Attack, it switches its Ability with the Foe's. Some Abilities (Flower Gift, Illusion, Imposter, Stance Change, Wonder Guard etc.) can't be switched at Storyteller's discretion.",
-    "Description": "The Pokemon is a wandering ghost with a haunted expression on its face. It won't heed your call and might get lost floating aimlessly. Get to a medium to heal it.",
-    "_id": "wandering-spirit"
-  },
-  {
-    "Name": "Water Bubble",
-    "Effect": "Fire-Type Moves deal 1 less damage to this Pokemon. This Pokemon is immune to Burn 1 and Burn 2 Status. Add 2 Extra Dice to the Damage Pool of this Pokemon's Water-Type Moves.",
-    "Description": "The Pokemon is shielded by water bubble. Stragely, the bubble has clear water inside instead of air.",
-    "_id": "water-bubble"
-  },
-  {
-    "Name": "Volt Absorb",
-    "Effect": "Whenever this Pokemon is hit by an Electric-Type Move, you may Heal 1 HP instead of receiving damage. Electric-type moves do not deal damage to this Pokemon.",
-    "Description": "This Pokemon's body is practically a battery that is always happy to become charged to full capacity.",
-    "_id": "volt-absorb"
   },
   {
     "Name": "Venomous",
@@ -1692,22 +1668,28 @@
     "_id": "victory-star"
   },
   {
+    "Name": "Vital Spirit",
+    "Effect": "The Pokemon is immune to the Sleep status.",
+    "Description": "The Pokemon is incredibly active and energetic. It needs constant activity and exercise or else it will act destructive. It never sleeps.",
+    "_id": "vital-spirit"
+  },
+  {
     "Name": "Water Absorb",
     "Effect": "Whenever this Pokemon is hit by a Water-Type Move, you may Heal 1 HP instead of receiving damage. Water-type moves do not deal damage to this Pokemon.",
     "Description": "The Pokemon's body is mostly made of water, it stores water inside itself and uses it for nourishment.",
     "_id": "water-absorb"
   },
   {
-    "Name": "Water Veil",
-    "Effect": "The Pokemon is immune to any of the Burn status.",
-    "Description": "This Pokemon is always wet and producing water to keep itself moist. Thanks to this, the Pokemon can stay away from a body of water for a long time.",
-    "_id": "water-veil"
+    "Name": "Wandering Spirit",
+    "Effect": "If this Pokemon hits a Foe with a Non-Ranged Physical Attack, it switches its Ability with the Foe's. Some Abilities (Flower Gift, Illusion, Imposter, Stance Change, Wonder Guard etc.) can't be switched at Storyteller's discretion.",
+    "Description": "The Pokemon is a wandering ghost with a haunted expression on its face. It won't heed your call and might get lost floating aimlessly. Get to a medium to heal it.",
+    "_id": "wandering-spirit"
   },
   {
-    "Name": "White Smoke",
-    "Effect": "Foes cannot reduce the Attributes of this Pokemon. However, it can still lower its own Attributes.",
-    "Description": "The Pokemon is constantly releasing fumes of white smoke making it difficult to be seen. It uses the smoke to conceal itself.",
-    "_id": "white-smoke"
+    "Name": "Volt Absorb",
+    "Effect": "Whenever this Pokemon is hit by an Electric-Type Move, you may Heal 1 HP instead of receiving damage. Electric-type moves do not deal damage to this Pokemon.",
+    "Description": "This Pokemon's body is practically a battery that is always happy to become charged to full capacity.",
+    "_id": "volt-absorb"
   },
   {
     "Name": "Water Compaction",
@@ -1716,10 +1698,10 @@
     "_id": "water-compaction"
   },
   {
-    "Name": "Weak Armor",
-    "Effect": "The first time this Pokemon is hit by any Physical Attack, Increase 1 Point to its Dexterity Attribute and Reduce 1 Point to its Defense.",
-    "Description": "This Pokemon's protective outer layers can come off, allowing it to move freely and be more agile.",
-    "_id": "weak-armor"
+    "Name": "Water Veil",
+    "Effect": "The Pokemon is immune to any of the Burn status.",
+    "Description": "This Pokemon is always wet and producing water to keep itself moist. Thanks to this, the Pokemon can stay away from a body of water for a long time.",
+    "_id": "water-veil"
   },
   {
     "Name": "Wind Force",
@@ -1728,16 +1710,10 @@
     "_id": "wind-force"
   },
   {
-    "Name": "Wimp Out",
-    "Effect": "Whenever this Pokemon reaches half of its total HP, it will switch out to its pokeball, sending an Ally to take its place. If there is no Ally, the battle may end. This Ability's effect is not affected by Block.",
-    "Description": "The Pokemon goes into a lot of stress whenever its exoskeleton is weakened, it can escape from any situation out of sheer cowardice.",
-    "_id": "wimp-out"
-  },
-  {
-    "Name": "Wonder Skin",
-    "Effect": "Reduce up to 2 Chance Dice from foes against this Pokemon. (Example: The move Ember has 1 Chance Dice to Burn the foe, against this Pokemon it has zero Chance Dice).",
-    "Description": "The skin of this Pokemon is covered by a thin protective veil that allows it to weaken dangerous hazards.",
-    "_id": "wonder-skin"
+    "Name": "Weak Armor",
+    "Effect": "The first time this Pokemon is hit by any Physical Attack, Increase 1 Point to its Dexterity Attribute and Reduce 1 Point to its Defense.",
+    "Description": "This Pokemon's protective outer layers can come off, allowing it to move freely and be more agile.",
+    "_id": "weak-armor"
   },
   {
     "Name": "Wonder Guard",
@@ -1746,9 +1722,33 @@
     "_id": "wonder-guard"
   },
   {
+    "Name": "Water Bubble",
+    "Effect": "Fire-Type Moves deal 1 less damage to this Pokemon. This Pokemon is immune to Burn 1 and Burn 2 Status. Add 2 Extra Dice to the Damage Pool of this Pokemon's Water-Type Moves.",
+    "Description": "The Pokemon is shielded by water bubble. Stragely, the bubble has clear water inside instead of air.",
+    "_id": "water-bubble"
+  },
+  {
+    "Name": "Wonder Skin",
+    "Effect": "Reduce up to 2 Chance Dice from foes against this Pokemon. (Example: The move Ember has 1 Chance Dice to Burn the foe, against this Pokemon it has zero Chance Dice).",
+    "Description": "The skin of this Pokemon is covered by a thin protective veil that allows it to weaken dangerous hazards.",
+    "_id": "wonder-skin"
+  },
+  {
+    "Name": "White Smoke",
+    "Effect": "Foes cannot reduce the Attributes of this Pokemon. However, it can still lower its own Attributes.",
+    "Description": "The Pokemon is constantly releasing fumes of white smoke making it difficult to be seen. It uses the smoke to conceal itself.",
+    "_id": "white-smoke"
+  },
+  {
     "Name": "Zen Mode",
     "Effect": "Only Darmanitan may use this Ability. When at half or less of its HP, change to Zen Mode Form at the end of the Round. Use its Zen Mode Form from then on. Adjust its Attributes according to the Rank and Limits it has for each Form.",
     "Description": "Under extreme stress, this Pokemon will unlock its hidden psychic abilities through the power of meditation, it will go back to normal the next day.",
     "_id": "zen-mode"
+  },
+  {
+    "Name": "Wimp Out",
+    "Effect": "Whenever this Pokemon reaches half of its total HP, it will switch out to its pokeball, sending an Ally to take its place. If there is no Ally, the battle may end. This Ability's effect is not affected by Block.",
+    "Description": "The Pokemon goes into a lot of stress whenever its exoskeleton is weakened, it can escape from any situation out of sheer cowardice.",
+    "_id": "wimp-out"
   }
 ]
